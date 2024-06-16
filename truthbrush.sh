@@ -52,7 +52,7 @@ truthbrush statuses glennbeck > glennbeck.json
 truthbrush statuses AlexJones > AlexJones.json
 truthbrush statuses GOPMajorityWhip > GOPMajorityWhip.json
 truthbrush statuses MIGOP > MIGOP.json
-truthbrush statuses vivekgramaswamy > vivekgramaswamy.json
+truthbrush statuses maga420 > maga420.json
 truthbrush statuses DC_Draino > DC_Draino.json
 truthbrush statuses JohnRich > JohnRich.json
 truthbrush statuses seanhannity > seanhannity.json
@@ -70,7 +70,7 @@ truthbrush statuses AmericaFirstLegal > AmericaFirstLegal.json
 truthbrush statuses DineshDSouza > DineshDSouza.json
 truthbrush statuses BrandonStraka > BrandonStraka.json
 truthbrush statuses tednugent > tednugent.json
-truthbrush statuses marklevinshow > marklevinshow.json
+truthbrush statuses jrmajewski4congress > jrmajewski4congress.json
 truthbrush statuses RSBN > RSBN.json
 truthbrush statuses MelaniaTrump > MelaniaTrump.json
 truthbrush statuses TomFitton > TomFitton.json
