@@ -1,0 +1,226 @@
+(truthbrush-py3.10) eyamrog@Rog-ASUS:~/work/truthbrush/cl_st1_renata_truthbrush_raw_data$ ll
+total 20
+drwxr-xr-x 2 eyamrog eyamrog 4096 Jun 16 17:17 ./
+drwxr-xr-x 8 eyamrog eyamrog 4096 Jun 10 15:09 ../
+-rw-r--r-- 1 eyamrog eyamrog 5197 Jun 16 17:16 truthbrush.sh
+-rw-r--r-- 1 eyamrog eyamrog   55 Jun 16 17:16 truthbrush.sh:Zone.Identifier 
+(truthbrush-py3.10) eyamrog@Rog-ASUS:~/work/truthbrush/cl_st1_renata_truthbrush_raw_data$ bash truthbrush.sh
+2024-06-16 17:22:56.042 | WARNING  | truthbrush.api:__check_login:64 - Using token e6nGcwOWD7AUgxKjaWA09phrJJJAKAv03q4aNtqT8V0
+2024-06-16 17:23:29.765 | WARNING  | truthbrush.api:__check_login:64 - Using token JlK0sFyqt946xxY3RQDQIsbtyDRqzBIXil20vBFf9C8
+2024-06-16 17:26:30.100 | WARNING  | truthbrush.api:__check_login:64 - Using token iycTiXlYoCGkNsQnXuScaMtwhalTcIIJzRTgCIzlVHE
+2024-06-16 17:27:08.797 | WARNING  | truthbrush.api:__check_login:64 - Using token j2plcN2LBBjq7tY_hV72IlY98023YGTPGQnHMBB9-AQ
+2024-06-16 17:27:18.524 | WARNING  | truthbrush.api:__check_login:64 - Using token v07PbR7KSVzmk3GK30G0Sw3Je6yugWKNY3AcHcQ7QBc
+2024-06-16 17:27:31.813 | WARNING  | truthbrush.api:__check_login:64 - Using token P8AdupzGqMgX6yPfYLgWOeAoZQzOTrxKImnCqWNOcrA
+2024-06-16 17:27:34.509 | WARNING  | truthbrush.api:__check_login:64 - Using token Nd7M_L9wrAR_YdR5KQJBkdJfCE58CjTdXPaa8BlB4oI
+2024-06-16 17:28:08.414 | WARNING  | truthbrush.api:__check_login:64 - Using token O0-3O0b62A-QP95t8thJkCzHXGWi_8M15DaIDkurKXQ
+2024-06-16 17:33:25.259 | WARNING  | truthbrush.api:__check_login:64 - Using token xSaMafqAsEyF8I0L_JYWafjU4rXnUiQOG59twu4NpAg
+2024-06-16 17:33:44.095 | WARNING  | truthbrush.api:__check_login:64 - Using token NQ-sN3Tuj3B4WTfZAYllONA5hw80VJPkELnfyChRX7Y
+2024-06-16 17:33:51.521 | WARNING  | truthbrush.api:__check_login:64 - Using token Ipx-XFpTHCfkvY2PkGU0YBMQEuD5EGZj_bTzciDYMHM
+2024-06-16 17:42:03.250 | WARNING  | truthbrush.api:__check_login:64 - Using token 7lMgbO-OFjivOemNdEGlnpLxXbD-3i3Gu5EACuOqW6o
+2024-06-16 17:42:11.576 | WARNING  | truthbrush.api:__check_login:64 - Using token p4lOuJ-Y404BEGv-x___tF-U4hsq2pR3Di0gDwVAbdY
+2024-06-16 17:42:13.014 | WARNING  | truthbrush.api:__check_login:64 - Using token OdpWIP1aekUB8W780i7K78PxsIOm_n83f1PUi_KNUHQ
+2024-06-16 17:42:16.005 | WARNING  | truthbrush.api:__check_login:64 - Using token 5_lDm8dakmnd3o9hktycTf_UlVQGYRTanMdvxlA7L9o
+2024-06-16 17:46:26.658 | WARNING  | truthbrush.api:__check_login:64 - Using token b6Pz82Gi3Saq3U7sXPZfggWnfjykamhjF3vr_g7kmxU
+2024-06-16 17:58:40.135 | WARNING  | truthbrush.api:__check_login:64 - Using token cCqFQlHG1FeilqUGxu6JZcFRrVhCpkmjjngTs_Rz4h4
+2024-06-16 18:03:42.654 | ERROR    | truthbrush.api:_get:113 - Failed to decode JSON: <!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->   
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->   
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->    
+<head>
+
+
+<title>truthsocial.com | 502: Bad gateway</title>
+<meta charset="UTF-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />        
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<meta name="robots" content="noindex, nofollow" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />        
+<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/main.css" /> 
+
+
+</head>
+<body>
+<div id="cf-wrapper">
+    <div id="cf-error-details" class="p-0">
+        <header class="mx-auto pt-10 lg:pt-6 lg:px-8 w-240 lg:w-full mb-8">  
+            <h1 class="inline-block sm:block sm:mb-2 font-light text-60 lg:text-4xl text-black-dark leading-tight mr-2">
+              <span class="inline-block">Bad gateway</span>
+              <span class="code-label">Error code 502</span>
+            </h1>
+            <div>
+               Visit <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_502&utm_campaign=truthsocial.com" target="_blank" rel="noopener noreferrer">cloudflare.com</a> for more information.
+            </div>
+            <div class="mt-3">2024-06-16 21:03:42 UTC</div>
+        </header>
+        <div class="my-8 bg-gradient-gray">
+            <div class="w-240 lg:w-full mx-auto">
+                <div class="clearfix md:px-8">
+
+<div id="cf-browser-status" class=" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">
+  <div class="relative mb-10 md:m-0">
+    
+    <span class="cf-icon-browser block md:hidden h-20 bg-center bg-no-repeat"></span>
+    <span class="cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
+    
+  </div>
+  <span class="md:block w-full truncate">You</span>
+  <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">
+    
+    Browser
+    
+  </h3>
+  <span class="leading-1.3 text-2xl text-green-success">Working</span>       
+</div>
+
+<div id="cf-cloudflare-status" class=" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">
+  <div class="relative mb-10 md:m-0">
+    <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_502&utm_campaign=truthsocial.com" target="_blank" rel="noopener noreferrer">
+    <span class="cf-icon-cloud block md:hidden h-20 bg-center bg-no-repeat"></span>
+    <span class="cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
+    </a>
+  </div>
+  <span class="md:block w-full truncate">Americana</span>
+  <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">
+    <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_502&utm_campaign=truthsocial.com" target="_blank" rel="noopener noreferrer">
+    Cloudflare
+    </a>
+  </h3>
+  <span class="leading-1.3 text-2xl text-green-success">Working</span>       
+</div>
+
+<div id="cf-host-status" class="cf-error-source relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">
+  <div class="relative mb-10 md:m-0">
+    
+    <span class="cf-icon-server block md:hidden h-20 bg-center bg-no-repeat"></span>
+    <span class="cf-icon-error w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
+    
+  </div>
+  <span class="md:block w-full truncate">truthsocial.com</span>
+  <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">
+    
+    Host
+    
+  </h3>
+  <span class="leading-1.3 text-2xl text-red-error">Error</span>
+</div>
+
+                </div>
+            </div>
+        </div>
+
+        <div class="w-240 lg:w-full mx-auto mb-8 lg:px-8">
+            <div class="clearfix">
+                <div class="w-1/2 md:w-full float-left pr-6 md:pb-10 md:pr-0 leading-relaxed">
+                    <h2 class="text-3xl font-normal leading-1.3 mb-4">What happened?</h2>
+                    <p>The web server reported a bad gateway error.</p>      
+                </div>
+                <div class="w-1/2 md:w-full float-left leading-relaxed">     
+                    <h2 class="text-3xl font-normal leading-1.3 mb-4">What can I do?</h2>
+                    <p class="mb-6">Please try again in a few minutes.</p>   
+                </div>
+            </div>
+        </div>
+
+        <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
+  <p class="text-13">
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">894dbf64af5e27ff</strong></span>
+    <span class="cf-footer-separator sm:hidden">&bull;</span>
+    <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
+      Your IP:
+      <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
+      <span class="hidden" id="cf-footer-ip">189.120.73.98</span>
+      <span class="cf-footer-separator sm:hidden">&bull;</span>
+    </span>
+    <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_502&utm_campaign=truthsocial.com" id="brand_link" target="_blank">Cloudflare</a></span>
+    
+  </p>
+  <script>(function(){function d(){var b=a.getElementById("cf-footer-item-ip"),c=a.getElementById("cf-footer-ip-reveal");b&&"classList"in b&&(b.classList.remove("hidden"),c.addEventListener("click",function(){c.classList.add("hidden");a.getElementById("cf-footer-ip").classList.remove("hidden")}))}var a=document;document.addEventListener&&a.addEventListener("DOMContentLoaded",d)})();</script>
+</div><!-- /.error-footer -->
+
+
+    </div>
+</div>
+</body>
+</html>
+
+Traceback (most recent call last):
+  File "/home/eyamrog/.cache/pypoetry/virtualenvs/truthbrush-NdbDHZ0E-py3.10/bin/truthbrush", line 6, in <module>
+    sys.exit(cli())
+  File "/home/eyamrog/.cache/pypoetry/virtualenvs/truthbrush-NdbDHZ0E-py3.10/lib/python3.10/site-packages/click/core.py", line 1157, in __call__
+    return self.main(*args, **kwargs)
+  File "/home/eyamrog/.cache/pypoetry/virtualenvs/truthbrush-NdbDHZ0E-py3.10/lib/python3.10/site-packages/click/core.py", line 1078, in main
+    rv = self.invoke(ctx)
+  File "/home/eyamrog/.cache/pypoetry/virtualenvs/truthbrush-NdbDHZ0E-py3.10/lib/python3.10/site-packages/click/core.py", line 1688, in invoke
+    return _process_result(sub_ctx.command.invoke(sub_ctx))
+  File "/home/eyamrog/.cache/pypoetry/virtualenvs/truthbrush-NdbDHZ0E-py3.10/lib/python3.10/site-packages/click/core.py", line 1434, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+  File "/home/eyamrog/.cache/pypoetry/virtualenvs/truthbrush-NdbDHZ0E-py3.10/lib/python3.10/site-packages/click/core.py", line 783, in invoke
+    return __callback(*args, **kwargs)
+  File "/home/eyamrog/work/truthbrush/truthbrush/cli.py", line 165, in statuses
+    for page in api.pull_statuses(
+  File "/home/eyamrog/work/truthbrush/truthbrush/api.py", line 361, in pull_statuses
+    if "error" in result:
+TypeError: argument of type 'NoneType' is not iterable
+2024-06-16 18:03:51.588 | WARNING  | truthbrush.api:__check_login:64 - Using token zWqHmbFZEAPc85r-0O6AbRU23m7xJvAAcU8SF1VLlzs
+2024-06-16 18:30:51.157 | WARNING  | truthbrush.api:__check_login:64 - Using token FhdGtJSVDsWkAX0yrVaS0htQVrMQ9ASggjjwZg2xGps
+2024-06-16 18:30:53.187 | WARNING  | truthbrush.api:__check_login:64 - Using token -m26vt4W3UK5VEK0bDbbF9w1POy73pcOPiYjemWlcsE
+2024-06-16 18:34:15.057 | WARNING  | truthbrush.api:__check_login:64 - Using token gNSqCcbNM_Se9uLrvkMn3bixEYtOL7d4rqSh1H5f2vE
+2024-06-16 18:34:24.131 | WARNING  | truthbrush.api:__check_login:64 - Using token PgDi5aqJyE7MEnOpyLLvNZwSTjawOQ0XO80Zh2XKvvc
+2024-06-16 18:34:25.411 | WARNING  | truthbrush.api:__check_login:64 - Using token D58N-Y_He6Az_ieYnHss5ckLxc5xVL8_c-CwBURc30s
+2024-06-16 18:36:35.897 | WARNING  | truthbrush.api:__check_login:64 - Using token snrOAE7X7lLJP76tyaRUHSP1teGQkFPdZuwjjKyEQAI
+2024-06-16 18:36:59.222 | WARNING  | truthbrush.api:__check_login:64 - Using token X9uevb2ZOhmHXBjNIOg0-nkeUX6uklimXNOyq_OLl7o
+2024-06-16 18:37:06.139 | WARNING  | truthbrush.api:__check_login:64 - Using token jG_a5YWbB2eLurd9gsSn9RcNPqZTU3yark7Ah5HhC_M
+2024-06-16 18:48:55.166 | WARNING  | truthbrush.api:__check_login:64 - Using token D4W3d37HMn-wuWBBMUsE8SsGDm78fcGoFSTpoK7Mphg
+2024-06-16 18:56:49.943 | WARNING  | truthbrush.api:__check_login:64 - Using token dYqtm4Q03KB7e5kmxsqyRQdBeKGNlXy1faqeP5cLo40
+2024-06-16 19:03:48.292 | WARNING  | truthbrush.api:__check_login:64 - Using token AbsE_Wt1VCNulFHgjVVdWxZYYxHte9caEbhiN6JT1gQ
+B4DdGSTnkjacwfM4sJHSxo3jC6PpgQIY
+2024-06-16 19:33:36.014 | WARNING  | truthbrush.api:__check_login:64 - Using token 9KKNlxUXyyvYduCvaPHGwnxqUhSVv8I0-7roHCFiGw8
+2024-06-16 19:37:29.271 | WARNING  | truthbrush.api:__check_login:64 - Using token 9N1y3i85bYq31sNlDBo0wyORi7HiV8NBqgxe8JxcqYo
+2024-06-16 19:38:11.899 | WARNING  | truthbrush.api:__check_login:64 - Using token PoCtBb3LOOHaPWkXo6vC_x33ixE_Znb1i97EdClBwqw
+2024-06-16 19:38:27.378 | WARNING  | truthbrush.api:__check_login:64 - Using token A-R9VGdGnPWTmWr8eoHkmKMjGMwuWd_ujG5D9LGUjLk
+2024-06-16 19:40:45.912 | WARNING  | truthbrush.api:__check_login:64 - Using token lvUzW3tV0dO1ybI1auVSzs4ZjNW46F5gtmXXyIm85do
+2024-06-16 19:40:56.166 | WARNING  | truthbrush.api:__check_login:64 - Using token 26MogUPlds_nzCIDpLrCuHItKZ-gGVjvllGIwCWhpBI
+2024-06-16 19:41:10.727 | WARNING  | truthbrush.api:__check_login:64 - Using token RadwA1h58kn2OfsBUeJOz-K30p63alzaXXxFSeYxFvc
+2024-06-16 19:41:14.362 | WARNING  | truthbrush.api:__check_login:64 - Using token tt5WSfu5TTjE_ck3ftVSEVhRL_ZaukrH3HaeXDLcpy4
+2024-06-16 19:41:20.456 | WARNING  | truthbrush.api:__check_login:64 - Using token bLa5ivOWkxzc9reTISj2SeH3MRbAdOUV6uMDQ9JRumU
+2024-06-16 19:41:24.204 | WARNING  | truthbrush.api:__check_login:64 - Using token SjbhFgIQ1PNNAfmL3lo3ukEsBeyFU1qBrqntHbzYYCk
+2024-06-16 19:44:15.418 | WARNING  | truthbrush.api:__check_login:64 - Using token YPve3cZVuYC9HKkhFVuWOXyIptmYVffhcNHAF_xjXj0
+2024-06-16 19:44:19.162 | WARNING  | truthbrush.api:__check_login:64 - Using token AeT4LKbySi33GC8dQt3oSo2YmrU5Ft187ouk6lkl5cQ
+2024-06-16 19:44:41.028 | WARNING  | truthbrush.api:__check_login:64 - Using token c4kM_W3VUPbwMYtL9gZdtGJvXOMIGNR7jDfrELxbaXs
+2024-06-16 19:45:16.358 | WARNING  | truthbrush.api:__check_login:64 - Using token Kk87uCeBaDIYYdfZJ1kWTWKJ633eXFP3StY9L1i4nBE
+2024-06-16 19:48:12.527 | WARNING  | truthbrush.api:__check_login:64 - Using token BPFBCn2wVCuVPOUchYZ5F8YYzvwkwIv4mV-T2btDvSs
+2024-06-16 19:48:16.778 | WARNING  | truthbrush.api:__check_login:64 - Using token yApmipMY_b-bC80akU8P4Rj0st50XOOixzdvHir5ijk
+2024-06-16 19:56:27.235 | WARNING  | truthbrush.api:__check_login:64 - Using token a1aGNlYohAbsp33aOtVw_HssWO2rR0keoGbUeM02GHM
+2024-06-16 19:56:49.415 | WARNING  | truthbrush.api:__check_login:64 - Using token DICJh-4_pO_LO31l0b1EORJwbNxfY7PSvj0CJ72aavU
+2024-06-16 19:57:25.031 | WARNING  | truthbrush.api:__check_login:64 - Using token XB65SZwYN4olTbEu5YkJotFlA00i_36pqg6Q8mdVOog
+2024-06-16 19:57:30.643 | WARNING  | truthbrush.api:__check_login:64 - Using token S08XgNB1wRkk3WY_eK1Ds843ouyk-phfWZH4s2BVfuM
+2024-06-16 19:59:57.050 | WARNING  | truthbrush.api:__check_login:64 - Using token iaHysGA4u7zRz0H5BDM-JuMO2mKUUXZvvW-zkYfvyME
+2024-06-16 20:00:00.434 | WARNING  | truthbrush.api:__check_login:64 - Using token JcpgI2mF55knIahqxygl7TejZ-e9bN6JH1sqKVOLyiE
+2024-06-16 20:01:15.697 | WARNING  | truthbrush.api:__check_login:64 - Using token _moN9O7_tdLNfqesuhTq8D02G1BKzoji8mPcxhurMNw
+2024-06-16 20:07:06.729 | WARNING  | truthbrush.api:__check_login:64 - Using token J5AgUMnw-dlp5kHqJRQWKvo3PYtibyAzFWKXOXu7ew8
+2024-06-16 20:08:57.641 | WARNING  | truthbrush.api:__check_login:64 - Using token b0w8NB1Gd5KydA4hdS4xw1u7R80BQMihtaT5tGna6FM
+2024-06-16 20:09:20.040 | WARNING  | truthbrush.api:__check_login:64 - Using token sy-GHKoE2UxSP7SIBDiYcnkXR-owvLeRSJZsjRdo2Ls
+2024-06-16 20:09:41.109 | WARNING  | truthbrush.api:__check_login:64 - Using token laZi1H-5b1oLctL99iMzRS-8klX7cfgo-zXvqQAEUjo
+2024-06-16 20:16:04.045 | WARNING  | truthbrush.api:__check_login:64 - Using token eqFaI0-5MuJTB7vth95DlJnnUl8PF_i0v9MBpcyJ_LA
+2024-06-16 20:18:09.261 | WARNING  | truthbrush.api:__check_login:64 - Using token VBdd5p8HU62gg1OP500jrUnO14w5yfeJtQyFS3D26Ww
+2024-06-16 20:26:09.693 | WARNING  | truthbrush.api:__check_login:64 - Using token aKDS1rE3QT6LckyQReXvCocwzu9bEdUJoAny2ZBV-5c
+2024-06-16 20:30:51.395 | WARNING  | truthbrush.api:__check_login:64 - Using token 8N95uYaFSF7KW8bbTXu8Uo1QaDNCP5q1Fkdk8bEPirg
+2024-06-16 20:30:53.315 | WARNING  | truthbrush.api:__check_login:64 - Using token -B1a9SaTAdBgy51OhRPIawVx-dTpuoOsnVG9praaXgc
+2024-06-16 20:31:00.395 | WARNING  | truthbrush.api:__check_login:64 - Using token ClpUB-RFFNQFeAglTh_OHS8RLL1DazA8LsIG0ICkaIE
+2024-06-16 20:31:49.400 | WARNING  | truthbrush.api:__check_login:64 - Using token ovK3_o_1wZosnfvLl5ezdIGazueY6pA2uMeIYS5jax0
+2024-06-16 20:31:54.595 | WARNING  | truthbrush.api:__check_login:64 - Using token 7w_mmgMGf_gkZ3inD3dtkEcec1VV_PIus0t00gxSr-E
+2024-06-16 20:33:07.220 | WARNING  | truthbrush.api:__check_login:64 - Using token BfFy2JZwLhU1VE5x0vi-D4L66jHAVWqCtZiBFfbNXVE
+2024-06-16 20:33:38.559 | WARNING  | truthbrush.api:__check_login:64 - Using token U_-dBfEOjmrIdlUgq9XrKtMj7QBfqnXyZ4AU_37kfXw
+2024-06-16 20:34:40.125 | WARNING  | truthbrush.api:__check_login:64 - Using token y1JjNLXNr0J6x6NOKNlfztmnH9qIc7UIkN05gcl_uiM
+2024-06-16 20:34:52.090 | WARNING  | truthbrush.api:__check_login:64 - Using token -I2zEy2VCC3exStSsWZ34KWOUQDjj9yfcPi2V4kALR8
+2024-06-16 20:35:21.902 | WARNING  | truthbrush.api:__check_login:64 - Using token zOyETzZ5M1ONR-Legbt8bNt2HeI-noOEEUwpBvXUquA
+2024-06-16 20:35:25.955 | WARNING  | truthbrush.api:__check_login:64 - Using token 74CKOGiTKAgwi-OzoovHsFkgOPNE_UNlkzoGbaZNwUY
+2024-06-16 20:37:22.105 | WARNING  | truthbrush.api:__check_login:64 - Using token 1VIKebK9iBNWbFuRF1MWd5Jot4n2HLnvq3RdXyuIpv8
+2024-06-16 20:39:39.555 | WARNING  | truthbrush.api:__check_login:64 - Using token ZBuwRTAaWHIQmCzJ2jk18qq5vUS3lo-pnfZ1ib_Tj7g
+2024-06-16 20:41:43.579 | WARNING  | truthbrush.api:__check_login:64 - Using token PmLjE1MQk-TBq8oQ9DL5ArAwmvsvrXcrNqQevWErHQI
+2024-06-16 20:47:17.650 | WARNING  | truthbrush.api:__check_login:64 - Using token NNn_kgpd0myJ_4WCCaBFunb0GCgYUl8ShdjO-xVTrMo
+2024-06-16 20:54:32.159 | WARNING  | truthbrush.api:__check_login:64 - Using token mfiz5cbelKpK0I9CNY_M3HHz2CdO51nwgh5MyEuozGI
+2024-06-16 21:12:44.997 | WARNING  | truthbrush.api:__check_login:64 - Using token u__mCas8FmE3Z5_G7ShkEPJaUnPYNxKjw1vTIlRflfo
+2024-06-16 21:16:20.264 | WARNING  | truthbrush.api:__check_login:64 - Using token kW8N6K80Lo_s7jd3If7R0OJyk4dHc1dFxiDWAGJERgk
+(truthbrush-py3.10) eyamrog@Rog-ASUS:~/work/truthbrush/cl_st1_renata_truthbrush_raw_data$ 
