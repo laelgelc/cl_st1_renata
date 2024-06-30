@@ -11,7 +11,8 @@ do
   echo "--- tokenstypes $text / $last ---"
 #  rg $text tweets/tagged.txt | cut -d'|' -f5 | sed 's/c://' | tr '~' '\n' | rg  '	VERB|	ADJ|	NOUN|	HASHTAG|	EMOJI' | rg -v -e '<unknown>' -e '\&amp' | cut -f3 | rg -v '^_h' | sed -e "s/\([\*\.\!?,'/()\":;$\-]\)/ \1 /g" | tr ' ' '\n' | rg '[a-z]' | rg -v '^.$' > b
   rg $text tweets/tagged.txt | cut -d'|' -f5 | sed 's/c://' | tr '~' '\n' | rg  '	VB|	VBD|	VBG|	VBN|	VBP|	VBZ|	JJ|	JJR|	JJS|	NN|	NNS|	NPS|	HASHTAG|	EMOJI' | rg -v -e '<unknown>' -e '\&amp' | cut -f3 | rg -v '^_h' | sed -e "s/\([\*\.\!?,'/()\":;$\-]\)/ \1 /g" | tr ' ' '\n' | rg '[a-z]' | rg -v '^.$' > b
-  sed -e '/^ser$/d' -e '/^estar$/d' -e '/^haver$/d' b | tr '\n' ' ' | tr -d '#' | tr '[:upper:]' '[:lower:]' | tr -s ' ' | sed "s/^/"$text"|c:/" >> tweets/tokens.txt
+#  sed -e '/^ser$/d' -e '/^estar$/d' -e '/^haver$/d' b | tr '\n' ' ' | tr -d '#' | tr '[:upper:]' '[:lower:]' | tr -s ' ' | sed "s/^/"$text"|c:/" >> tweets/tokens.txt
+  sed -e '/^be$/d' -e '/^have$/d' b | tr '\n' ' ' | tr -d '#' | tr '[:upper:]' '[:lower:]' | tr -s ' ' | sed "s/^/"$text"|c:/" >> tweets/tokens.txt
   echo >> tweets/tokens.txt
   tr -d '#' < b | tr '[:upper:]' '[:lower:]' | sort | uniq | tr '\n' ' ' | tr -s ' ' | sed "s/^/"$text"|c:/" >> tweets/types.txt
   echo >> tweets/types.txt
