@@ -193,3 +193,11 @@
 / meatwuk7mk$/d
 / mtmhdrwlgt$/d
 / ewq7q7qlrp$/d
+/ utm_medium=social&utm_source=truthsocial$/d
+/ utm_source=truthsocial$/d
+/ utm_source=bg1$/d
+/ utm_source=ddg1$/d
+/ utm_source=89384$/d
+/ utm_source=cb&utm_medium=djd$/d
+/ utm_source=je99&utm_medium=twitter$/d
+
