@@ -4,7 +4,7 @@
 /* account: CEPRIL */
 
 /* Replace all occurrences of this project ID by yours and create a folder named after it */
-%let project = cl_st1_renata ;
+%let project = cl_st1_ph2_renata ;
 
 %let myfolder = &project ;
 
@@ -1238,7 +1238,7 @@ data filelist;
   input root;
   retain filename dname ' ' level 0 dir 1;
 cards4;
-/home/u63529080/cl_st1_renata
+/home/u63529080/cl_st1_ph2_renata
 ;;;;
 run;
 
