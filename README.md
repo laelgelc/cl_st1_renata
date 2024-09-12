@@ -12,3 +12,10 @@ eyamrog@Rog-ASUS:/mnt/c/Users/eyamr/Downloads$ tar xzvf CL_St1_Ph1_Renata_Result
 <omitted>
 eyamrog@Rog-ASUS:/mnt/c/Users/eyamr/Downloads$ 
 ```
+
+## `wcount.py`
+
+`NLTK` now requires `punkt_tab` instead of `punkt`
+
+-From: `nltk.download('punkt')`
+-To: `nltk.download('punkt_tab')`
