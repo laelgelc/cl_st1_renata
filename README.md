@@ -17,5 +17,5 @@ eyamrog@Rog-ASUS:/mnt/c/Users/eyamr/Downloads$
 
 `NLTK` now requires `punkt_tab` instead of `punkt`
 
--From: `nltk.download('punkt')`
--To: `nltk.download('punkt_tab')`
+- From: `nltk.download('punkt')`
+- To: `nltk.download('punkt_tab')`
