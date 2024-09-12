@@ -206,7 +206,7 @@ done < files
 examples () {
 
 # enter project name
-project=cl_st1_renata
+project=cl_st1_ph2_renata
 
 # enter how many examples to be picked for each pole:    
 pickexamples=50
