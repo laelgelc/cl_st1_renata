@@ -14,9 +14,9 @@ eyamrog@Rog-ASUS:/mnt/c/Users/eyamr/Downloads$ tar xzvf CL_St1_Ph2_Renata_Result
 eyamrog@Rog-ASUS:/mnt/c/Users/eyamr/Downloads$ 
 ```
 
-### Analysis of ' 
+### Analysis of `words loading` and `factor score` in `examples`
 
-examples_f1_neg_000006.txt
+#### examples_f1_neg_000006.txt
 file = t032294
 date = 2022-10-10
 user = JennaEllisEsq
@@ -37,6 +37,8 @@ breaking_nn
 conservative_nns 
 free_jj 
 speech_nn 
+
+
 
 
 ### Maintenance required in `wcount.py`
