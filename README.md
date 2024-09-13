@@ -37,9 +37,42 @@ Lemmas in this text that loaded on the factor:
 breaking_nn 
 conservative_nns 
 free_jj 
-speech_nn 
+speech_nn
+
 ```
 
+#### examples_f1_neg_000007.txt
+```
+file = t034973
+date = 2023-11-11
+user = JewelsJones
+conversation = 107834595014675536
+URL = https://truthsocial.com/@JewelsJones/111389357957191503
+
+word count = 97
+words loading = 5
+factor score = -4
+
+1 . **police_car_light_e** **police_car_light_e** **police_car_light_e** 
+Exciting news alert! Nashville is currently being taken by storm! A vibrant 
+group of America First, freedom-loving patriots, proudly calling themselves 
+#littermates_h, are making their mark! You know what they say, If you can ' t 
+beat them, join them! Well, guess what? You can do just that! Get ready for the 
+incredible Turdstock ' 23 , broadcasting LIVE from the fantastic Redneck 
+Riviera, @rnrbarnas. Although tickets are sold out, don ' t fret, because we ' 
+ll be live-streaming everything straight from @rnrbarnash! Brace yourself for 
+an electrifying lineup featuring the incredible talents of @Catturd2 and 
+@JohnRich, with a mind-blowing performance by Big$Rich 
+
+Lemmas in this text that loaded on the factor:
+
+live_jj 
+news_nn 
+patriot_nns 
+police_car_light_e 
+storm_nn (secondary)
+
+```
 
 
 ### Maintenance required in `wcount.py`
