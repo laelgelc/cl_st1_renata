@@ -16,6 +16,8 @@ eyamrog@Rog-ASUS:/mnt/c/Users/eyamr/Downloads$
 
 ### Analysis of `words loading` and `factor score` in `examples`
 
+The results of `examples.sh` seem to be consistent. In `examples_f1_neg_000006.txt`, `words loading` = 4 because there are 4 lemmas the loaded on the factor. In `examples_f1_neg_000007.txt`, `words loading` = 5 because there are 5 lemmas the loaded on the factor. Notice that the posts were written by distinct users.
+
 #### examples_f1_neg_000006.txt
 ```
 file = t032294
@@ -74,6 +76,114 @@ storm_nn (secondary)
 
 ```
 
+The examples of **factor 1, positive pole** are polarised by texts of user `maxjett12` who appears to make heavy use of the same set of 24 hashtags. Those hastags stand out in the dimension because of repeated use despite the fact that the text in the posts being different from each other.
+
+##### examples_f1_pos_000001.txt
+```
+file = t060272
+date = 2024-05-07
+user = maxjett12
+conversation = 108319249994754560
+URL = https://truthsocial.com/@maxjett12/112400228788246078
+
+word count = 99
+words loading = 24
+factor score = 23
+
+The FBI improperly performed warrantless searches on more than a 
+quarter-million U. S. citizens in a single year, a 127-page court filing 
+unsealed Friday by the Foreign Intelligence Surveillance Court ( FISA ) , in 
+the latest instance of FBI abuse of its powers to make the FBI conducted more 
+than 278 , 000 illegitimate queries on citizens, including some George Floyd 
+protestors and more than nineteen thousand donors to a Congressional campaign, 
+in the 12 months ending November 2021 . **#xteam_h** **#dt47_h** 
+**#truthtrain_h** **#phpnews_h** **#tcd_h** **#nightshift_h** 
+**#lilypadlounge_h** **#fhfnews_h** **#rpn_h** **#ratpack_h** **#twgrp_h** 
+**#thefungicrew_h** **#5dnews_h** **#wtpafu_h** **#trump2024_h** 
+**#murchmadness_h** **#ncswic_h** **#maga2024_h** **#maga_h** **#fbj_h** 
+**#truth_h** **#trumpwon_h** **#wethepeople_h** **#trump_h** 
+
+Lemmas in this text that loaded on the factor:
+
+5dnews_h 
+dt47_h 
+fbj_h 
+fhfnews_h 
+lilypadlounge_h 
+maga2024_h 
+maga_h 
+murchmadness_h 
+ncswic_h 
+nightshift_h 
+phpnews_h 
+ratpack_h 
+rpn_h 
+tcd_h 
+thefungicrew_h 
+trump2024_h 
+trump_h 
+trumpwon_h 
+truth_h 
+truthtrain_h 
+twgrp_h 
+wethepeople_h (secondary)
+wtpafu_h 
+xteam_h 
+
+```
+
+##### examples_f1_pos_000002.txt
+```
+file = t060270
+date = 2024-05-07
+user = maxjett12
+conversation = 108319249994754560
+URL = https://truthsocial.com/@maxjett12/112400509393007470
+
+word count = 97
+words loading = 24
+factor score = 23
+
+Senator John Judas Thune of South Dakota, the #2_h Republican in the Senate and 
+career politician voted to confirm these six Biden cabinet nominations: Merrick 
+Brian Garland, of Maryland, attorney general Gina Marie Raimondo, of Rhode 
+Island, secretary of James Austin, of Georgia, secretary of John Blinken, of 
+New York, secretary of Paul Montgomery Buttigieg, of Indiana, secretary of 
+Louise Yellen, of California, secretary of friends like Judas Thune who needs 
+enemies? **#xteam_h** **#dt47_h** **#truthtrain_h** **#phpnews_h** **#tcd_h** 
+**#nightshift_h** **#lilypadlounge_h** **#fhfnews_h** **#rpn_h** **#ratpack_h** 
+**#twgrp_h** **#thefungicrew_h** **#5dnews_h** **#wtpafu_h** **#trump2024_h** 
+**#murchmadness_h** **#ncswic_h** **#maga2024_h** **#maga_h** **#fbj_h** 
+**#truth_h** **#trumpwon_h** **#wethepeople_h** **#trump_h** 
+
+Lemmas in this text that loaded on the factor:
+
+5dnews_h 
+dt47_h 
+fbj_h 
+fhfnews_h 
+lilypadlounge_h 
+maga2024_h 
+maga_h 
+murchmadness_h 
+ncswic_h 
+nightshift_h 
+phpnews_h 
+ratpack_h 
+rpn_h 
+tcd_h 
+thefungicrew_h 
+trump2024_h 
+trump_h 
+trumpwon_h 
+truth_h 
+truthtrain_h 
+twgrp_h 
+wethepeople_h (secondary)
+wtpafu_h 
+xteam_h 
+
+```
 
 ### Maintenance required in `wcount.py`
 
