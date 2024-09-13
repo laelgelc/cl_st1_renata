@@ -17,6 +17,7 @@ eyamrog@Rog-ASUS:/mnt/c/Users/eyamr/Downloads$
 ### Analysis of `words loading` and `factor score` in `examples`
 
 #### examples_f1_neg_000006.txt
+```
 file = t032294
 date = 2022-10-10
 user = JennaEllisEsq
@@ -37,7 +38,7 @@ breaking_nn
 conservative_nns 
 free_jj 
 speech_nn 
-
+```
 
 
 
