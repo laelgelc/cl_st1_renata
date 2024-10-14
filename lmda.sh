@@ -422,6 +422,16 @@ done
 
 }
 
+stop_instance() {
+  # Do not forget to:
+  # - have 'aws-cli' installed on the EC2 instance
+  # - have the IAM role 'S3-Admin-Access' attached to the EC2 instance
+
+  instance_id=$(aws ec2 describe-instances --filters "Name=private-dns-name,Values=$(hostname --fqdn)" --query "Reservations[*].Instances[*].InstanceId" --output text)
+  aws ec2 stop-instances --instance-ids "$instance_id"
+  echo "Instance $instance_id stopped."
+}
+
 treetagging
 tokenstypes
 toplemmas
@@ -434,3 +444,5 @@ formats
 #examples
 
 #latexexamples
+
+#stop_instance
