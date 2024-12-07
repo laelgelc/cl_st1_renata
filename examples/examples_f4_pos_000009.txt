@@ -1,0 +1,16 @@
+file = t053927
+date = 2023-06-13
+user = realDonaldTrump
+conversation = 107780257626128496
+URL = https://truthsocial.com/@realDonaldTrump/110538151610033873
+
+word count = 9
+words loading = 2
+factor score = 2
+
+ON MY WAY TO COURTHOUSE. WITCH HUNT! ! ! MAGA 
+
+Lemmas in this text that loaded on the factor:
+
+hunt_nn 
+witch_nn 

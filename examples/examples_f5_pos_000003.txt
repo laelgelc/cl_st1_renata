@@ -1,0 +1,23 @@
+file = t034640
+date = 2023-03-14
+user = Qanon76
+conversation = 107834998234793712
+URL = https://truthsocial.com/@Qanon76/110020707234231819
+
+word count = 59
+words loading = 5
+factor score = 5
+
+Biden is now proposing federal legislation that would force states such as 
+Florida to allow doctors to perform child sex change operations. I ' m old 
+enough to remember when all liberals cared was ending wars and saving whales. 
+Now the only thing they ' re passionate about are killing babies and sexually 
+altering children, what the flying hell happened? 
+
+Lemmas in this text that loaded on the factor:
+
+child_nn 
+child_nns 
+federal_jj 
+old_jj 
+sex_nn 

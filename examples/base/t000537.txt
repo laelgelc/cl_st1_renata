@@ -1,0 +1,15 @@
+National national_NP
+, ,
+state state_NN
+GOP gop_NP
+figures figure_NNS
+gather gather_VBP
+in in_IN
+Omaha omaha_NP
+to to_TO
+push push_VB
+for for_IN
+winner-take-all winner-take-all_JJ
+elections election_NNS
+in in_IN
+Nebraska nebraska_NP

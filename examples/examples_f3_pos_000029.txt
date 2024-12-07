@@ -1,0 +1,23 @@
+file = t000870
+date = 2023-05-01
+user = Charliekirk
+conversation = 107804978292323344
+URL = https://truthsocial.com/@Charliekirk/110295103524195927
+
+word count = 59
+words loading = 5
+factor score = 5
+
+BREAKING: President Trump will participate in a CNN Presidential Town Hall in 
+New Statement: The event, hosted by ' CNN This Morning ' anchor Kaitlan Collins 
+and airing at 9 p. m. ET on May 10 , will feature the former president taking 
+questions from New Hampshire Republicans and undeclared voters who plan to vote 
+in the 2024 GOP presidential primary. 
+
+Lemmas in this text that loaded on the factor:
+
+former_jj 
+president_nn 
+presidential_jj 
+primary_nn 
+voter_nns 

@@ -1,0 +1,29 @@
+file = t030233
+date = 2024-01-06
+user = JewelsJones
+conversation = 107834595014675536
+URL = https://truthsocial.com/@JewelsJones/111710299949703985
+
+word count = 164
+words loading = 3
+factor score = -3
+
+The Dish #2_h:So, let ' s take a guess, who do you think John Doe 107 could be? 
+But wait, think twice before you answer - your life might depend on it! Full 
+disclosure, we ' re dealing with Hillary Clinton here, so anything is possible! 
+Dom Lucre on X: fire_e police_car_light_e BREAKING EXCLUSIVE: I have been sent 
+THE alleged the name from a high ranking N. Y. state detective of the woman 
+that feared for her life if Jeffrey Epstein ' s list get released and got her 
+extension until January 22 , 2024 , John Doe 107 . This alleged woman has an 
+extensive relationship with Hillary Clinton and I am getting information on the 
+legal protection I would have if I released this name or allegation. From 
+source: Dom, Doe107 is ( CENSORED ) . I listened to ( CENSORED ) where he 
+stated she is afraid of honor killings and violence due to the conservative 
+nature of her country. ( CENSORED ) resided in ( CENSORED ) with her family 
+also she is of ( CENSORED ) decent. 
+
+Lemmas in this text that loaded on the factor:
+
+conservative_jj 
+country_nn 
+think_vbp 

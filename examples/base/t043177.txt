@@ -1,0 +1,47 @@
+ "  "
+Neither neither_CC
+my my
+parents parent_NNS
+nor nor_CC
+I i_PP
+was be_VBD
+fully fully_RB
+informed inform_VBN
+of of_IN
+most most_JJS
+of of_IN
+the the_DT
+potential potential_JJ
+risks risk_NNS
+. .
+ "  "
+18-year-old 18-year-old_JJ
+Chloe chloe_NP
+Cole—a cole—a
+self-described self-describe_VBN
+ "  "
+former former_JJ
+trans trans_NNS
+kid kid_NN
+ "  "
+— -
+joined join_VBD
+a a_DT
+panel panel_NN
+to to_TO
+discuss discuss_VB
+the the_DT
+threat threat_NN
+that that_IN
+gender gender_NN
+ideology ideology_NN
+presents present_VBZ
+to to_TO
+children child_NNS
+at at_IN
+ "  "
+Innocence innocence_NP
+Under under_IN
+Siege siege_NP
+. .
+ "  "

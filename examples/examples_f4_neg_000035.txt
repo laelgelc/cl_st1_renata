@@ -1,0 +1,31 @@
+file = t036500
+date = 2024-04-30
+user = RepMTG
+conversation = 107825831647341200
+URL = https://truthsocial.com/@RepMTG/112360798482930480
+
+word count = 150
+words loading = 5
+factor score = -4
+
+Everyday, I fight the Democrat agenda destroying America and I fight for an 
+America First Republican agenda. Mike Johnson is officially the Democrat 
+Speaker of the House. Here is their official endorsement of his slimy back room 
+deal did Johnson make for the Democrats ' support? He should resign, switch 
+parties, and continue voting for Biden ' s open border invasion of America, 
+endless wars, full term abortion on demand, trans agenda on children, 
+warrantless spying on the American people, weaponizing government against 
+President Trump and his supporters, and every other Democrat wishlist item he ' 
+s handed the Democrats want to elect him Speaker ( and some Republicans want to 
+support the Democrats ' chosen Speaker ) , I ' ll give them the chance to do 
+it. I ' m a big believer in recorded votes because putting Congress on record 
+allows every American to see the truth and provides transparency to our votes. 
+1 / 2 
+
+Lemmas in this text that loaded on the factor:
+
+government_nn 
+other_jj 
+people_nns 
+vote_nns (secondary)
+want_vbp 

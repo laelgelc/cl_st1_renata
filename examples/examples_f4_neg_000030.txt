@@ -1,0 +1,24 @@
+file = t011641
+date = 2023-01-25
+user = DCTheMan
+conversation = 109678637844306528
+URL = https://truthsocial.com/@DCTheMan/109751072820022316
+
+word count = 84
+words loading = 4
+factor score = -4
+
+I appreciate your honesty. And I ' m always open and willing to have very civil 
+conversations with even people who have opposing views. But the people who are 
+running around telling other that conservatives are a bunch of Bible thumping 
+roadkill eating and said she was families who want to hang anyone who isn ' t a 
+racist white supremacist, all of that propaganda is coming from the left. Like 
+with the marriage acts, there were other bills involved that the GOP voted 
+against. 
+
+Lemmas in this text that loaded on the factor:
+
+other_jj 
+people_nns 
+say_vbd 
+want_vbp 

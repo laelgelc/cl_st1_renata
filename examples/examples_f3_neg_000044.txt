@@ -1,0 +1,23 @@
+file = t000069
+date = 2023-12-04
+user = AlexJones
+conversation = 107838014712814240
+URL = https://truthsocial.com/@AlexJones/111523304386293474
+
+word count = 52
+words loading = 2
+factor score = -2
+
+loudspeaker_e fire_e fire_e fire_e #alexjonesshow_h Monday LIVE: Globalists 
+Crack Down on Heroes for Exposing COVID Jab Death Count! Now Is The Time for 
+ALL Whistleblowers to Emerge! 𝘈𝘭𝘦𝘹 𝘑𝘰𝘯𝘦𝘴 
+𝘗𝘳𝘦𝘥𝘪𝘤𝘵𝘴 𝘞𝘩𝘢𝘵 𝘏𝘢𝘱𝘱𝘦𝘯𝘴 
+𝘕𝘌𝘟𝘛 ! ↦↦↦↦↦ TUNE IN: ╰☆☆☆ #supportinfowars_h 
+☆☆☆╮ » » » Play #nwowars_h: » » » 𝘈𝘭𝘦𝘹 
+𝘑𝘰𝘯𝘦𝘴 𝘋𝘦𝘧𝘦𝘯𝘴𝘦 𝘍𝘶𝘯𝘥 : » » » 
+Get a signed copy of ' The Great Awakening ' while you still can! #1a_h 
+
+Lemmas in this text that loaded on the factor:
+
+copy_nn 
+sign_vbn 

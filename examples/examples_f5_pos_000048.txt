@@ -1,0 +1,20 @@
+file = t034023
+date = 2022-05-29
+user = QAnnon
+conversation = 107879560233869216
+URL = https://truthsocial.com/@QAnnon/108386617062803595
+
+word count = 24
+words loading = 4
+factor score = 4
+
+March 22 , 2022Rippon Middle School in Woodbridge, Virginia0 dead • 0 injured 
+• 1 , 270 children present in schoolA 20-year-old man fired shots on school 
+grounds. 
+
+Lemmas in this text that loaded on the factor:
+
+child_nns 
+old_jj 
+school_nn 
+year 

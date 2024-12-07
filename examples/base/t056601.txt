@@ -1,0 +1,2 @@
+Hook&Barrel hook&barrel
+magazine magazine_NN

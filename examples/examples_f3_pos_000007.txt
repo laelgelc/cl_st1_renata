@@ -1,0 +1,23 @@
+file = t031707
+date = 2024-01-30
+user = NewsMax
+conversation = 107764331655353184
+URL = https://truthsocial.com/@NewsMax/111845854949952091
+
+word count = 33
+words loading = 7
+factor score = 6
+
+Republican presidential candidate Nikki Haley appears to be drawing from 
+anti-Donald Trump donors to keep her long-shot White House bid afloat and delay 
+the former president from being declared the GOP ' s presumptive nominee. 
+
+Lemmas in this text that loaded on the factor:
+
+bid_nn 
+candidate_nn (secondary)
+former_jj 
+nominee_nn 
+president_nn 
+presidential_jj 
+republican_jj 

@@ -1,0 +1,17 @@
+file = t038147
+date = 2022-04-24
+user = ResisttheMainstream
+conversation = 107838850131880704
+URL = https://truthsocial.com/@ResisttheMainstream/108188458411132868
+
+word count = 16
+words loading = 2
+factor score = 2
+
+**red_circle_e** CDC Issues Nationwide Alert About Mysterious Hepatitis Cases 
+in ChildrenIn case you missed it on: / / 
+
+Lemmas in this text that loaded on the factor:
+
+issues_nps 
+red_circle_e 

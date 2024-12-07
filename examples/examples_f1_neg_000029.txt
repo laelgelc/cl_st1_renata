@@ -1,0 +1,25 @@
+file = t000550
+date = 2024-03-18
+user = Charliekirk
+conversation = 107804978292323344
+URL = https://truthsocial.com/@Charliekirk/112118037454403994
+
+word count = 109
+words loading = 3
+factor score = -3
+
+The left has us talking about the Bloodbath Hoax today instead of focusing on 
+election integrity and ballot chasing, the invasion at our Southern Border, and 
+how median income Americans can no longer afford to buy a home thanks to 
+Bidenomics. The SCOTUS free speech cases are critical to defending our 
+constitutional rights. These two cases, NRA v. Vullo and Missouri v. Biden, 
+could be two where Trump ' s SCOTUS picks will be at their most important. Had 
+we had three Hillary picks, and we might get radically anti-speech rulings. 
+That is the way the left is trending, and all the more reason why Trump MUST 
+win in November. 
+
+Lemmas in this text that loaded on the factor:
+
+free_jj 
+speech_nn 
+win_vb 

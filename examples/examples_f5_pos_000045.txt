@@ -1,0 +1,20 @@
+file = t034032
+date = 2022-05-29
+user = QAnnon
+conversation = 107879560233869216
+URL = https://truthsocial.com/@QAnnon/108386605825528869
+
+word count = 28
+words loading = 4
+factor score = 4
+
+May 24 , 2022Robb Elementary School in Uvalde, Texas21 dead • 0 injured • 
+500 children present in schoolAn 18-year-old opened fire inside the school, 
+killing 19 children and two adults. 
+
+Lemmas in this text that loaded on the factor:
+
+child_nns 
+old_jj 
+school_nn 
+year 

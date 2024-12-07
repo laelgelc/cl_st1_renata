@@ -1,0 +1,14 @@
+file = t056616
+date = 2022-04-12
+user = tednugent
+conversation = 107834528142172976
+URL = https://truthsocial.com/@tednugent/108121539265878338
+
+word count = 6
+words loading = 0
+factor score = 
+
+Dance the freedom warrior dance! ￼ 
+
+Lemmas in this text that loaded on the factor:
+

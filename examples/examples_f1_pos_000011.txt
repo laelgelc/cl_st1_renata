@@ -1,0 +1,49 @@
+file = t052583
+date = 2024-05-08
+user = maxjett12
+conversation = 108319249994754560
+URL = https://truthsocial.com/@maxjett12/112406094542530566
+
+word count = 119
+words loading = 24
+factor score = 24
+
+China is building six times more new coal plants than other countries, report 
+findsBy Julia SimonPublished March 2 , 2023 at 5:00 AM CST China permitted more 
+coal power plants last year than any time in the last seven years, according to 
+a new report released this week. It ' s the equivalent of about two new coal 
+power plants per week. The report by energy data organizations Global Energy 
+Monitor and the Centre for Research on Energy and Clean Air finds the country 
+quadrupled the amount of new coal power approvals in 2022 compared to 2021 
+**#xteam_h** **#dt47_h** **#truthtrain_h** **#phpnews_h** **#tcd_h** 
+**#nightshift_h** **#lilypadlounge_h** **#fhfnews_h** **#rpn_h** **#ratpack_h** 
+**#twgrp_h** **#thefungicrew_h** **#5dnews_h** **#wtpafu_h** **#trump2024_h** 
+**#murchmadness_h** **#ncswic_h** **#maga2024_h** **#maga_h** **#fbj_h** 
+**#truth_h** **#trumpwon_h** **#wethepeople_h** **#trump_h** 
+
+Lemmas in this text that loaded on the factor:
+
+5dnews_h 
+dt47_h 
+fbj_h 
+fhfnews_h 
+lilypadlounge_h 
+maga2024_h 
+maga_h 
+murchmadness_h 
+ncswic_h 
+nightshift_h 
+phpnews_h 
+ratpack_h 
+rpn_h 
+tcd_h 
+thefungicrew_h 
+trump2024_h 
+trump_h 
+trumpwon_h 
+truth_h 
+truthtrain_h 
+twgrp_h 
+wethepeople_h 
+wtpafu_h 
+xteam_h 

@@ -1,0 +1,21 @@
+file = t036365
+date = 2023-10-25
+user = RepBrianBabin
+conversation = 110226445959047040
+URL = https://truthsocial.com/@RepBrianBabin/111298175914126484
+
+word count = 38
+words loading = 5
+factor score = -5
+
+Today, I was proud to join so many GOP colleagues in reaffirming our support 
+for Israel. We will always stand with our great ally and its right to defend 
+itself against Hamas or any other terrorist organization! 
+
+Lemmas in this text that loaded on the factor:
+
+great_jj 
+join_vb 
+many_jj 
+other_jj 
+today_nn 

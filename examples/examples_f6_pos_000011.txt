@@ -1,0 +1,16 @@
+file = t056632
+date = 2023-02-08
+user = truthsocial
+conversation = 107759501782461328
+URL = https://truthsocial.com/@truthsocial/109831225745968999
+
+word count = 39
+words loading = 0
+factor score = 
+
+Thank you to our wonderful users for helping Truth Social hit RECORD traffic 
+levels during last night ' s State of the Union address. It was a great night 
+for free speech — and there are many more to come. 
+
+Lemmas in this text that loaded on the factor:
+

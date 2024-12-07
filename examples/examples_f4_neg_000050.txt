@@ -1,0 +1,23 @@
+file = t039405
+date = 2022-04-28
+user = ThePatriotVoice
+conversation = 107834263369962160
+URL = https://truthsocial.com/@ThePatriotVoice/108211678490150046
+
+word count = 74
+words loading = 4
+factor score = -4
+
+BREAKING! police_car_light_e Moderna seeks FDA approval for its COVID-19 
+vaccine for children aged six months to under six we have victories against 
+abortion, there are other battles that need to be fought…This spiritual war 
+is VAST and has many the end of the day, this is a WAR that is waged in the 
+heavens, and while we are WINNING [ they ] want the souls of our children 
+BADLY. [ They ] feed off God ' s most innocent and vulnerable. 
+
+Lemmas in this text that loaded on the factor:
+
+many_jj 
+need_vbp 
+other_jj 
+want_vbp 

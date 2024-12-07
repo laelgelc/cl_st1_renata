@@ -1,0 +1,22 @@
+file = t000058
+date = 2023-12-12
+user = AlexJones
+conversation = 107838014712814240
+URL = https://truthsocial.com/@AlexJones/111568554650841813
+
+word count = 42
+words loading = 2
+factor score = -2
+
+police_car_light_e police_car_light_e police_car_light_e - #alexjonesshow_h - 
+Tuesday LIVE: It ' s Official! NWO Puppet Zelensky Has Officially Lost the War! 
+Globalists Prepare to Trigger MASSIVE Cyber Attacks to Accelerate Planetary 
+DestabilizationWatch LIVE! studio_microphone_e satellite_antenna_e television_e 
+closed_book_e writing_hand_e Get a signed copy of ' The Great Awakening ' & 
+help keep Infowars & Alex Jones on air! backhand_index_pointing_down_e 
+backhand_index_pointing_down_e backhand_index_pointing_down_e 
+
+Lemmas in this text that loaded on the factor:
+
+copy_nn 
+sign_vbn 

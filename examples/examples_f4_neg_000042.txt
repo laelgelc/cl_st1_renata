@@ -1,0 +1,27 @@
+file = t038365
+date = 2024-06-01
+user = SteveBannonsWarRoom
+conversation = 111245059050943024
+URL = https://truthsocial.com/@SteveBannonsWarRoom/112542206503148676
+
+word count = 121
+words loading = 4
+factor score = -4
+
+URGENT CALL TO ACTION: MASSIVE VOLUNTEER EFFORT NEEDED TO LAUNCH STATE 
+CAMPAIGNS & BOOST MAGA MOVEMENT We need massive amounts of volunteers to now 
+actually get a campaign going in the states, which doesn ' t exist currently. [ 
+. . . ] In your neighborhoods, if you ' re up to speed on topics, your 
+neighbors kind of respect that. They say, Well, look, I ' m a low-information 
+voter. I don ' t have time for politics, don ' t like politics. But you know, 
+the Joneses down the street, they ' re all over this. They know the best way to 
+sell the Trump movement, the best way to sell MAGA and President Trump, is not 
+through a 30-second spot. That ' s a consultant scam. It ' s good old-fashioned 
+elbow grease. -Steve Bannon 
+
+Lemmas in this text that loaded on the factor:
+
+good_jj 
+know_vbp 
+need_vbp 
+way_nn 

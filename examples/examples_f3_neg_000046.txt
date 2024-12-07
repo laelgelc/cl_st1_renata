@@ -1,0 +1,24 @@
+file = t000071
+date = 2023-12-01
+user = AlexJones
+conversation = 107838014712814240
+URL = https://truthsocial.com/@AlexJones/111506468070992928
+
+word count = 37
+words loading = 3
+factor score = -2
+
+police_car_light_e police_car_light_e police_car_light_e #alexjonesshow_h 
+Emergency Information! Tune In NOW! High-Level Government Whistleblower 
+Confirms Covid Vax Killing Millions! WATCH LIVE: 𝘾𝙔𝘽𝙀𝙍 
+𝙒𝙀𝙀𝙆 𝙀𝙉𝘿𝙎 𝙎𝙊𝙊𝙉 ! ! hourglass_not_done_e 
+#supportinfowars_h shopping_cart_e 𝘚𝘏𝘖𝘗 : alien_monster_e PLAY ' 
+NWO WARS ' : **red_heart_e** 𝘈𝘭𝘦𝘹 𝘑𝘰𝘯𝘦𝘴 
+𝘋𝘦𝘧𝘦𝘯𝘴𝘦 𝘍𝘶𝘯𝘥 : sparkles_e Get a signed copy of 
+' The Great Awakening ' 
+
+Lemmas in this text that loaded on the factor:
+
+copy_nn 
+red_heart_e (secondary)
+sign_vbn 

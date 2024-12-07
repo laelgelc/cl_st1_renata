@@ -1,0 +1,40 @@
+file = t053044
+date = 2024-03-19
+user = rabcl12
+conversation = 108431748923102896
+URL = https://truthsocial.com/@rabcl12/112122982382691996
+
+word count = 109
+words loading = 4
+factor score = -4
+
+flag_united_states_e Travis flag_united_states_e collision_e collision_e 
+collision_e collision_e collision_e collision_e **police_car_light_e** Breaking 
+News: Conservative Texas AG Ken Paxton, who ran his entire campaign on getting 
+Biden, has announced charges against Hunter Biden for overvaluing the value of 
+his paintings. thumbs_up_e grinning_squinting_face_e 
+rolling_on_the_floor_laughing_e **face_with_tears_of_joy_e** 
+grinning_squinting_face_e rolling_on_the_floor_laughing_e 
+**face_with_tears_of_joy_e** grinning_squinting_face_e 
+rolling_on_the_floor_laughing_e **face_with_tears_of_joy_e** 
+grinning_squinting_face_e rolling_on_the_floor_laughing_e 
+**face_with_tears_of_joy_e** . Luckily the Judge presiding over the case will 
+be Judge Sam Elliot, whose wife blast Biden on social media. Also, his top 
+clerk will be Helen Hunt, who donates strictly to conservatives and attends 
+anti Biden rallies. Does this sound fair democrats? Because reverse the roles 
+and this is exactly what ' s happening to Donald Trump! This story isn ' t 
+true, but if it was I ' m sure you ' d be throwing a fit calling it a biased 
+prosecution thumbs_up_e **face_with_tears_of_joy_e** 
+rolling_on_the_floor_laughing_e grinning_squinting_face_e 
+**face_with_tears_of_joy_e** rolling_on_the_floor_laughing_e 
+grinning_squinting_face_e **face_with_tears_of_joy_e** 
+rolling_on_the_floor_laughing_e grinning_squinting_face_e 
+**face_with_tears_of_joy_e** rolling_on_the_floor_laughing_e 
+grinning_squinting_face_e 
+
+Lemmas in this text that loaded on the factor:
+
+case_nn 
+conservative_nns 
+face_with_tears_of_joy_e 
+police_car_light_e 

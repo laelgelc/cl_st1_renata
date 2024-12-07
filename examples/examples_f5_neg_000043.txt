@@ -1,0 +1,24 @@
+file = t000579
+date = 2024-02-02
+user = Charliekirk
+conversation = 107804978292323344
+URL = https://truthsocial.com/@Charliekirk/111864207539549738
+
+word count = 107
+words loading = 1
+factor score = -1
+
+The Restoring National Confidence Summit was a massive success. We hosted over 
+400 grassroots warriors in Vegas including:- 75 of the top GOP County Chairs 
+representing 15 million voters in key battleground districts. - 130 RNC members 
+total including state GOP chairs and RNC committeemen and women- Dozens of RNC 
+candidates running to become RNC committeemen- Dozens of precinct captains in 
+battleground districts- Dozens of partner orgs including Tea Party Patriots, 
+Moms for Liberty, College Republicans, America First Works, and shared Turning 
+Point data, technology, and GOTV relational drilled down to the precinct level, 
+educating each attendee how to target LOW PROPENSITY conservative leaning 
+voters who stayed home in 2020 . 
+
+Lemmas in this text that loaded on the factor:
+
+massive_jj 

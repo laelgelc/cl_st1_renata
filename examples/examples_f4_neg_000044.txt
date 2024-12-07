@@ -1,0 +1,30 @@
+file = t038759
+date = 2024-01-15
+user = ThePatriotVoice
+conversation = 107834263369962160
+URL = https://truthsocial.com/@ThePatriotVoice/111761601915397447
+
+word count = 170
+words loading = 5
+factor score = -4
+
+Iowa, today is the start of the primary season, in the MOST IMPORTANT election 
+year of our lifetime, BY FAR. A vote for ANYONE other than @realDonaldTrump is 
+a vote for the DESTRUCTION of America, and the subsequent NWO One World is a 
+REASON why the Globalists FEAR Trump, and you NEVER hear them mention anyone 
+else. NOT Vivek, DeSantis, or Haley. Because, they are NON-THREATENING to the 
+Global Order and in FACT, would help to FACILITATE IS the ONLY man for the are 
+TRULY FOOLISH if you think to Yuval Noah Harari, assistant to Klaus Schwab 
+shutter in FEAR at the likely prospect of Trump winning 2024 I think it ' s 
+very likely, if it happens, to be the DEATH BLOWN TO WHAT REMAINS OF THE GLOBAL 
+ORDER. He then goes on to say that most people believe there is a false binary 
+between Patriotism and Globalism, where you have to be loyal to your nation, or 
+to a Global Government. WE WILL NEVER BE LOYAL TO GLOBAL GOVERNMENT. 
+
+Lemmas in this text that loaded on the factor:
+
+government_nn 
+other_jj 
+people_nns 
+today_nn 
+vote_nn (secondary)

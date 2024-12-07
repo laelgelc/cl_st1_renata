@@ -1,0 +1,17 @@
+file = t037454
+date = 2023-08-02
+user = ResisttheMainstream
+conversation = 107838850131880704
+URL = https://truthsocial.com/@ResisttheMainstream/110820231329447707
+
+word count = 16
+words loading = 2
+factor score = 2
+
+**red_circle_e** Trump ' s 2024 GOP Rivals Respond to His Third Indictment With 
+Wide Range of Reactions 
+
+Lemmas in this text that loaded on the factor:
+
+indictment_nn 
+red_circle_e 

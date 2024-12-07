@@ -1,0 +1,21 @@
+file = t042670
+date = 2023-07-06
+user = epochtimes
+conversation = 107814273983601296
+URL = https://truthsocial.com/@epochtimes/110669706773467757
+
+word count = 38
+words loading = 4
+factor score = 4
+
+With just 46 days to qualify for the first GOP presidential debate, campaigns 
+for several lesser-known candidates are scrambling to meet required polling 
+numbers and to collect the 40 , 000 individual campaign donors needed to make 
+the stage. 
+
+Lemmas in this text that loaded on the factor:
+
+campaign_nn 
+candidate_nns 
+debate_nn 
+presidential_jj 

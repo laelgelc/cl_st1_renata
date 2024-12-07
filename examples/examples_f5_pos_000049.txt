@@ -1,0 +1,21 @@
+file = t034017
+date = 2022-05-29
+user = QAnnon
+conversation = 107879560233869216
+URL = https://truthsocial.com/@QAnnon/108386622586319828
+
+word count = 38
+words loading = 4
+factor score = 4
+
+March 4 , 2022Olathe East High School in Olathe, Kansas0 dead • 2 injured • 
+1 , 820 children present in schoolAn 18-year-old shot and wounded a school 
+resource officer and an administrator before also being wounded when the 
+officer shot back. 
+
+Lemmas in this text that loaded on the factor:
+
+child_nns 
+old_jj 
+school_nn 
+year 

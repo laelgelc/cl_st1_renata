@@ -1,0 +1,20 @@
+file = t034727
+date = 2023-01-29
+user = Qanon76
+conversation = 107834998234793712
+URL = https://truthsocial.com/@Qanon76/109771895615743724
+
+word count = 38
+words loading = 4
+factor score = 4
+
+Drag queen says cheers to those who lick us where we pee in front of children. 
+- Those parents should be jailed for child abuse. And the drag too, actually. 
+Drags should not have shows that target kids. 
+
+Lemmas in this text that loaded on the factor:
+
+child_nn 
+child_nns 
+kid_nns 
+parent_nns 

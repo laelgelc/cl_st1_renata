@@ -1,0 +1,21 @@
+file = t043108
+date = 2023-04-04
+user = epochtimes
+conversation = 107814273983601296
+URL = https://truthsocial.com/@epochtimes/110141061896588735
+
+word count = 35
+words loading = 4
+factor score = 4
+
+ It is known that Hale considered the actions of other mass murderers, police 
+said #audreyhale_h—who killed 6 people, including 3 nine-year-old children, 
+at a school shooting in #nashville_h last week—had been planning the attack 
+for months. 
+
+Lemmas in this text that loaded on the factor:
+
+child_nns 
+old_jj 
+school_nn 
+year 

@@ -1,0 +1,19 @@
+file = t046012
+date = 2023-05-08
+user = gatewaypundit
+conversation = 107834752222880416
+URL = https://truthsocial.com/@gatewaypundit/110335517939741484
+
+word count = 17
+words loading = 4
+factor score = -4
+
+BREAKING: Far-Left Judge Blocks Trump From Posting Details About Stormy Daniels 
+' Hush Payment ' Case to Social Media 
+
+Lemmas in this text that loaded on the factor:
+
+breaking_nn 
+case_nn 
+far 
+left_jj 

@@ -1,0 +1,33 @@
+file = t049611
+date = 2022-10-19
+user = jncojok
+conversation = 107839448160284576
+URL = https://truthsocial.com/@jncojok/109196767999265547
+
+word count = 17
+words loading = 9
+factor score = 8
+
+Oh this is Awesome! ! ! ! ! ! rolling_on_the_floor_laughing_e 
+rolling_on_the_floor_laughing_e rolling_on_the_floor_laughing_e 
+rolling_on_the_floor_laughing_e rolling_on_the_floor_laughing_e 
+**thumbs_up_light_skin_tone_e** **thumbs_up_light_skin_tone_e** 
+**flag_united_states_e** **flag_united_states_e** **flag_united_states_e** 
+**flag_united_states_e** **flag_united_states_e** **flag_united_states_e** 
+**flag_united_states_e** **flag_united_states_e** **flag_united_states_e** 
+**flag_united_states_e** #maga_h **#ultramaga_h** **#darkmaga_h** 
+**#warroomposse_h** #justicethomas_h #humor_h **#patriots_h** 
+**#americafirst_h** **#america_h** **#wethepeople_h** #truthsocial_h 
+#babylonbee_h 
+
+Lemmas in this text that loaded on the factor:
+
+america_h 
+americafirst_h 
+darkmaga_h 
+flag_united_states_e 
+patriots_h 
+thumbs_up_light_skin_tone_e 
+ultramaga_h 
+warroomposse_h 
+wethepeople_h (secondary)

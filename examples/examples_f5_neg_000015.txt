@@ -1,0 +1,22 @@
+file = t039145
+date = 2022-10-14
+user = ThePatriotVoice
+conversation = 107834263369962160
+URL = https://truthsocial.com/@ThePatriotVoice/109168318228538623
+
+word count = 85
+words loading = 2
+factor score = -2
+
+There is now ONLY 25 days remaining until Election Day. I see a MASSIVE effort 
+trying to distract & derail Patriots from voting in the Midterms. Whether that 
+be by causing intentional confusion, or making us fight one another on petty 
+issues. I can assure you that those are NOT winning strategies. ALL of our 
+focus & efforts NEED to be getting everyone you know engaged & excited to get 
+in-line to VOTE. THAT is the way forward & our ONLY chance at saving our 
+country from these PSYCHOPATHS! 
+
+Lemmas in this text that loaded on the factor:
+
+massive_jj 
+midterm_nns 

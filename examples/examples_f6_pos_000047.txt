@@ -1,0 +1,14 @@
+file = t056594
+date = 2022-10-02
+user = tednugent
+conversation = 107834528142172976
+URL = https://truthsocial.com/@tednugent/109100709903671510
+
+word count = 6
+words loading = 0
+factor score = 
+
+happy happy October Gonzo MAGAs! ! 
+
+Lemmas in this text that loaded on the factor:
+

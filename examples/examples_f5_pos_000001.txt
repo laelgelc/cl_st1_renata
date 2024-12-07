@@ -1,0 +1,25 @@
+file = t010475
+date = 2023-07-27
+user = DCTheMan
+conversation = 109678637844306528
+URL = https://truthsocial.com/@DCTheMan/110786405592845407
+
+word count = 46
+words loading = 6
+factor score = 6
+
+**pouting_face_e** **pouting_face_e** **pouting_face_e** Pro-transgender 
+activists reportedly threatened to dismember a CA school board president & to 
+kill her children and pets in retaliation for a policy requiring schools to 
+notify parents if children want to change Newsom & his administration have 
+become more aggressive in targeting school boards that dissent from left-wing: 
+/ / 
+
+Lemmas in this text that loaded on the factor:
+
+child_nns 
+left 
+parent_nns 
+pouting_face_e 
+school_nn 
+wing_jj 

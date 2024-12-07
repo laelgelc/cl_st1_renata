@@ -1,0 +1,15 @@
+If if_IN
+you you_PP
+' '
+re re_IN
+not not_RB
+having have_VBG
+fun fun_NN
+with with_IN
+me me_PP
+you you_PP
+' '
+re re_NN
+weird weird_NN
+. .
+￼ ￼

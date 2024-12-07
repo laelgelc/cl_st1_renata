@@ -1,0 +1,16 @@
+red_circle_e red_circle_e
+GOP gop_NP
+Rep rep_NP
+Issues issues_NPS
+Stark stark_NP
+Warning warning_NP
+About about_IN
+TikTok tiktok_NP
+' '
+s s_JJ
+Potential potential_JJ
+Influence influence_NN
+Over over_IN
+The the_DT
+2024 @card@
+Election election_NN

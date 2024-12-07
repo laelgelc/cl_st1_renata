@@ -1,0 +1,19 @@
+file = t042926
+date = 2023-05-12
+user = epochtimes
+conversation = 107814273983601296
+URL = https://truthsocial.com/@epochtimes/110358062027077320
+
+word count = 31
+words loading = 2
+factor score = 2
+
+Pro-abortion advocates gathered outside the neighborhood of Justice 
+#clarencethomas_h for a potentially illegal icans say Democrats are conducting 
+a witch hunt against Thomas and the #supremecourt_h due to its 6–3 
+conservative majority. 
+
+Lemmas in this text that loaded on the factor:
+
+hunt_nn 
+witch_nn 

@@ -1,0 +1,22 @@
+file = t052030
+date = 2023-07-29
+user = marklevinshow
+conversation = 107809721243372672
+URL = https://truthsocial.com/@marklevinshow/110798744870131017
+
+word count = 51
+words loading = 5
+factor score = 5
+
+Bridge Gate Chris Christie has disqualified himself from the GOP debate by 
+refusing to say he ' d vote for the Republican nominee for president if it is 
+Donald Trump. Let ' s see if the RNC stands by its requirements. I told you 
+this fraud intends to help elect Joe Biden. 
+
+Lemmas in this text that loaded on the factor:
+
+debate_nn 
+nominee_nn 
+president_nn 
+republican_jj 
+vote_nn 

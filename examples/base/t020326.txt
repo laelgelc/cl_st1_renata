@@ -1,0 +1,17 @@
+Dems dems_NP
+, ,
+GOP gop_NP
+face face_VBP
+first first_RB
+test test_VB
+ahead ahead_RB
+of of_IN
+2024 @card@
+elections election_NNS
+as as_IN
+voters voter_NNS
+head head_VBP
+to to_TO
+polls poll_NNS
+in in_IN
+Louisiana louisiana_NP

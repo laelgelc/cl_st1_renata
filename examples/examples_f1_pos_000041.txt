@@ -1,0 +1,49 @@
+file = t052535
+date = 2024-05-12
+user = maxjett12
+conversation = 108319249994754560
+URL = https://truthsocial.com/@maxjett12/112429852124566646
+
+word count = 105
+words loading = 24
+factor score = 24
+
+It ' s shocking that South Dakota lacks statewide leaders who speak with 
+conviction about the fraud of global warming and the carbon capture er Summit 
+Carbon Solutions and that Green New Deal pipeline the company wanted to lay 
+through the Dakotas, seizing people ' s land in the process? Well, the project 
+is back, and it ' s stronger than ever. Evidently, supporting property rights 
+and opposing Agenda 2030 ' s carbon neutral dystopia is too much to ask of 
+South Dakota Republicans. **#xteam_h** **#dt47_h** **#truthtrain_h** 
+**#phpnews_h** **#tcd_h** **#nightshift_h** **#lilypadlounge_h** **#fhfnews_h** 
+**#rpn_h** **#ratpack_h** **#twgrp_h** **#thefungicrew_h** **#5dnews_h** 
+**#wtpafu_h** **#trump2024_h** **#murchmadness_h** **#ncswic_h** 
+**#maga2024_h** **#maga_h** **#fbj_h** **#truth_h** **#trumpwon_h** 
+**#wethepeople_h** **#trump_h** 
+
+Lemmas in this text that loaded on the factor:
+
+5dnews_h 
+dt47_h 
+fbj_h 
+fhfnews_h 
+lilypadlounge_h 
+maga2024_h 
+maga_h 
+murchmadness_h 
+ncswic_h 
+nightshift_h 
+phpnews_h 
+ratpack_h 
+rpn_h 
+tcd_h 
+thefungicrew_h 
+trump2024_h 
+trump_h 
+trumpwon_h 
+truth_h 
+truthtrain_h 
+twgrp_h 
+wethepeople_h 
+wtpafu_h 
+xteam_h 

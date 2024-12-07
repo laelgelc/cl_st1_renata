@@ -1,0 +1,24 @@
+file = t038916
+date = 2023-05-23
+user = ThePatriotVoice
+conversation = 107834263369962160
+URL = https://truthsocial.com/@ThePatriotVoice/110420654281074782
+
+word count = 92
+words loading = 4
+factor score = -4
+
+Do you remember some months back when I said DeSantis was BOUGHT & PAID FOR by 
+Ken Griffin to run against @realDonaldTrump? ? ? There were MANY who didn ' t 
+want to believe it, but evidence was right there in our face the whole 
+time…Now, you see how the RNC is NOT on our side & in fact, with Paul Ryan, 
+Jeb Bush & other Uniparty RINOs is putting their golden Trojan Horse on the 
+front line. Even TIME magazine glorified him, that ' s how you is is as much a 
+TRAITOR as the day is long. 
+
+Lemmas in this text that loaded on the factor:
+
+many_jj 
+other_jj 
+say_vbd 
+want_vbp 

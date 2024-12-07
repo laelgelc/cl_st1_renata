@@ -1,0 +1,17 @@
+file = t037673
+date = 2023-03-21
+user = ResisttheMainstream
+conversation = 107838850131880704
+URL = https://truthsocial.com/@ResisttheMainstream/110061341489205228
+
+word count = 11
+words loading = 2
+factor score = 2
+
+**red_circle_e** Watch: Trump Addresses Potential Stormy Daniels Indictment in 
+Late-Night Video Address 
+
+Lemmas in this text that loaded on the factor:
+
+indictment_nn 
+red_circle_e 

@@ -1,0 +1,28 @@
+file = t050968
+date = 2024-06-12
+user = maga420
+conversation = 107834188191138752
+URL = https://truthsocial.com/@maga420/112606161893538811
+
+word count = 108
+words loading = 7
+factor score = -6
+
+Nobody wanted to secure our elections ahead of 2024 , and now some of you also 
+want to push away potential Trump voters because some people aren ' t moral 
+enough for you or whatever lame reason you come up with. We [ not me ] chose to 
+play the game of outvote the steal, and now that we need every vote that 
+counts, some of us want to push people away. Republican voters don ' t know how 
+to win. As I ' ve said and will say once more, I am not a Republican, 
+conservative, or any other term; I support Trump the person and the MAGA 
+movement he has started. 
+
+Lemmas in this text that loaded on the factor:
+
+know_vbp 
+need_vbp 
+other_jj 
+people_nns 
+say_vbd 
+vote_nn (secondary)
+want_vbp 

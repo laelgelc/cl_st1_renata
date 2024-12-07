@@ -1,0 +1,24 @@
+file = t000271
+date = 2024-05-30
+user = AmericaFirstLegal
+conversation = 108442624771421568
+URL = https://truthsocial.com/@AmericaFirstLegal/112532142914241869
+
+word count = 109
+words loading = 1
+factor score = -1
+
+police_car_light_e Statement from AFL President @StephenM in response to the 
+politically-motivated New York v. Trump verdict: This is evil communist 
+lawfare—a vile, hideous, disfiguring attack on American democracy and 
+American elections. Joe Biden and the Left are systematically demolishing and 
+dismantling American institutions in their ruthless pursuit of power. President 
+Trump is being subjected to Marxist oppression, the likes of which we ' d never 
+thought we would see in this country. All our rules smashed and broken. Justice 
+in tatters. The Constitution set ablaze. A sad, sad day for freedom and for 
+America. This is the road to serfdom — unless this Marxist lawfare is 
+stopped, halted, and reversed and democracy restored. 
+
+Lemmas in this text that loaded on the factor:
+
+election_nns 

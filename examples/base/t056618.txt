@@ -1,0 +1,4 @@
+allthings allthings_NNS
+left leave_VBD
+define define_VB
+insanity insanity_NN

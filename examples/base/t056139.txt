@@ -1,0 +1,17 @@
+TRUMP trump_NN
+: :
+ "  "
+ON on_IN
+MY my_NP
+WAY way_NP
+TO to_NP
+THE the_NP
+COURTHOUSE courthouse_NP
+. .
+WITCH witch_NN
+HUNT hunt_NN
+! !
+! !
+! !
+MAGA maga_NP
+ "  "

@@ -1,0 +1,16 @@
+file = t056139
+date = 2023-06-13
+user = seanhannity
+conversation = 107803381972948240
+URL = https://truthsocial.com/@seanhannity/110538329778955160
+
+word count = 11
+words loading = 2
+factor score = 2
+
+TRUMP: ON MY WAY TO THE COURTHOUSE. WITCH HUNT! ! ! MAGA 
+
+Lemmas in this text that loaded on the factor:
+
+hunt_nn 
+witch_nn 

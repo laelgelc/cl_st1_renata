@@ -1,0 +1,14 @@
+file = t056618
+date = 2022-04-09
+user = tednugent
+conversation = 107834528142172976
+URL = https://truthsocial.com/@tednugent/108103277931604925
+
+word count = 5
+words loading = 0
+factor score = 
+
+allthings left define insanity 
+
+Lemmas in this text that loaded on the factor:
+

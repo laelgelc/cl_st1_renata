@@ -1,0 +1,21 @@
+file = t042549
+date = 2023-07-26
+user = epochtimes
+conversation = 107814273983601296
+URL = https://truthsocial.com/@epochtimes/110777936868915593
+
+word count = 37
+words loading = 4
+factor score = 4
+
+6 GOP presidential candidates have qualified to participate in the first RNC 
+debate on Aug. 23 : Former President Trump, Ron DeSantis, Vivek Ramaswamy, 
+Nikki Haley, Tim Scott, and Chris Pence and Asa Hutchinson are likely to 
+qualify soon. 
+
+Lemmas in this text that loaded on the factor:
+
+candidate_nns 
+debate_nn 
+former_jj 
+presidential_jj 

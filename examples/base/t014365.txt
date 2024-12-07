@@ -1,0 +1,12 @@
+Huge huge_JJ
+ruling ruling_NN
+in in_IN
+Jack jack_NP
+Smith smith_NP
+' '
+s s_JJ
+witch witch_NN
+hunt hunt_NN
+against against_IN
+Trump trump_NP
+! !

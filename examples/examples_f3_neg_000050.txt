@@ -1,0 +1,24 @@
+file = t000075
+date = 2023-11-27
+user = AlexJones
+conversation = 107838014712814240
+URL = https://truthsocial.com/@AlexJones/111483680331255916
+
+word count = 40
+words loading = 2
+factor score = -2
+
+microbe_e face_with_medical_mask_e flag_united_nations_e clown_face_e 
+thinking_face_e #alexjonesshow_h #donotcomply_h EMERGENCY BROADCAST: UN Pushes 
+NEW Lockdowns to Counter Swine Flu, Chinese Mystery Pneumonia — TUNE IN NOW! 
+𝘊𝘠𝘉𝘌𝘙 𝘔𝘖𝘕𝘋𝘈𝘠 
+𝘈𝘊𝘛𝘐𝘝𝘈𝘛𝘌𝘋 ! ! #supportinfowars_h 𝘚𝘏𝘖𝘗 
+𝘕𝘖𝘞 : video_game_e grinning_squinting_face_e PLAY ' NWO WARS ' ! ! 
+crossed_swords_e 𝘈𝘭𝘦𝘹 𝘑𝘰𝘯𝘦𝘴 
+𝘋𝘦𝘧𝘦𝘯𝘴𝘦 𝘍𝘶𝘯𝘥 : closed_book_e exploding_head_e 
+Get your signed copy of ' The Great Awakening ' 
+
+Lemmas in this text that loaded on the factor:
+
+copy_nn 
+sign_vbn 

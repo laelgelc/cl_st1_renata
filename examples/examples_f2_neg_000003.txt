@@ -1,0 +1,21 @@
+file = t043983
+date = 2022-10-06
+user = epochtimes
+conversation = 107814273983601296
+URL = https://truthsocial.com/@epochtimes/109118411511125988
+
+word count = 42
+words loading = 4
+factor score = -4
+
+ He became much less conservative and I think a lot of people didn ' t like it, 
+Trump #woke_h cost former #unitedkingdom_h Prime Minister Boris Johnson his 
+political career, according to former President Trump: I think the party was 
+just an excuse. 
+
+Lemmas in this text that loaded on the factor:
+
+accord_vbg 
+conservative_jj 
+political_jj 
+think_vbp 

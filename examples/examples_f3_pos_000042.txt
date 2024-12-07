@@ -1,0 +1,20 @@
+file = t042810
+date = 2023-06-05
+user = epochtimes
+conversation = 107814273983601296
+URL = https://truthsocial.com/@epochtimes/110492844979453933
+
+word count = 36
+words loading = 4
+factor score = 4
+
+Former Vice President Mike Pence has filed papers to jump into the 2024 
+presidential primary for the GOP nomination, setting up a clash with President 
+is set to formally announce his candidacy on June 7 . 
+
+Lemmas in this text that loaded on the factor:
+
+former_jj 
+nomination_nn 
+presidential_jj 
+primary_nn 

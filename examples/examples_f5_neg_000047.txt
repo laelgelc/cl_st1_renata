@@ -1,0 +1,23 @@
+file = t000654
+date = 2023-11-13
+user = Charliekirk
+conversation = 107804978292323344
+URL = https://truthsocial.com/@Charliekirk/111404953382311561
+
+word count = 116
+words loading = 1
+factor score = -1
+
+Another reason Trump should consider Tucker for VP: He blunts the RFK Jr. had 
+Trump up on Biden in 5 / 6 swing states and WINNING the 2024 election. Add RFK 
+Jr. into the mix? Trump only leads 2 / 6 states and there ' s no clear on the 
+ticket will shore up support with many vaccine skeptic centrist voters and 
+Independents who RFK appeals to. Tucker slammed mandates and lockdowns and has 
+massive crossover appeal to RFK ' s core demo. Remember, when Tucker was still 
+on Fox, he wasn ' t just popular with conservatives: Among young viewers, he 
+was the most popular news show for is the conservative antidote to also has 12 
+years of runway. . . 
+
+Lemmas in this text that loaded on the factor:
+
+massive_jj 

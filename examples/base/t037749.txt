@@ -1,0 +1,12 @@
+red_circle_e red_circle_e
+Washington washington_NP
+Post post_NP
+Issues issues_NPS
+Corrections corrections_NP
+on on_IN
+Article article_NP
+About about_IN
+Conservative conservative_NP
+Journalist journalist_NP
+Chris chris_NP
+Rufo rufo_NP

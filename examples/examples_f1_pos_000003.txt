@@ -1,0 +1,52 @@
+file = t052592
+date = 2024-05-07
+user = maxjett12
+conversation = 108319249994754560
+URL = https://truthsocial.com/@maxjett12/112400618257199858
+
+word count = 152
+words loading = 24
+factor score = 24
+
+ Lie, lie, lie. The strategy of the lie is progressives ' new gospel. It is 
+what the progressive bible — Saul Alinsky ' s Rules for Radicals — is all 
+about. Alinsky understood the mistake Sixties ' radicals had made. His message 
+to this generation is easily summed up: Don ' t telegraph your goals; 
+infiltrate their institutions and subvert them; moral principles are disposable 
+fictions; the end justifies the means; and never forget that your political 
+goal is always SDS radical wrote in the Sixties: The issue is never the issue. 
+The issue is always the revolution. The Alinsky version is this: The issue is 
+never the issue; the issue is always power: How to wring power out of the 
+democratic process, how turn the process into an instrument of progressive 
+control. **#xteam_h** **#dt47_h** **#truthtrain_h** **#phpnews_h** **#tcd_h** 
+**#nightshift_h** **#lilypadlounge_h** **#fhfnews_h** **#rpn_h** **#ratpack_h** 
+**#twgrp_h** **#thefungicrew_h** **#5dnews_h** **#wtpafu_h** **#trump2024_h** 
+**#murchmadness_h** **#ncswic_h** **#maga2024_h** **#maga_h** **#fbj_h** 
+**#truth_h** **#trumpwon_h** **#wethepeople_h** **#trump_h** 
+
+Lemmas in this text that loaded on the factor:
+
+5dnews_h 
+dt47_h 
+fbj_h 
+fhfnews_h 
+lilypadlounge_h 
+maga2024_h 
+maga_h 
+murchmadness_h 
+ncswic_h 
+nightshift_h 
+phpnews_h 
+ratpack_h 
+rpn_h 
+tcd_h 
+thefungicrew_h 
+trump2024_h 
+trump_h 
+trumpwon_h 
+truth_h 
+truthtrain_h 
+twgrp_h 
+wethepeople_h 
+wtpafu_h 
+xteam_h 

@@ -1,0 +1,17 @@
+file = t005238
+date = 2023-08-15
+user = ConservativeBrief
+conversation = 107846872260084416
+URL = https://truthsocial.com/@ConservativeBrief/110894416234895752
+
+word count = 6
+words loading = 3
+factor score = -3
+
+Bad news for the far-left DA! 
+
+Lemmas in this text that loaded on the factor:
+
+far 
+left_jj 
+news_nn 

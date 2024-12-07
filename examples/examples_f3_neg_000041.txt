@@ -1,0 +1,22 @@
+file = t000065
+date = 2023-12-07
+user = AlexJones
+conversation = 107838014712814240
+URL = https://truthsocial.com/@AlexJones/111540251896343940
+
+word count = 49
+words loading = 2
+factor score = -2
+
+police_car_light_e police_car_light_e police_car_light_e #alexjonesshow_h Red 
+Alert Broadcast! Biden Holds Planet Hostage, Threatens DIRECT WAR With Russia 
+If Congress Doesn ' t Deliver $106 Billion to Zelensky — This Is Nuclear 
+Blackmail! WATCH LIVE ╰☆☆☆ #supportinfowars_h ☆☆☆╮ » » » 
+Play #nwowars_h: » » » 𝘈𝘭𝘦𝘹 𝘑𝘰𝘯𝘦𝘴 
+𝘋𝘦𝘧𝘦𝘯𝘴𝘦 𝘍𝘶𝘯𝘥 : » » » Get a signed copy of ' 
+The Great Awakening ' while you still can! #1a_h 
+
+Lemmas in this text that loaded on the factor:
+
+copy_nn 
+sign_vbn 

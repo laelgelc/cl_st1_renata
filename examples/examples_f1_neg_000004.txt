@@ -1,0 +1,25 @@
+file = t011783
+date = 2024-02-19
+user = DC_Draino
+conversation = 107813989985461776
+URL = https://truthsocial.com/@DC_Draino/111958665258084312
+
+word count = 99
+words loading = 4
+factor score = -4
+
+If you ' re looking for good news, just remember the Supreme Court will be 
+handing down the most transformational rulings in decades for our 1A free 
+speech rights by this July ( 4 months before the election ) Pay attention to 
+these key cases:Murthy v. Biden ( Federal gov ' t censorship of social media 
+posts ) O ' Handley v. Weber ( CA gov ' t telling Twitter 1 . 0 to censor 
+DC_Draino ) Moody v. NetChoice ( FL law banning discrimination of conservatives 
+) Paxton v. NetChoice ( TX law banning discrimination of conservatives ) NRA v. 
+Vullo ( NY gov ' t telling insurance companies not to work with NRA ) 
+
+Lemmas in this text that loaded on the factor:
+
+conservative_nns 
+free_jj 
+news_nn 
+speech_nn 

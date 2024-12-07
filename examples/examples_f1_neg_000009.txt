@@ -1,0 +1,21 @@
+file = t023459
+date = 2022-06-27
+user = JackPosobiec
+conversation = 107804720352471776
+URL = https://truthsocial.com/@JackPosobiec/108549883869273141
+
+word count = 49
+words loading = 4
+factor score = -4
+
+BREAKING: SCOTUS sides with a high school football coach in a First Amendment 
+case about prayer at the 50-yard-line. In a 6-3 ruling, SCOTUS says the public 
+school district violated the coach ' s free speech and free exercise rights 
+when it barred him from praying on the field after games 
+
+Lemmas in this text that loaded on the factor:
+
+breaking_nn 
+case_nn 
+free_jj 
+speech_nn 

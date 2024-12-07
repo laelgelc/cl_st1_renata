@@ -1,0 +1,21 @@
+file = t036832
+date = 2022-07-24
+user = RepMattGaetz
+conversation = 107820765822139728
+URL = https://truthsocial.com/@RepMattGaetz/108699885088467085
+
+word count = 47
+words loading = 4
+factor score = -4
+
+In our America, the people are empowered and the government is 
+constrained–not the other way our America, we are proudly Ultra MAGA–not 
+some low-energy roadside RINO safari. In our America, we are going to stand for 
+truth–and we are going to have a whole lot of fun doing it. WATCH: 
+
+Lemmas in this text that loaded on the factor:
+
+government_nn 
+other_jj 
+people_nns 
+way_nn 

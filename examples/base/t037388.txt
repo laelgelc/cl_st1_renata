@@ -1,0 +1,14 @@
+red_circle_e red_circle_e
+Watch watch_NP
+: :
+Nancy nancy_NP
+Mace mace_NP
+Issues issues_NPS
+Warning warning_NP
+to to_TO
+House house_NP
+GOP gop_NP
+Members members_NP
+Over over_IN
+Biden biden_NP
+Impeachment impeachment_NP

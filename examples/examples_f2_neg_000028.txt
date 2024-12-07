@@ -1,0 +1,22 @@
+file = t036404
+date = 2023-12-22
+user = RepClayHiggins
+conversation = 107815726286502432
+URL = https://truthsocial.com/@RepClayHiggins/111625860165915764
+
+word count = 56
+words loading = 4
+factor score = -3
+
+New law … If any state in our Union blocks the official nominee of a major 
+political party from the Presidential ballot, their electoral slate will not be 
+counted by Congress on the following January 6th. Play stupid games, win stupid 
+a very MAGA bill was introduced in the People ' s House on December 23rd at 
+0900 : / / 
+
+Lemmas in this text that loaded on the factor:
+
+bill_nn 
+law_nn 
+political_jj 
+presidential_jj (secondary)

@@ -1,0 +1,24 @@
+file = t010243
+date = 2023-09-12
+user = DCTheMan
+conversation = 109678637844306528
+URL = https://truthsocial.com/@DCTheMan/111049415855698250
+
+word count = 63
+words loading = 5
+factor score = 5
+
+THESE ARE THE SAME PEOPLE WHO PRETENDED THEY WERE DISGUSTED AT SEEING 
+INAPPROPRIATE PICS FROM HUNTERS LAPTOP OF HIM WITH UNDERAGE GIRLS WHILE TALKING 
+SHIT ABOUT US. **pouting_face_e** **pouting_face_e** **pouting_face_e** Susanna 
+Gibson, a 40-year-old mother of 2 children running for a seat in the 57th 
+district in suburban Richmond, reportedly used a platform called Chaturbate to 
+stream sex acts with her husband in exchange for ' tokens. ' 
+
+Lemmas in this text that loaded on the factor:
+
+child_nns 
+old_jj 
+pouting_face_e 
+sex_nn 
+year 

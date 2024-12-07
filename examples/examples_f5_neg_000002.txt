@@ -1,0 +1,20 @@
+file = t000385
+date = 2022-10-24
+user = BrandonStraka
+conversation = 107815387689187504
+URL = https://truthsocial.com/@BrandonStraka/109225646473702961
+
+word count = 59
+words loading = 2
+factor score = -2
+
+V is for VICTORY. OK Patriots- I ' m not ****in ' around. Let ' s win some 
+elections! ! oncoming_fist_light_skin_tone_e On my way to events in California 
+and Arizona, and spending election night with Kari Lake to celebrate her 
+VICTORY. Let ' s get this country back on track then I ' m gonna launch THE 
+victory machine after the midterms. LET ' S GOOOOO! 
+
+Lemmas in this text that loaded on the factor:
+
+election_nns 
+midterm_nns 

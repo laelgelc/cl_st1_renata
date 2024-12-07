@@ -1,0 +1,23 @@
+file = t038227
+date = 2024-05-24
+user = ScottPresler
+conversation = 107832303017566256
+URL = https://truthsocial.com/@ScottPresler/112496861114298674
+
+word count = 77
+words loading = 3
+factor score = -3
+
+WATCH THIS: Pennsylvania is Having a Political Realignment right_arrow_e 
+Republicans gained more than 10 , 000 new registrants in the last two months. 
+right_arrow_e What you ' re seeing here is a very big demographic shift. The 
+Republican Party is increasingly more populist. The Democrats are increasingly 
+more elitist. right_arrow_e Gov. Shapiro ' s big push for automatic 
+registration when getting a driver ' s license has resulted in bigger GOP 
+gains, which I doubt Josh was expecting when he got behind this. 
+
+Lemmas in this text that loaded on the factor:
+
+big_jj 
+political_jj 
+republican_nns 

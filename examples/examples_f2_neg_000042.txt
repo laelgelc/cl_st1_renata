@@ -1,0 +1,19 @@
+file = t040860
+date = 2023-04-24
+user = breitbartnews
+conversation = 107833145315165904
+URL = https://truthsocial.com/@breitbartnews/110255343374394830
+
+word count = 35
+words loading = 3
+factor score = -3
+
+UFC star Jorge Masvidal recently insisted that he is not afraid of the cancel 
+culture for speaking out about his conservative political beliefs because the 
+U. S. is the greatest country in the world. 
+
+Lemmas in this text that loaded on the factor:
+
+conservative_jj 
+country_nn 
+political_jj 

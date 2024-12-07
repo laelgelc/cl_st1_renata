@@ -1,0 +1,20 @@
+file = t034938
+date = 2022-10-01
+user = Qanon76
+conversation = 107834998234793712
+URL = https://truthsocial.com/@Qanon76/109093080470210857
+
+word count = 33
+words loading = 4
+factor score = -4
+
+Far-left protesters attempt to storm CPAC AustraliaJust shows how afraid these 
+people are of people who stand for real freedom. Could you imagine the 
+concocted outrage if conservatives stormed a Greens party meeting? ? 
+
+Lemmas in this text that loaded on the factor:
+
+conservative_nns 
+far 
+freedom_nn 
+left_jj 

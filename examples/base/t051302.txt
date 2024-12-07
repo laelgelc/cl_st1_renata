@@ -1,0 +1,45 @@
+A a_DT
+witness witness_NN
+at at_IN
+the the_DT
+House house_NP
+hearing hearing_NN
+on on_IN
+ "  "
+Anti-LGBTQ anti-lgbtq_JJ
+violence violence_NN
+ "  "
+just just_RB
+said say_VBD
+that that_IN
+parents parent_NNS
+have have_VBP
+no no_DT
+right right_NN
+to to_TO
+know know_VB
+if if_IN
+their their
+kids kid_NNS
+are be_VBP
+going go_VBG
+through through_IN
+sex sex_NN
+changes change_NNS
+and and_CC
+that that_IN
+the the_DT
+ "  "
+age age_NN
+of of_IN
+consent consent_NN
+ "  "
+her her
+non-profit non-profit_JJ
+uses use_NNS
+to to_TO
+transition transition_NN
+children child_NNS
+is be_VBZ
+12 @card@
+. .

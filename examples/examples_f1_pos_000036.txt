@@ -1,0 +1,51 @@
+file = t052541
+date = 2024-05-12
+user = maxjett12
+conversation = 108319249994754560
+URL = https://truthsocial.com/@maxjett12/112428961596579592
+
+word count = 122
+words loading = 24
+factor score = 24
+
+If the unpersoning and criminalization of Donald Trump is allowed to stand, 
+judicially, politically and militarily, no genuine opponent of globalist 
+tyranny and the deliberate erasure of the United States will ever be allowed to 
+rise to political prominence. Never again. A 2024 election with Donald Trump 
+removed from the ballot by the same Demo-Communist extrajudicial corruption 
+that rigged the 2020 election signals an end, not just to the pretense of 
+political process in our nation. . . but an end to America as a concept. And 
+the Demo-Communists and starving laughy-emoji idiots who hate this nation will 
+cheer their own destruction. **#xteam_h** **#dt47_h** **#truthtrain_h** 
+**#phpnews_h** **#tcd_h** **#nightshift_h** **#lilypadlounge_h** **#fhfnews_h** 
+**#rpn_h** **#ratpack_h** **#twgrp_h** **#thefungicrew_h** **#5dnews_h** 
+**#wtpafu_h** **#trump2024_h** **#murchmadness_h** **#ncswic_h** 
+**#maga2024_h** **#maga_h** **#fbj_h** **#truth_h** **#trumpwon_h** 
+**#wethepeople_h** **#trump_h** 
+
+Lemmas in this text that loaded on the factor:
+
+5dnews_h 
+dt47_h 
+fbj_h 
+fhfnews_h 
+lilypadlounge_h 
+maga2024_h 
+maga_h 
+murchmadness_h 
+ncswic_h 
+nightshift_h 
+phpnews_h 
+ratpack_h 
+rpn_h 
+tcd_h 
+thefungicrew_h 
+trump2024_h 
+trump_h 
+trumpwon_h 
+truth_h 
+truthtrain_h 
+twgrp_h 
+wethepeople_h 
+wtpafu_h 
+xteam_h 

@@ -1,0 +1,20 @@
+file = t027833
+date = 2022-10-10
+user = JennaEllisEsq
+conversation = 107810042577943552
+URL = https://truthsocial.com/@JennaEllisEsq/109146334490900260
+
+word count = 26
+words loading = 4
+factor score = -4
+
+BREAKING: No one believes PayPal. Ever wonder why errors always seem to only go 
+one direction — AGAINST conservatives and free speech? @JackPosobiec today 
+with more: 
+
+Lemmas in this text that loaded on the factor:
+
+breaking_nn 
+conservative_nns 
+free_jj 
+speech_nn 

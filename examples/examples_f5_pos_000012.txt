@@ -1,0 +1,22 @@
+file = t055281
+date = 2023-11-28
+user = realamericasvoice
+conversation = 107837389161471088
+URL = https://truthsocial.com/@realamericasvoice/111488749345978515
+
+word count = 55
+words loading = 4
+factor score = 4
+
+Another Media Smear Against a Parental Rights AdvocateThe Los Angeles Times 
+published an article attacking Chino Valley School Board President Sonja Shaw 
+as a right-wing zealot. This, because of a rule her school board passed. The 
+rule said parents must be informed if their children want to use different LIVE 
+right_arrow_e more #stinchfieldtonight_h with @stinchfield1776 here: 
+
+Lemmas in this text that loaded on the factor:
+
+child_nns 
+parent_nns 
+school_nn 
+wing_jj 

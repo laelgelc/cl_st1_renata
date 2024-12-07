@@ -1,0 +1,20 @@
+file = t036567
+date = 2023-08-15
+user = RepMTG
+conversation = 107825831647341200
+URL = https://truthsocial.com/@RepMTG/110894632552333005
+
+word count = 63
+words loading = 2
+factor score = -2
+
+All of these communist indictments are about silencing President Trump ' s 
+speech and ultimately YOUR free radical left has been trying to destroy free 
+speech by telling you that you can ' t say things like this: The election was 
+stolen. Trump won. Voting machines can be hacked to change votes and steal 
+elections. Mass absentee ballot mailings created massive election fraud. THREAD 
+
+Lemmas in this text that loaded on the factor:
+
+election_nns 
+massive_jj 

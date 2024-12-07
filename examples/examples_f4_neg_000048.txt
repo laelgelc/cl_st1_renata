@@ -1,0 +1,24 @@
+file = t038931
+date = 2023-05-09
+user = ThePatriotVoice
+conversation = 107834263369962160
+URL = https://truthsocial.com/@ThePatriotVoice/110337701836534157
+
+word count = 93
+words loading = 4
+factor score = -4
+
+One thing I wanted to highlight, is that in NO way do I wish ANY harm, or ill 
+will to the migrants that are being used as Globalist PAWNS for their NWO ally 
+the CHILDREN. I think it ' s important to understand that those people, I ' d 
+say MOST of them, don ' t know any better. They see our doors wide open, 
+offering food, shelter, clothes, healthcare etc. They would be crazy NOT to 
+take it…The FAULT of this humanitarian CRISIS falls on the backs of those who 
+want to see our FALL. 
+
+Lemmas in this text that loaded on the factor:
+
+know_vbp 
+people_nns 
+want_vbp 
+way_nn 

@@ -1,0 +1,18 @@
+file = t005300
+date = 2023-08-09
+user = ConservativeBrief
+conversation = 107846872260084416
+URL = https://truthsocial.com/@ConservativeBrief/110860732573763281
+
+word count = 33
+words loading = 2
+factor score = -2
+
+The amount of corruption evidence on the Bidens that Republicans have found is 
+week, it seems like more massive evidence is are they waiting for? Why aren ' t 
+they launching impeachment hearings? ? 
+
+Lemmas in this text that loaded on the factor:
+
+impeachment_nn 
+massive_jj 

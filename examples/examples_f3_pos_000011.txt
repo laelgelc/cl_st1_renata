@@ -1,0 +1,22 @@
+file = t043292
+date = 2023-02-26
+user = epochtimes
+conversation = 107814273983601296
+URL = https://truthsocial.com/@epochtimes/109932798500202387
+
+word count = 47
+words loading = 5
+factor score = 5
+
+ We ' re saying you ' re not going to get on the debate stage unless you make 
+this pledge. @GOPChairwoman Ronna McDaniel said that all GOP candidates who 
+want to take part in the first presidential debate need to pledge to support 
+the eventual 2024 Republican nominee. 
+
+Lemmas in this text that loaded on the factor:
+
+candidate_nns 
+debate_nn 
+nominee_nn 
+presidential_jj 
+republican_jj 

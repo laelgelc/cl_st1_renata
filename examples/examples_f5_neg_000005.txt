@@ -1,0 +1,22 @@
+file = t012111
+date = 2022-11-09
+user = DC_Draino
+conversation = 107813989985461776
+URL = https://truthsocial.com/@DC_Draino/109315188836496858
+
+word count = 85
+words loading = 2
+factor score = -2
+
+There ' s a lot to be upset about from the Midterms, but let ' s zoom out and 
+absorb the positives:GOP will control the House and the Senate - a majority is 
+a majority no matter how small - Biden is done. Lame duck_e. KArizona is going 
+to happenNevada and Arizona will get their elections cleaned up - 2 swing 
+states down, 4 to goFlorida was an insane blowout - DeSantis is a future POTUS 
+and proved Ultra MAGA & secure elections are a winning recipeStacy Abrams & 
+Beto are unemployedImpeachment? 
+
+Lemmas in this text that loaded on the factor:
+
+election_nns 
+midterm_nns 

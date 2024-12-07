@@ -1,0 +1,21 @@
+file = t042809
+date = 2023-06-05
+user = epochtimes
+conversation = 107814273983601296
+URL = https://truthsocial.com/@epochtimes/110492876642734920
+
+word count = 37
+words loading = 4
+factor score = 4
+
+ My hope would be that…it becomes a two- or three-person race, Sen. John 
+Cornyn Republicans who are opposed to former President @realDonaldTrump ' s 
+2024 presidential bid have expressed worry that Trump will prevail with a 
+crowded GOP primary field. 
+
+Lemmas in this text that loaded on the factor:
+
+bid_nn 
+former_jj 
+presidential_jj 
+race_nn 

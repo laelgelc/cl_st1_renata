@@ -1,0 +1,21 @@
+file = t029999
+date = 2022-02-22
+user = JennaEllisEsq
+conversation = 107810042577943552
+URL = https://truthsocial.com/@JennaEllisEsq/107839053782713189
+
+word count = 31
+words loading = 5
+factor score = -4
+
+I wish I could quote Truth, but until then … THANKS to everyone who said hi 
+and proud to see so many great patriots on this platform that want to speak 
+TRUTH! flexed_biceps_e red_heart_e flag_united_states_e 
+
+Lemmas in this text that loaded on the factor:
+
+great_jj 
+many_jj 
+patriot_nns (secondary)
+say_vbd 
+want_vbp 

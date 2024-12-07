@@ -1,0 +1,21 @@
+file = t044182
+date = 2022-08-28
+user = epochtimes
+conversation = 107814273983601296
+URL = https://truthsocial.com/@epochtimes/108902172117412091
+
+word count = 39
+words loading = 4
+factor score = 4
+
+A children ' s hospital in #washington_h is denying it has performed sex change 
+surgeries on minors after workers were recorded saying a 16-year-old could get 
+a sex change, and its website offered gender-affirming hysterectomies to 
+children as young as zero. 
+
+Lemmas in this text that loaded on the factor:
+
+child_nns 
+old_jj 
+sex_nn 
+year 

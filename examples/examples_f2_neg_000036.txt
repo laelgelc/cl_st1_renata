@@ -1,0 +1,20 @@
+file = t038302
+date = 2022-08-03
+user = ScottPresler
+conversation = 107832303017566256
+URL = https://truthsocial.com/@ScottPresler/108759738114793979
+
+word count = 38
+words loading = 3
+factor score = -3
+
+Last night, I read the cheers & taunts as democrats ( & establishment 
+Republicans ) celebrated early vote by mail started as a bleak evening turned 
+into big conservative vote gains, as election day results was like the inverse 
+of 2020 . 
+
+Lemmas in this text that loaded on the factor:
+
+big_jj 
+conservative_jj 
+republican_nns 

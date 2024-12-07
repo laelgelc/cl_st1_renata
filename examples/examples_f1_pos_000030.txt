@@ -1,0 +1,50 @@
+file = t052562
+date = 2024-05-10
+user = maxjett12
+conversation = 108319249994754560
+URL = https://truthsocial.com/@maxjett12/112417268114657738
+
+word count = 129
+words loading = 24
+factor score = 24
+
+ The Democrat Party is threatened by people whose economic circumstances 
+improve to the point that they do not need government first and foremost. That 
+' s a threat. But this happens when the U. S. economy is humming. There is a 
+lot of upward mobility, and people leave the lower depths of poverty and start 
+traversing a pathway through the middle class to the upper middle class, and as 
+they leave, the Democrats have to replace them. That is what illegal 
+immigration has been since 1965 when Ted Kennedy reintroduced the whole concept 
+after 40 years of no immigration from 1921 to 1965 . - Rush Limbaugh 
+**#xteam_h** **#dt47_h** **#truthtrain_h** **#phpnews_h** **#tcd_h** 
+**#nightshift_h** **#lilypadlounge_h** **#fhfnews_h** **#rpn_h** **#ratpack_h** 
+**#twgrp_h** **#thefungicrew_h** **#5dnews_h** **#wtpafu_h** **#trump2024_h** 
+**#murchmadness_h** **#ncswic_h** **#maga2024_h** **#maga_h** **#fbj_h** 
+**#truth_h** **#trumpwon_h** **#wethepeople_h** **#trump_h** 
+
+Lemmas in this text that loaded on the factor:
+
+5dnews_h 
+dt47_h 
+fbj_h 
+fhfnews_h 
+lilypadlounge_h 
+maga2024_h 
+maga_h 
+murchmadness_h 
+ncswic_h 
+nightshift_h 
+phpnews_h 
+ratpack_h 
+rpn_h 
+tcd_h 
+thefungicrew_h 
+trump2024_h 
+trump_h 
+trumpwon_h 
+truth_h 
+truthtrain_h 
+twgrp_h 
+wethepeople_h 
+wtpafu_h 
+xteam_h 

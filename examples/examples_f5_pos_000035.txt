@@ -1,0 +1,23 @@
+file = t040914
+date = 2022-09-17
+user = breitbartnews
+conversation = 107833145315165904
+URL = https://truthsocial.com/@breitbartnews/109014490692312818
+
+word count = 64
+words loading = 4
+factor score = 4
+
+An activist claims she was kicked by Rep. #marjorietaylorgreene_h. The 
+congresswoman denies. Watch for yourself and ory: Greene was confronted 
+Thursday by gun control activists on Capitol Hill. These foolish cowards want 
+the government to take away guns & the rights of parents to defend their 
+children in schools, she later wrote on Twitter. 18-year-old Marianna Pecora 
+accuses Greene of kicking her during the incident. 
+
+Lemmas in this text that loaded on the factor:
+
+child_nns 
+old_jj 
+parent_nns 
+year 

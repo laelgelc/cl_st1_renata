@@ -1,0 +1,18 @@
+file = t000145
+date = 2023-08-05
+user = AlexJones
+conversation = 107838014712814240
+URL = https://truthsocial.com/@AlexJones/110838111391569070
+
+word count = 32
+words loading = 1
+factor score = -1
+
+police_car_light_e police_car_light_e police_car_light_e NOW LIVE: Alex Jones 
+Takes Deep Dive with Q Shaman + Army Intel Officer Scott Bennett Reveals 
+Massive Escalation of Ukrainian War! Tune in UNCENSORED: closed_book_e Get Alex 
+' s 𝙉𝙀𝙒 book & help #supportinfowars_h! 
+
+Lemmas in this text that loaded on the factor:
+
+massive_jj 

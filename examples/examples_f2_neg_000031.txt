@@ -1,0 +1,29 @@
+file = t036509
+date = 2024-03-27
+user = RepMTG
+conversation = 107825831647341200
+URL = https://truthsocial.com/@RepMTG/112167914450917467
+
+word count = 167
+words loading = 3
+factor score = -3
+
+Speaker Johnson, you can ' t follow Christ and fund full term abortion ' s the 
+inconvenient EVERY Republican in my conference that voted for the $1 . 2 
+TRILLION woke, trans ideology, DEI, Open Border Policy, abortion ABOMINATION 
+omnibus that is upset with me, YOU should be outraged that your Speaker made 
+you walk that plank for him in order to pay our military House Republicans are 
+lucky, Trump drags us across the line in November and we will still have the 
+majority next Congress, but we won ' t win the majority on our job performance! 
+After the Schumer / Johnson uniparty BETRAYAL bill, we have not put up the 
+fight to give Conservative Republicans and America First voters across America 
+any reason to want to vote for Republicans after Trump is d, under Speaker 
+Johnson the House showed them a future Republican Party that not only did NOT 
+listen to its voters, reminded them that the Swamp has its ways and will never 
+change unless it is forced. 
+
+Lemmas in this text that loaded on the factor:
+
+bill_nn 
+majority_nn 
+republican_nns 

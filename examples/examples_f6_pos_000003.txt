@@ -1,0 +1,15 @@
+file = t056640
+date = 2022-05-07
+user = truthsocial
+conversation = 107759501782461328
+URL = https://truthsocial.com/@truthsocial/108262307033552137
+
+word count = 17
+words loading = 0
+factor score = 
+
+BIG NEWS! Our inaugural Truth Social Patriot hat is now available for purchase. 
+Get yours today: 
+
+Lemmas in this text that loaded on the factor:
+

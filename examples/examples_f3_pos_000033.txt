@@ -1,0 +1,23 @@
+file = t051881
+date = 2024-01-22
+user = marklevinshow
+conversation = 107809721243372672
+URL = https://truthsocial.com/@marklevinshow/111799754423734243
+
+word count = 77
+words loading = 4
+factor score = 4
+
+No, Nikki ( and her media sycophants ) , it is not down to two. It is down to 
+one, President Trump. Simply because you remain in the race, funded and 
+supported by Joe Biden ' s supporters and billionaires, doesn ' t mean you ' ve 
+any path to the GOP presidential nomination. You don ' t. Maybe you ' d have a 
+better shot in the Democrat primary given the extent to which you ' ve been 
+campaigning for that party ' s support. 
+
+Lemmas in this text that loaded on the factor:
+
+nomination_nn 
+presidential_jj 
+primary_nn 
+race_nn 

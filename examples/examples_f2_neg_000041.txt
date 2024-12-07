@@ -1,0 +1,23 @@
+file = t040734
+date = 2022-09-12
+user = brandongill
+conversation = 107809856054052064
+URL = https://truthsocial.com/@brandongill/108986421143742974
+
+word count = 70
+words loading = 3
+factor score = -3
+
+Brian Stelter going to Harvard to teach about threats to democracy is another 
+egregious example of the powerful, elite class of buffoons in this country who 
+continually fail upwards, ascending to greater and greater positions of power 
+and influence despite their unadulterated real threat to democracy isn ' t 
+Trump, his supporters or conservative media. It ' s this class of 
+pseudo-educated dunces who control cultural, financial and political levers of 
+power. 
+
+Lemmas in this text that loaded on the factor:
+
+conservative_jj 
+country_nn 
+political_jj 

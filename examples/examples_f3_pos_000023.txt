@@ -1,0 +1,22 @@
+file = t032061
+date = 2023-08-21
+user = NewsMax
+conversation = 107764331655353184
+URL = https://truthsocial.com/@NewsMax/110928174027773977
+
+word count = 38
+words loading = 5
+factor score = 5
+
+GOP DEBATE: With former President Trump out of the mix for the first GOP 
+presidential debate Wednesday, Republican contenders will have to walk a thin 
+line — making their case without turning off the former president ' s 
+rock-solid supporters. 
+
+Lemmas in this text that loaded on the factor:
+
+debate_nn 
+former_jj 
+president_nn 
+presidential_jj 
+republican_jj 

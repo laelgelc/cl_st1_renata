@@ -1,0 +1,24 @@
+file = t050540
+date = 2023-02-26
+user = lancewallnau
+conversation = 107838888576969024
+URL = https://truthsocial.com/@lancewallnau/109928097082680820
+
+word count = 62
+words loading = 5
+factor score = -5
+
+Is our government following in Mussolini ' s footsteps? #communism_h #fascism_h 
+#mussolinidid_h you know that Mussolini once said that fascist states work by 
+merging big business and big government to control media and education? That ' 
+s exactly what we ' re seeing today. We are in danger of becoming a 
+totalitarian t Episode 918 : How to stop Satan from dividing conservatives! - 
+Listen at 
+
+Lemmas in this text that loaded on the factor:
+
+government_nn 
+know_vbp 
+say_vbd 
+stop_vb 
+today_nn 

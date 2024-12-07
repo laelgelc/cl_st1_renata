@@ -1,0 +1,30 @@
+file = t030177
+date = 2024-02-15
+user = JewelsJones
+conversation = 107834595014675536
+URL = https://truthsocial.com/@JewelsJones/111936857424701768
+
+word count = 149
+words loading = 5
+factor score = -5
+
+waving_hand_e We ' ve got an awesome sponsor for today ' s episode of ' In the 
+Litter Box ' with @JewelsJones and @Catturd2 on @rumble. It ' s none other than 
+My Patriot Supply! They ' ve got a fantastic deal for you - save $60 per kit! 
+Just visit to grab this offer. Now, let ' s talk about trust. We all know how 
+government leaders and so-called experts can let us down. But guess what? You ' 
+re not as powerless as they want you to believe. When you can ' t depend on 
+anyone else, it ' s time to rely on yourself. That ' s where @MyPatriotSupply 
+comes in. They ' ve helped millions of American families achieve self-reliance. 
+Their 4-Week Emergency Food Kit is the real deal. Packed with meals, drinks, 
+and snacks, it provides over 2 , 000 calories every day. And these kits are 
+sealed in heavy-duty packaging, lasting up to 25 years in storage! Check it out 
+today! 
+
+Lemmas in this text that loaded on the factor:
+
+government_nn 
+know_vbp 
+other_jj 
+today_nn 
+want_vbp 

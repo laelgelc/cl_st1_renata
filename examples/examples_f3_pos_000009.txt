@@ -1,0 +1,21 @@
+file = t044619
+date = 2022-05-27
+user = epochtimes
+conversation = 107814273983601296
+URL = https://truthsocial.com/@epochtimes/108376443332078977
+
+word count = 36
+words loading = 5
+factor score = 5
+
+ I am blessed to have earned the presumptive Republican nomination, Oz same day 
+that #pennsylvania_h counties can begin recounting ballots in the GOP US Senate 
+primary, Dr. Mehmet Oz declared himself the presumptive Republican nominee. 
+
+Lemmas in this text that loaded on the factor:
+
+ballot_nns 
+nomination_nn 
+nominee_nn 
+primary_nn 
+republican_jj 

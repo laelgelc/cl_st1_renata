@@ -1,0 +1,17 @@
+file = t037107
+date = 2024-06-13
+user = ResisttheMainstream
+conversation = 107838850131880704
+URL = https://truthsocial.com/@ResisttheMainstream/112609298621997621
+
+word count = 11
+words loading = 2
+factor score = 2
+
+**red_circle_e** Federal Judge Issues Ruling over Transgender Medical 
+Treatments for Children 
+
+Lemmas in this text that loaded on the factor:
+
+issues_nps 
+red_circle_e 

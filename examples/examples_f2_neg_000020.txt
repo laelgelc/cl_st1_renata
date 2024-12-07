@@ -1,0 +1,21 @@
+file = t017317
+date = 2023-01-11
+user = DineshDSouza
+conversation = 107810096875431984
+URL = https://truthsocial.com/@DineshDSouza/109672056747622374
+
+word count = 56
+words loading = 4
+factor score = -3
+
+The House GOP should pass a bill basically wiping out the IRS and the tax code 
+and instituting a flat tax of 15 % . The rich pay more, but they pay at the 
+same rate. No, this won ' t become law now but it can become a central plank 
+for Republicans in the 2024 presidential election 
+
+Lemmas in this text that loaded on the factor:
+
+bill_nn 
+law_nn 
+presidential_jj (secondary)
+republican_nns 

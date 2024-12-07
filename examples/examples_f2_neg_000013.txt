@@ -1,0 +1,31 @@
+file = t055844
+date = 2023-11-17
+user = repmeuser
+conversation = 108991629462392592
+URL = https://truthsocial.com/@repmeuser/111426689236372851
+
+word count = 158
+words loading = 4
+factor score = -4
+
+While Republicans have just a small majority in the House, we ' ve passed 
+legislation to secure our border, promote energy dominance, & more. We have 
+stopped Democrats from passing new burdensome regulations, taxes, & excessive 
+spending, including tens of billions of dollars in student loan giveaways. Our 
+committees have fought to keep the SEC, EPA, & other agencies in check. Our 
+Oversight Committee is also the only reason Biden ' s corruption has been 
+exposed & evidence has come to light regarding his family ' s pay-to-play 
+scheme with foreign nationals. Despite Republicans only controlling the House, 
+we have been successful in our efforts to counter Democrat policies that would 
+harm America. If we are truly going to grow our economy to outcompete China, 
+strengthen our national security, secure our border, and abide by 
+Constitutional law, we must take the White House and gain the majority in the 
+Senate. If we do that, GOP policies will undoubtedly lead to a more prosperous, 
+safer country. 
+
+Lemmas in this text that loaded on the factor:
+
+country_nn 
+law_nn 
+majority_nn 
+republican_nns 

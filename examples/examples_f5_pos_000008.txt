@@ -1,0 +1,23 @@
+file = t009389
+date = 2024-06-11
+user = DCTheMan
+conversation = 109678637844306528
+URL = https://truthsocial.com/@DCTheMan/112599949589421432
+
+word count = 49
+words loading = 5
+factor score = 5
+
+MORE THAN 300 PEOPLE DIE OF FENTANYL OVERDOSES IN THE STATES EVERY DAY, 
+FENTANYL THAT IS POURING OVER THE SOUTHERN BORDER. **pouting_face_e** The 
+husband a New York City day care owner pleaded guilty to federal charges on 
+Monday related to the fentanyl poisonings of four children, including a 
+one-year-old who: / / 
+
+Lemmas in this text that loaded on the factor:
+
+child_nns 
+federal_jj 
+old_jj 
+pouting_face_e 
+year 

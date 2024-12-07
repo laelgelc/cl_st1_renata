@@ -1,0 +1,21 @@
+file = t053960
+date = 2023-05-10
+user = realDonaldTrump
+conversation = 107780257626128496
+URL = https://truthsocial.com/@realDonaldTrump/110345987304603640
+
+word count = 56
+words loading = 4
+factor score = -4
+
+Heading to the Great State of New Hampshire. CNN LIVE, Tonight, 8:00 P. M. Is 
+CNN making a comeback, or is it just a charade? They must treat MAGA, the 
+greatest political movement in our Country ' s history, with respect. I think 
+they will, but we will soon find out? Big long term opportunity for CNN! ! ! 
+
+Lemmas in this text that loaded on the factor:
+
+big_jj 
+country_nn 
+political_jj 
+think_vbp 

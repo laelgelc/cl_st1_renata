@@ -1,0 +1,24 @@
+file = t036765
+date = 2023-04-15
+user = RepMattGaetz
+conversation = 107820765822139728
+URL = https://truthsocial.com/@RepMattGaetz/110200079848216230
+
+word count = 72
+words loading = 5
+factor score = -4
+
+We need a better way to utilize the federal whistleblower system when people 
+believe they are observing corrupt actions or lies from the eblowers who have 
+come forward from the FBI were slandered and smeared by the mainstream media 
+and congressional have to look at ways to protect people who are trying to do 
+the good, right, and patriotic thing – but that certainly isn ' t advanced by 
+the leaking of information. 
+
+Lemmas in this text that loaded on the factor:
+
+good_jj 
+need_vbp 
+patriotic_jj (secondary)
+people_nns 
+way_nn 

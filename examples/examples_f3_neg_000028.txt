@@ -1,0 +1,21 @@
+file = t000040
+date = 2024-01-10
+user = AlexJones
+conversation = 107838014712814240
+URL = https://truthsocial.com/@AlexJones/111732917242434552
+
+word count = 42
+words loading = 2
+factor score = -2
+
+speaking_head_e prohibited_e prohibited_e prohibited_e #alexjonesshow_h 
+Wednesday LIVE: Trump Warns of Economic Crash, Hunter Biden Flees Congress, 
+Public Schools Closed to House Illegals, Secretary of Defense Still Missing! 
+Must-Watch ╰☆☆☆ #supportinfowars_h ☆☆☆╮ sparkles_e #nwowars_h 
+AVAILABLE on Steam! closed_book_e writing_hand_e Get a signed copy of ' The 
+Great Awakening ' while you still can! #1a_h 
+
+Lemmas in this text that loaded on the factor:
+
+copy_nn 
+sign_vbn 

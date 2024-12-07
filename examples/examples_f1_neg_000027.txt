@@ -1,0 +1,27 @@
+file = t000295
+date = 2023-10-01
+user = AmericanAF
+conversation = 107805530024746000
+URL = https://truthsocial.com/@AmericanAF/111160694384361482
+
+word count = 153
+words loading = 3
+factor score = -3
+
+In High School on Quantico Marine military base, I won a Patriotic essay 
+contest. We were to write what patriotism means and what makes a good patriot. 
+This was back in 1997 . I won by writing about a unique form of patriot. Of 
+course we all wrote about veterans, as all our dad ' s were Marines. So I 
+thought hard about other types of patriots. I wrote about Jonas Sulk - the 
+inventor of the first effective polio vaccine. The group of hardened Marine 
+veteran judges chose me as the winner. He saved countless American lives. 
+Little did I know I was writing about who would become the 45th, 46th, and 47th 
+President of the USA -- Donald Trump. He doesn ' t get the credit he deserves 
+for Operation Warp Speed. He did his part. He ' s a hero! Any malfeasance rests 
+solely on Quack Fauci and his gang of thieves. End of story! 
+
+Lemmas in this text that loaded on the factor:
+
+patriot_nn 
+patriot_nns 
+patriotic_jj 

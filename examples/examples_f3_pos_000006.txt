@@ -1,0 +1,24 @@
+file = t032150
+date = 2023-07-07
+user = NewsMax
+conversation = 107764331655353184
+URL = https://truthsocial.com/@NewsMax/110674000869793827
+
+word count = 36
+words loading = 8
+factor score = 6
+
+More than half of likely Texas GOP primary voters back former President Donald 
+Trump in his bid to win the party ' s presidential nomination, according to a 
+poll by Defend Texas Liberty PAC. Read more: 
+
+Lemmas in this text that loaded on the factor:
+
+accord_vbg (secondary)
+bid_nn 
+former_jj 
+nomination_nn 
+poll_nn 
+presidential_jj 
+voter_nns 
+win_vb (secondary)

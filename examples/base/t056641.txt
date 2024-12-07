@@ -1,0 +1,17 @@
+User user_NN
+engagement engagement_NN
+on on_IN
+#truth_h truth_h
+is be_VBZ
+off off_RB
+the the_DT
+charts…and charts…and
+we we_PP
+' '
+re re_NN
+just just_RB
+getting get_VBG
+started start_VBN
+! !
+#realpeoplerealengagement_h realpeoplerealengagement_h
+#truthsocial_h truthsocial_h

@@ -1,0 +1,22 @@
+file = t039003
+date = 2023-02-15
+user = ThePatriotVoice
+conversation = 107834263369962160
+URL = https://truthsocial.com/@ThePatriotVoice/109870655672449757
+
+word count = 51
+words loading = 4
+factor score = -4
+
+BREAKING! **police_car_light_e** Republicans SUBPOENA the CEOs of Amazon, 
+Microsoft, Apple, Meta and Alphabet for all documents on ' collusion ' with the 
+government to ' suppress free speech ' Looking like the ENDLESS, out of 
+control, unwarranted Big Tech censorship is going to come to a SWIFT lly we 
+will see some handcuffs & perp walks! 
+
+Lemmas in this text that loaded on the factor:
+
+breaking_nn 
+free_jj 
+police_car_light_e 
+speech_nn 

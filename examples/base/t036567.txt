@@ -1,0 +1,77 @@
+All all_DT
+of of_IN
+these these_DT
+communist communist_JJ
+indictments indictment_NNS
+are be_VBP
+about about_RB
+silencing silence_VBG
+President president_NP
+Trump trump_NP
+' '
+s s_NN
+speech speech_NN
+and and_CC
+ultimately ultimately_RB
+YOUR your_JJ
+free free_JJ
+radical radical_JJ
+left left_NN
+has have_VBZ
+been be_VBN
+trying try_VBG
+to to_TO
+destroy destroy_VB
+free free_JJ
+speech speech_NN
+by by_IN
+telling tell_VBG
+you you_PP
+that that_IN
+you you_PP
+can can_MD
+' '
+t t_NN
+say say_VBP
+things thing_NNS
+like like_IN
+this this_DT
+: :
+ "  "
+The the_DT
+election election_NN
+was be_VBD
+stolen steal_VBN
+. .
+ "  "
+ "  "
+Trump trump_NP
+won win_VBD
+. .
+ "  "
+ "  "
+Voting voting_NN
+machines machine_NNS
+can can_MD
+be be_VB
+hacked hack_VBN
+to to_TO
+change change_VB
+votes vote_NNS
+and and_CC
+steal steal_VB
+elections election_NNS
+. .
+ "  "
+ "  "
+Mass mass_JJ
+absentee absentee_NN
+ballot ballot_NN
+mailings mailing_NNS
+created create_VBD
+massive massive_JJ
+election election_NN
+fraud fraud_NN
+. .
+ "  "
+THREAD thread_NN

@@ -1,0 +1,28 @@
+file = t051876
+date = 2024-01-28
+user = marklevinshow
+conversation = 107809721243372672
+URL = https://truthsocial.com/@marklevinshow/111833960829828560
+
+word count = 134
+words loading = 4
+factor score = 4
+
+And this is how Hamas-supporting CNN reports on the border. Biden supports 
+tougher border security, and the GOP conservatives oppose him. And, of course, 
+it ' s all Donald Trump ' s fault. Everyone knows that Biden is the new slaver, 
+unleashing anarchy and the Mexican cartels on the border, resulting in a huge 
+increase in sex trafficking of women and children. Biden pretends to care now, 
+only because the American people have had enough, and this self-aggrandizing, 
+unhinged buffoon will do anything to stay in the White will CNN dry up and blow 
+away like some of the other radical left-wing Democrat Party phony news 
+platforms? Apparently, the fact that is has no ratings doesn ' t matter. The 
+public cannot stand it. But big corporate, woke money keeps it afloat. Now, 
+back to CNN trashing Israel 
+
+Lemmas in this text that loaded on the factor:
+
+child_nns 
+left 
+sex_nn 
+wing_jj 

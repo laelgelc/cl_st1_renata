@@ -1,0 +1,20 @@
+file = t044660
+date = 2022-05-24
+user = epochtimes
+conversation = 107814273983601296
+URL = https://truthsocial.com/@epochtimes/108359385251084829
+
+word count = 34
+words loading = 4
+factor score = 4
+
+ It ' s believed that responding officers killed him, Abbott said. 14 children 
+and a teacher were fatally shot by an 18-year-old male at an elementary school 
+in #texas_h on May 24 , Gov. #gregabbott_h said. 
+
+Lemmas in this text that loaded on the factor:
+
+child_nns 
+old_jj 
+school_nn 
+year 

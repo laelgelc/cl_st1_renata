@@ -1,0 +1,17 @@
+file = t037749
+date = 2023-01-10
+user = ResisttheMainstream
+conversation = 107838850131880704
+URL = https://truthsocial.com/@ResisttheMainstream/109665585716866707
+
+word count = 12
+words loading = 2
+factor score = 2
+
+**red_circle_e** Washington Post Issues Corrections on Article About 
+Conservative Journalist Chris Rufo 
+
+Lemmas in this text that loaded on the factor:
+
+issues_nps 
+red_circle_e 

@@ -1,0 +1,25 @@
+file = t000869
+date = 2023-05-02
+user = Charliekirk
+conversation = 107804978292323344
+URL = https://truthsocial.com/@Charliekirk/110299859460228498
+
+word count = 87
+words loading = 5
+factor score = 5
+
+A federal judge in PA just ordered that to uphold the First Amendment, Satan 
+Clubs have to be allowed at schoolIn leaked texts, Chelsea Clinton admits she ' 
+s pro porn at school, saying banning sexually explicit books is harmful to 
+children 27 Democrats in Colorado vote against making flashing kids a felonyA 
+UN report says minors should be able to consent to sex, even with adults in 
+some casesWhen our society loses touch with what ' s good, true, and beautiful, 
+evil no longer has to hide. 
+
+Lemmas in this text that loaded on the factor:
+
+child_nns 
+federal_jj 
+kid_nns 
+school_nn 
+sex_nn 

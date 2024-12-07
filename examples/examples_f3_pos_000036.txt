@@ -1,0 +1,20 @@
+file = t044713
+date = 2022-05-18
+user = epochtimes
+conversation = 107814273983601296
+URL = https://truthsocial.com/@epochtimes/108320050835817966
+
+word count = 37
+words loading = 4
+factor score = 4
+
+Rep. Ted Budd swept to victory in the #northcarolina_h GOP primary for the US 
+Senate on May, a firebrand conservative whose campaign focused on fighting the 
+ideological left, scored an endorsement from former president Donald Trump. 
+
+Lemmas in this text that loaded on the factor:
+
+campaign_nn 
+former_jj 
+president_nn 
+primary_nn 

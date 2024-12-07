@@ -1,0 +1,20 @@
+file = t000018
+date = 2024-02-20
+user = AlexJones
+conversation = 107838014712814240
+URL = https://truthsocial.com/@AlexJones/111965015472388035
+
+word count = 46
+words loading = 2
+factor score = -2
+
+loudspeaker_e #alexjonesshow_h Tuesday LIVE: The Sleeping Giant Has Awoken! As 
+Populist Movements Peacefully Explode With Civil Disobedience Worldwide the 
+Globalists Now, For the First Time, Are Scared! » Tune in: » » » Play 
+#nwowars_h ON STEAM! ! » » » Get a signed copy of ' The Great Awakening ' 
+while you still can: #supportinfowars_h 
+
+Lemmas in this text that loaded on the factor:
+
+copy_nn 
+sign_vbn 

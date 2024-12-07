@@ -1,0 +1,20 @@
+file = t012236
+date = 2022-06-27
+user = DC_Draino
+conversation = 107813989985461776
+URL = https://truthsocial.com/@DC_Draino/108550637413679180
+
+word count = 35
+words loading = 4
+factor score = -4
+
+I ' ve said it before and I ' ll say it again…With free speech protections on 
+the internet and honest elections, America is a 65 / 35 country in favor of 
+Patriots who value freedom and capitalism 
+
+Lemmas in this text that loaded on the factor:
+
+free_jj 
+freedom_nn 
+patriot_nns 
+speech_nn 

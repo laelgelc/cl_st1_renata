@@ -1,0 +1,31 @@
+file = t051103
+date = 2023-10-23
+user = maga420
+conversation = 107834188191138752
+URL = https://truthsocial.com/@maga420/111285299013654910
+
+word count = 144
+words loading = 4
+factor score = 4
+
+More than ever, President Trump is needed by the Trump, the former President of 
+the United States, prioritized peace through strength and a strong governing 
+imperative. However, Joe Biden, a leftist, has rejected this principle, leading 
+to global instability, wars in Ukraine and Israel, and the rise of 
+anti-American and anti-freedom forces. Biden ' s failure to punish Hamas ' s 
+terrorist patron Iran, demand American hostages, and condemn antisemitism has 
+resulted in increased aggression from adversaries. 
+backhand_index_pointing_right_e Support my work by clicking the link in my 
+bioTrump ' s record of delivering America First policies, such as tax cuts, 
+regulatory relief, and energy independence, has made him a popular choice for 
+the 2020 Republican primary. However, Biden ' s radical policies have created 
+problems such as inflation, crime, and the war in Ukraine. A restoration of the 
+Trump presidency is needed to address these issues and maintain American 
+stability. 
+
+Lemmas in this text that loaded on the factor:
+
+former_jj 
+president_nn 
+primary_nn 
+republican_jj 

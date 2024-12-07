@@ -1,0 +1,18 @@
+file = t042968
+date = 2023-05-04
+user = epochtimes
+conversation = 107814273983601296
+URL = https://truthsocial.com/@epochtimes/110307791464231687
+
+word count = 35
+words loading = 2
+factor score = -2
+
+A GOP-backed bill would authorize the #texas_h Secretary of State to rerun 
+elections in Harris County if a ballot paper shortage County was the target of 
+a 2-month audit following widespread problems during the 2022 midterms. 
+
+Lemmas in this text that loaded on the factor:
+
+election_nns 
+midterm_nns 

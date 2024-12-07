@@ -1,0 +1,32 @@
+BREAKING breaking_NN
+: :
+No no_DT
+one one_CD
+believes believe_VBZ
+PayPal paypal_JJ
+. .
+Ever ever_RB
+wonder wonder_VB
+why why_WRB
+ "  "
+errors error_NNS
+ "  "
+always always_RB
+seem seem_VBP
+to to_TO
+only only_RB
+go go_VB
+one one_CD
+direction direction_NN
+— -
+AGAINST against_NP
+conservatives conservative_NNS
+and and_CC
+free free_JJ
+speech speech_NN
+? ?
+@JackPosobiec twitterhandle_NN
+today today_NN
+with with_IN
+more more_RBR
+: :

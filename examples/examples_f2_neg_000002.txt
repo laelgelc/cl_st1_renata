@@ -1,0 +1,24 @@
+file = t041031
+date = 2023-08-19
+user = catturd2
+conversation = 107813673407103408
+URL = https://truthsocial.com/@catturd2/110913539505351619
+
+word count = 73
+words loading = 5
+factor score = -4
+
+It ' s amazing people who claim to be conservative don ' t understand …If the 
+Democrats succeed in jailing their political opponent on bullshit charges while 
+the Biden ' s have been caught red-handed committing treason and nothing 
+happens - our country is finished. It ' s over. Done. Do you actually think 
+your 5 % in the polls Republican globalist uniparty stooge matters in this 
+fight to save the USA? Believe me, they don ' t. Wake TF up! 
+
+Lemmas in this text that loaded on the factor:
+
+conservative_jj 
+country_nn 
+political_jj 
+republican_jj (secondary)
+think_vbp 

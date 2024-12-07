@@ -1,0 +1,16 @@
+file = t000244
+date = 2022-09-20
+user = AlexJones
+conversation = 107838014712814240
+URL = https://truthsocial.com/@AlexJones/109033422290509016
+
+word count = 14
+words loading = 1
+factor score = -1
+
+Genocide Alert: Hospitals Profit From Massive Spike In COVID Vaccine-Induced 
+Heart Damage In Children 
+
+Lemmas in this text that loaded on the factor:
+
+massive_jj 

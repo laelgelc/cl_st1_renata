@@ -1,0 +1,26 @@
+file = t039676
+date = 2024-01-15
+user = UpstateVoice
+conversation = 108371561221787680
+URL = https://truthsocial.com/@UpstateVoice/111762379474898767
+
+word count = 82
+words loading = 6
+factor score = 5
+
+Poll: Nearly half of Nikki Haley ' s Iowa backers say they ' d vote for Biden 
+over Trump. Most likely Republican Iowa caucusgoers say they ' ll vote for 
+former President Donald Trump in the general election if he ' s the GOP 
+nominee, regardless of the candidate they ' re supporting on caucus is, except 
+supporters of former U. N. Ambassador Nikki Haley, with nearly half of them — 
+43 % — saying they ' d vote for Democratic President Joe Biden over Trump. 
+#trump2024_h #maga_h #nevernikki_h #iowacaucus_h 
+
+Lemmas in this text that loaded on the factor:
+
+candidate_nn (secondary)
+former_jj 
+nominee_nn 
+poll_nn 
+republican_jj 
+vote_nn 

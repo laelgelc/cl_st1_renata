@@ -1,0 +1,25 @@
+file = t000577
+date = 2024-02-08
+user = Charliekirk
+conversation = 107804978292323344
+URL = https://truthsocial.com/@Charliekirk/111897388539672151
+
+word count = 113
+words loading = 3
+factor score = -3
+
+The Biden White House now says that if Republicans don ' t pass their amnesty 
+bill, they will release even more migrants into the US interior and slash 
+deportations down from their already minimal levels. Given that a handful of 
+dangerous criminals are pretty much the only people actually deported at this 
+point, this is essentially a threat to release gangsters and killers back onto 
+the streets of America unless the GOP does as it ' s ' t listen to any lies 
+about funding. The Biden administration has all the resources and all the power 
+it needs to secure the border. It just doesn ' t want to. This is political 
+terrorism against the American: / / 
+
+Lemmas in this text that loaded on the factor:
+
+bill_nn 
+political_jj 
+republican_nns 

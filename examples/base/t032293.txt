@@ -1,0 +1,37 @@
+Nearly nearly_RB
+the the_DT
+entire entire_JJ
+Republican republican_NP
+Party party_NP
+— -
+85 @card@
+% %
+of of_IN
+likely likely_JJ
+Republican republican_JJ
+primary primary_JJ
+voters voter_NNS
+— -
+prefers prefer_VBZ
+a a_DT
+candidate candidate_NN
+for for_IN
+the the_DT
+GOP gop_NP
+' '
+s s_JJ
+presidential presidential_JJ
+nomination nomination_NN
+who who_WP
+challenges challenge_VBZ
+ "  "
+woke wake_VBD
+ "  "
+ideas idea_NNS
+, ,
+according accord_VBG
+to to_TO
+a a_DT
+new new_JJ
+poll poll_NN
+. .

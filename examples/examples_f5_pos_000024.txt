@@ -1,0 +1,21 @@
+file = t043509
+date = 2023-01-05
+user = epochtimes
+conversation = 107814273983601296
+URL = https://truthsocial.com/@epochtimes/109633738131629414
+
+word count = 42
+words loading = 4
+factor score = 4
+
+ My children are now subject to being chemically castrated. The #texas_h 
+Supreme Court denied Jeff Younger ' s petition to bring his 10-year-old son 
+home from #california_h, where he fears the boy ' s mother will chemically 
+castrate the child under a new law. 
+
+Lemmas in this text that loaded on the factor:
+
+child_nn 
+child_nns 
+old_jj 
+year 

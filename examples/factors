@@ -1,0 +1,211 @@
+f1pos fhfnews_h 
+f1pos thefungicrew_h 
+f1pos wtpafu_h 
+f1pos nightshift_h 
+f1pos lilypadlounge_h 
+f1pos tcd_h 
+f1pos rpn_h 
+f1pos 5dnews_h 
+f1pos twgrp_h 
+f1pos murchmadness_h 
+f1pos ratpack_h 
+f1pos xteam_h 
+f1pos truthtrain_h 
+f1pos phpnews_h 
+f1pos fbj_h 
+f1pos dt47_h 
+f1pos ncswic_h 
+f1pos maga2024_h 
+f1pos trumpwon_h 
+f1pos wethepeople_h 
+f1pos truth_h 
+f1pos trump2024_h 
+f1pos trump_h 
+f1pos maga_h 
+f1pos sign_vbn (secondary)
+f1neg candidate_nn 
+f1neg win_vb 
+f1neg speech_nn 
+f1neg conservative_nns 
+f1neg freedom_nn 
+f1neg poll_nn (secondary)
+f1neg case_nn 
+f1neg patriot_nn 
+f1neg kid_nns (secondary)
+f1neg news_nn 
+f1neg patriotic_jj 
+f1neg child_nn (secondary)
+f1neg breaking_nn 
+f1neg free_jj 
+f1neg indictment_nn (secondary)
+f1neg pouting_face_e (secondary)
+f1neg total_jj 
+f1neg liberal_nns 
+f1neg nomination_nn (secondary)
+f1neg debate_nn (secondary)
+f1neg police_car_light_e 
+f1neg face_with_tears_of_joy_e 
+f1neg parent_nns (secondary)
+f1neg senator_nns 
+f1neg left_jj 
+f1neg speaker_nn 
+f1neg freedom_nns (secondary)
+f1neg far 
+f1neg patriot_nns 
+f1neg primary_nn (secondary)
+f1neg great_jj (secondary)
+f1neg oan_h 
+f1neg eyes_e 
+f1neg watch_nn 
+f1neg impeachment_nn (secondary)
+f1neg storm_nn (secondary)
+f1neg red_circle_e (secondary)
+f2pos share_h 
+f2pos retruth_h 
+f2pos darkmaga_h 
+f2pos ultramaga_h 
+f2pos white_heart_e 
+f2pos blue_heart_e 
+f2pos patriots_h 
+f2pos magaa_h 
+f2pos warroomposse_h 
+f2pos america_h 
+f2pos americafirst_h 
+f2pos red_heart_e 
+f2pos thumbs_up_light_skin_tone_e 
+f2pos wethepeople_h (secondary)
+f2pos truth_h (secondary)
+f2pos trump_h (secondary)
+f2pos flag_united_states_e 
+f2pos backhand_index_pointing_down_e (secondary)
+f2pos trumpwon_h (secondary)
+f2neg republican_nns 
+f2neg majority_nn 
+f2neg total_jj (secondary)
+f2neg conservative_jj 
+f2neg big_jj 
+f2neg political_jj 
+f2neg republican_jj (secondary)
+f2neg bill_nn 
+f2neg accord_vbg 
+f2neg country_nn 
+f2neg think_vbp 
+f2neg campaign_nn (secondary)
+f2neg law_nn 
+f2neg government_nn (secondary)
+f2neg breaking_nn (secondary)
+f2neg ruling_nn (secondary)
+f2neg way_nn (secondary)
+f2neg speech_nn (secondary)
+f2neg presidential_jj (secondary)
+f3pos nomination_nn 
+f3pos poll_nn 
+f3pos presidential_jj 
+f3pos primary_nn 
+f3pos nominee_nn 
+f3pos bid_nn 
+f3pos race_nn 
+f3pos voter_nns 
+f3pos candidate_nn (secondary)
+f3pos republican_jj 
+f3pos vote_nn 
+f3pos former_jj 
+f3pos debate_nn 
+f3pos win_vb (secondary)
+f3pos ballot_nns 
+f3pos poll_nns (secondary)
+f3pos candidate_nns 
+f3pos campaign_nn 
+f3pos president_nn 
+f3pos accord_vbg (secondary)
+f3neg copy_nn 
+f3neg sign_vbn 
+f3neg freespeech_h (secondary)
+f3neg red_heart_e (secondary)
+f3neg hunt_nn (secondary)
+f3neg liberty_h (secondary)
+f3neg thank_vb 
+f3neg witch_nn (secondary)
+f3neg patriot_h (secondary)
+f3neg freedom_h (secondary)
+f3neg blue_heart_e (secondary)
+f3neg white_heart_e (secondary)
+f3neg school_nn (secondary)
+f4pos issues_nps 
+f4pos diamondandsilk_h 
+f4pos hunt_nn 
+f4pos witch_nn 
+f4pos update_nn 
+f4pos indictment_nn 
+f4pos red_circle_e 
+f4pos oan_h (secondary)
+f4pos ruling_nn 
+f4neg need_vbp 
+f4neg great_jj 
+f4neg know_vbp 
+f4neg first_jj 
+f4neg want_vbp 
+f4neg stop_vb 
+f4neg thank_vb (secondary)
+f4neg way_nn 
+f4neg vote_nns (secondary)
+f4neg many_jj 
+f4neg patriotic_jj (secondary)
+f4neg people_nns 
+f4neg government_nn 
+f4neg say_vbd 
+f4neg vote_nn (secondary)
+f4neg bill_nn (secondary)
+f4neg patriot_nns (secondary)
+f4neg join_vb 
+f4neg other_jj 
+f4neg today_nn 
+f4neg patriot_nn (secondary)
+f4neg law_nn (secondary)
+f4neg good_jj 
+f4neg left_jj (secondary)
+f4neg country_nn (secondary)
+f4neg americafirst_h (secondary)
+f5pos year 
+f5pos pouting_face_e 
+f5pos wing_jj 
+f5pos left 
+f5pos sex_nn 
+f5pos school_nn 
+f5pos child_nn 
+f5pos old_jj 
+f5pos kid_nns 
+f5pos parent_nns 
+f5pos federal_jj 
+f5pos child_nns 
+f5neg complete_jj (secondary)
+f5neg poll_nns 
+f5neg republican_nns (secondary)
+f5neg impeachment_nn 
+f5neg ballot_nns (secondary)
+f5neg copy_nn (secondary)
+f5neg diamondandsilk_h (secondary)
+f5neg midterm_nns 
+f5neg massive_jj 
+f5neg election_nns 
+f6pos liberty_h 
+f6pos freespeech_h 
+f6pos patriot_h 
+f6pos freedom_h 
+f6pos maga_h (secondary)
+f6pos vote_nns 
+f6pos speaker_nn (secondary)
+f6pos trump2024_h (secondary)
+f6pos federal_jj (secondary)
+f6pos far (secondary)
+f6pos wing_jj (secondary)
+f6neg storm_nn 
+f6neg run_nn 
+f6neg complete_jj 
+f6neg freedom_nns 
+f6neg backhand_index_pointing_down_e 
+f6neg liberal_nns (secondary)
+f6neg face_with_tears_of_joy_e (secondary)
+f6neg sex_nn (secondary)
+f6neg huge_jj 
+f6neg stop_vb (secondary)

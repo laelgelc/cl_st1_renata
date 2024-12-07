@@ -1,0 +1,49 @@
+file = t052566
+date = 2024-05-09
+user = maxjett12
+conversation = 108319249994754560
+URL = https://truthsocial.com/@maxjett12/112413277484515007
+
+word count = 105
+words loading = 24
+factor score = 24
+
+ ' The organizer ' s first job is to create the issues or problems, ' and ' 
+organizations must be based on many issues. ' The organizer ' must first rub 
+raw the resentments of the people of the community; fan the latent hostilities 
+of many of the people to the point of overt expression. He must search out 
+controversy and issues, rather than avoid them, for unless there is controversy 
+people are not concerned enough to act. . . . An organizer must stir up 
+dissatisfaction and discontent. ' **#xteam_h** **#dt47_h** **#truthtrain_h** 
+**#phpnews_h** **#tcd_h** **#nightshift_h** **#lilypadlounge_h** **#fhfnews_h** 
+**#rpn_h** **#ratpack_h** **#twgrp_h** **#thefungicrew_h** **#5dnews_h** 
+**#wtpafu_h** **#trump2024_h** **#murchmadness_h** **#ncswic_h** 
+**#maga2024_h** **#maga_h** **#fbj_h** **#truth_h** **#trumpwon_h** 
+**#wethepeople_h** **#trump_h** 
+
+Lemmas in this text that loaded on the factor:
+
+5dnews_h 
+dt47_h 
+fbj_h 
+fhfnews_h 
+lilypadlounge_h 
+maga2024_h 
+maga_h 
+murchmadness_h 
+ncswic_h 
+nightshift_h 
+phpnews_h 
+ratpack_h 
+rpn_h 
+tcd_h 
+thefungicrew_h 
+trump2024_h 
+trump_h 
+trumpwon_h 
+truth_h 
+truthtrain_h 
+twgrp_h 
+wethepeople_h 
+wtpafu_h 
+xteam_h 

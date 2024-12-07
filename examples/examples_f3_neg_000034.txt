@@ -1,0 +1,20 @@
+file = t000056
+date = 2023-12-14
+user = AlexJones
+conversation = 107838014712814240
+URL = https://truthsocial.com/@AlexJones/111579898123359907
+
+word count = 40
+words loading = 2
+factor score = -2
+
+rhinoceros_e #alexjonesshow_h Thursday LIVE: EU Foils Hamas Terror Attack After 
+Opening Borders to Islamic Invasion as Congress Officially Initiates 
+Impeachment of Joe Biden! TUNE IN: closed_book_e writing_hand_e Get a signed 
+copy of ' The Great Awakening ' & help keep Jones on air! #supportinfowars_h 
+#1a_h 
+
+Lemmas in this text that loaded on the factor:
+
+copy_nn 
+sign_vbn 

@@ -1,0 +1,17 @@
+file = t037112
+date = 2024-06-06
+user = ResisttheMainstream
+conversation = 107838850131880704
+URL = https://truthsocial.com/@ResisttheMainstream/112569544359169617
+
+word count = 11
+words loading = 2
+factor score = 2
+
+**red_circle_e** MAGA Rejoices Following Latest Update in Trump ' s Georgia 
+Case 
+
+Lemmas in this text that loaded on the factor:
+
+red_circle_e 
+update_nn 

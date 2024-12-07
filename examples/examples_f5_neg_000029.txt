@@ -1,0 +1,20 @@
+file = t000094
+date = 2023-11-09
+user = AlexJones
+conversation = 107838014712814240
+URL = https://truthsocial.com/@AlexJones/111381767251198856
+
+word count = 41
+words loading = 2
+factor score = -1
+
+police_car_light_e police_car_light_e police_car_light_e #alexjonesshow_h 
+EXCLUSIVE INTEL: Jan 6 Prisoners Being Systematically Tortured In Ways That 
+Rival North Korea + MASSIVE Guests Join Today ' s Broadcast! Watch LIVE! 
+sparkles_e closed_book_e writing_hand_e Get a signed copy of ' The Great 
+Awakening ' & help keep Infowars & Alex Jones on air! #supportinfowars_h #1a_h 
+
+Lemmas in this text that loaded on the factor:
+
+copy_nn (secondary)
+massive_jj 

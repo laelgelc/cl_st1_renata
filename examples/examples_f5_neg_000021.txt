@@ -1,0 +1,17 @@
+file = t046490
+date = 2022-11-12
+user = gatewaypundit
+conversation = 107834752222880416
+URL = https://truthsocial.com/@gatewaypundit/109331495105173150
+
+word count = 23
+words loading = 2
+factor score = -2
+
+A Democrat Miracle: GOP Wins Midterm Elections in Massive Blow-Out but Loses 
+Every Single Toss-Up Seat Except One - Check Out Comparison to 2010 Results 
+
+Lemmas in this text that loaded on the factor:
+
+election_nns 
+massive_jj 

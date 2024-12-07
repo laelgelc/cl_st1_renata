@@ -1,0 +1,29 @@
+file = t041279
+date = 2023-12-01
+user = conceptualjames
+conversation = 108602034434061744
+URL = https://truthsocial.com/@conceptualjames/111505770782459892
+
+word count = 159
+words loading = 3
+factor score = -3
+
+This holiday season, I discovered there are a lot of conservatives who think 
+they ' re wizards or otherwise mystics and that that ' s somehow okay. A fair 
+definition for conservative is someone who is trying to preserve that which has 
+worked for his person, family, and community in the past. Mystics aren ' t 
+that. Mystics are trying to transform reality or their perception of reality. 
+There ' s a pretty fundamental ' s a weird entitlement under all mysticism, 
+which is, in religious language, a fundamental belief that Creation isn ' t 
+enough, that there ' s something more hidden beneath the surface. It ' s a dark 
+invitation into error and shirking what is for what is wished for but someone 
+who practices an internal martial art of China, I see this all the time, both 
+the desire and the calamity it causes. There must be secrets, maybe powers, and 
+chasing them undermines all real development ( gongfu ) . Big mistake! Many 
+such cases! 
+
+Lemmas in this text that loaded on the factor:
+
+big_jj 
+conservative_jj 
+think_vbp 

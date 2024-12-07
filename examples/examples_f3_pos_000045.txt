@@ -1,0 +1,21 @@
+file = t042768
+date = 2023-06-10
+user = epochtimes
+conversation = 107814273983601296
+URL = https://truthsocial.com/@epochtimes/110517060362472260
+
+word count = 37
+words loading = 4
+factor score = 4
+
+ They just solidified Donald Trump as the Republican nominee, said MyPillow CEO 
+Mike #trumpindictment_h has roused GOP allies to the former president ' s 
+defense, with many believing the move will strengthen his chances in the 
+election. 
+
+Lemmas in this text that loaded on the factor:
+
+former_jj 
+nominee_nn 
+president_nn 
+republican_jj 

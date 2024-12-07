@@ -1,0 +1,48 @@
+file = t052593
+date = 2024-05-07
+user = maxjett12
+conversation = 108319249994754560
+URL = https://truthsocial.com/@maxjett12/112400509393007470
+
+word count = 97
+words loading = 24
+factor score = 24
+
+Senator John Judas Thune of South Dakota, the #2_h Republican in the Senate and 
+career politician voted to confirm these six Biden cabinet nominations: Merrick 
+Brian Garland, of Maryland, attorney general Gina Marie Raimondo, of Rhode 
+Island, secretary of James Austin, of Georgia, secretary of John Blinken, of 
+New York, secretary of Paul Montgomery Buttigieg, of Indiana, secretary of 
+Louise Yellen, of California, secretary of friends like Judas Thune who needs 
+enemies? **#xteam_h** **#dt47_h** **#truthtrain_h** **#phpnews_h** **#tcd_h** 
+**#nightshift_h** **#lilypadlounge_h** **#fhfnews_h** **#rpn_h** **#ratpack_h** 
+**#twgrp_h** **#thefungicrew_h** **#5dnews_h** **#wtpafu_h** **#trump2024_h** 
+**#murchmadness_h** **#ncswic_h** **#maga2024_h** **#maga_h** **#fbj_h** 
+**#truth_h** **#trumpwon_h** **#wethepeople_h** **#trump_h** 
+
+Lemmas in this text that loaded on the factor:
+
+5dnews_h 
+dt47_h 
+fbj_h 
+fhfnews_h 
+lilypadlounge_h 
+maga2024_h 
+maga_h 
+murchmadness_h 
+ncswic_h 
+nightshift_h 
+phpnews_h 
+ratpack_h 
+rpn_h 
+tcd_h 
+thefungicrew_h 
+trump2024_h 
+trump_h 
+trumpwon_h 
+truth_h 
+truthtrain_h 
+twgrp_h 
+wethepeople_h 
+wtpafu_h 
+xteam_h 

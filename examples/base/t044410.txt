@@ -1,0 +1,52 @@
+A a_DT
+school school_NN
+board board_NN
+director director_NN
+in in_IN
+#washington_h washington_h
+state state_NN
+says say_VBZ
+she she_PP
+will will_MD
+host host_VB
+events event_NNS
+at at_IN
+an an_DT
+ "  "
+identity-inclusive identity-inclusive_JJ
+ "  "
+and and_CC
+ "  "
+not not_RB
+creepy creepy_JJ
+ "  "
+adult adult_NN
+store store_NN
+she she_PP
+owns own_VBZ
+and and_CC
+discuss discuss_VB
+topics topic_NNS
+such such_JJ
+as as_IN
+ "  "
+sexual sexual_JJ
+anatomy anatomy_NN
+for for_IN
+pleasure pleasure_NN
+ "  "
+and and_CC
+ "  "
+safer safe_JJR
+sex sex_NN
+practices practice_NNS
+ "  "
+with with_IN
+kids kid_NNS
+as as_IN
+young young_JJ
+as as_IN
+9 @card@
+years year_NNS
+old old_JJ
+. .

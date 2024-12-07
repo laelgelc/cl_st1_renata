@@ -1,0 +1,32 @@
+file = t053661
+date = 2024-01-17
+user = realDonaldTrump
+conversation = 107780257626128496
+URL = https://truthsocial.com/@realDonaldTrump/111772960488972433
+
+word count = 179
+words loading = 6
+factor score = -5
+
+Page Three: Additionally, he ' s not allowing the Monica Lewinsky-style dress 
+into the case. E. Jean Carroll said she had a dress, and when we said, OK, use 
+it, she didn ' t want to produce it, and the Judge wouldn ' t allow the 
+information to be brought in, because there was no information, other than it 
+would show my innocence! This Judge should be sanctioned for his abuse of 
+power—No wonder our Country is going to Hell! The second trial is a totally 
+separate case from the first one, so the Jury should decide on guilt, which 
+does not exist, instead of a reward, which I should get, not her. This Judge is 
+not allowing that, he is not allowing me to properly defend myself from false 
+accusations, he ' s taking the unfair decision in the first trial, which we are 
+appealing, and sticking selected parts of it into this trial. As to guilt or 
+innocence, he is wrongfully forcing guilty, which is unAmerican. We have a very 
+bad and hostile Judge, but we ' re fighting all the way. MAGA! 
+
+Lemmas in this text that loaded on the factor:
+
+country_nn (secondary)
+first_jj 
+other_jj 
+say_vbd 
+want_vbp 
+way_nn 

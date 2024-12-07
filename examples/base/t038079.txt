@@ -1,0 +1,10 @@
+red_circle_e red_circle_e
+Dan dan_NP
+Bongino bongino_NP
+Issues issues_NPS
+Warning warning_NP
+to to_TO
+Conservatives conservatives_NPS
+About about_IN
+Big big_NP
+Tech tech_NP

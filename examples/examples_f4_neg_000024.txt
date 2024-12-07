@@ -1,0 +1,22 @@
+file = t010022
+date = 2023-11-25
+user = DCTheMan
+conversation = 109678637844306528
+URL = https://truthsocial.com/@DCTheMan/111468708977726014
+
+word count = 69
+words loading = 4
+factor score = -4
+
+Most people know and understand all of this which is why more and more people 
+who used to vote Democrat or used to support Democrats values are switching to 
+being more real problem is these privileged liberal white supremacists who run 
+around telling minority groups that they ' re too stupid to understand what 
+they want or need and they ' re going to start making demands on their behalf. 
+
+Lemmas in this text that loaded on the factor:
+
+know_vbp 
+need_vbp 
+people_nns 
+want_vbp 

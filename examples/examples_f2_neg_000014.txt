@@ -1,0 +1,25 @@
+file = t055980
+date = 2024-01-16
+user = seanhannity
+conversation = 107803381972948240
+URL = https://truthsocial.com/@seanhannity/111766560470790012
+
+word count = 103
+words loading = 4
+factor score = -4
+
+A MESSAGE OF UNITY: Trump Says Now is the Time for the Country to Come Together 
+[ WATCH]TRUMP: I really think this is time now for everybody – our country- 
+to come together … Whether it ' s Republican or Democrat or liberal or 
+conservative, it would be so nice if we could come together and straighten out 
+the world and straighten out the problems and straighten out all of the death & 
+destruction that we ' re witnessing … I wanna make that a very big part of 
+our message. We ' re gonna come together. It ' s gonna happen soon too. It ' s 
+gonna happen soon. 
+
+Lemmas in this text that loaded on the factor:
+
+big_jj 
+conservative_jj 
+country_nn 
+think_vbp 

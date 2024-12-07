@@ -1,0 +1,4 @@
+good_JJ
+government_NNS
+defend_VBP
+freedom_NN

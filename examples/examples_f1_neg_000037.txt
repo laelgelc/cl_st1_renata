@@ -1,0 +1,18 @@
+file = t001279
+date = 2024-01-31
+user = CitizenFreePress
+conversation = 108274591401172032
+URL = https://truthsocial.com/@CitizenFreePress/111848080362124271
+
+word count = 17
+words loading = 3
+factor score = -3
+
+Missouri v. Biden, this generation ' s most important free speech case, heads 
+to the Supreme Court. 
+
+Lemmas in this text that loaded on the factor:
+
+case_nn 
+free_jj 
+speech_nn 

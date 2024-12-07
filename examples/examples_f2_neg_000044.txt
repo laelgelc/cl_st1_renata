@@ -1,0 +1,20 @@
+file = t042881
+date = 2023-05-24
+user = epochtimes
+conversation = 107814273983601296
+URL = https://truthsocial.com/@epochtimes/110424232544092369
+
+word count = 40
+words loading = 3
+factor score = -3
+
+The GOP-led #southcarolina_h Senate gave final approval to one of the country ' 
+s strictest #abortion_h bans after a fetal heartbeat is detected at 6 . Henry 
+McMaster said he looks forward to signing this bill into law as soon as 
+possible. 
+
+Lemmas in this text that loaded on the factor:
+
+bill_nn 
+country_nn 
+law_nn 

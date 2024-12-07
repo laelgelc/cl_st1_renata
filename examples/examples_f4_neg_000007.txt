@@ -1,0 +1,25 @@
+file = t010616
+date = 2023-06-21
+user = DCTheMan
+conversation = 109678637844306528
+URL = https://truthsocial.com/@DCTheMan/110584119994117906
+
+word count = 78
+words loading = 6
+factor score = -5
+
+SAY WAT? So if we say that during a conservative government to libs, we ' re 
+good! winking_face_e So what ' s the deal with the idea that it ' s an 
+absolute, you know, I love these guys who say the Second Amendment is, you 
+know, the tree of liberty is water with the blood of patriots. Well, if want to 
+do that, you want to work against the government, you need an F-16 . You need 
+something else than just an AR-15 . 
+
+Lemmas in this text that loaded on the factor:
+
+good_jj 
+government_nn 
+know_vbp 
+need_vbp 
+patriot_nns (secondary)
+want_vbp 

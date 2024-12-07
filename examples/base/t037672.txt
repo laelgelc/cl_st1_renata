@@ -1,0 +1,13 @@
+red_circle_e red_circle_e
+Manhattan manhattan_NP
+DA da_NP
+Issues issues_NPS
+Scathing scathing_NP
+Response response_NP
+to to_TO
+GOP gop_NP
+Letter letter_NP
+on on_IN
+Possible possible_JJ
+Trump trump_NP
+Indictment indictment_NN

@@ -1,0 +1,20 @@
+file = t040795
+date = 2024-05-17
+user = breitbartnews
+conversation = 107833145315165904
+URL = https://truthsocial.com/@breitbartnews/112456834300149270
+
+word count = 30
+words loading = 4
+factor score = 4
+
+A federal court on Wednesday upheld a Maryland school district policy that does 
+not allow parents to opt their young K-5 children out of curriculum about 
+gender identity and sexuality. 
+
+Lemmas in this text that loaded on the factor:
+
+child_nns 
+federal_jj 
+parent_nns 
+school_nn 

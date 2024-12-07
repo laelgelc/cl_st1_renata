@@ -1,0 +1,29 @@
+file = t000462
+date = 2023-12-12
+user = BuckSexton
+conversation = 108121149563118272
+URL = https://truthsocial.com/@BuckSexton/111570065902634307
+
+word count = 115
+words loading = 7
+factor score = -7
+
+I ' ve been working to improve my shooting skills ever since I got my first 
+training at CIA 20 years ago. Sure, shooting is a hobby now, but I also 
+recognize that real self-defense requires practice and proficiency. I ' m 
+fortunate to have elite shooter friends who train me so I can work on 
+fundamental skills. And I also know that, if I ever have to defend myself with 
+a weapon, Patriot Defender has my back. Go to y provide concealed carry legal 
+defense to members- along with other categories like free speech defense, and 
+defense against partisan government weaponization. You need someone to have 
+your back these days- and that ' s Patriot Defender. Join today at 
+
+Lemmas in this text that loaded on the factor:
+
+first_jj 
+government_nn 
+join_vb 
+know_vbp 
+need_vbp 
+other_jj 
+today_nn 

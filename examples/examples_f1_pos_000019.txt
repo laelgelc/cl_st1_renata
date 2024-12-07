@@ -1,0 +1,52 @@
+file = t052573
+date = 2024-05-08
+user = maxjett12
+conversation = 108319249994754560
+URL = https://truthsocial.com/@maxjett12/112407892140199052
+
+word count = 116
+words loading = 24
+factor score = 24
+
+Starting in the 1960s, academics took heightened interest in Italian Marxist 
+Antonio Gramsci ' s cultural Marxism. Members of the political class glommed 
+onto the resulting social justice, affirmative action, diversity, 
+multiculturalism, political correctness, and other malignancies spawned by 
+cultural Marxism. Progressive politicians came to view society as a hodge-podge 
+of racial, ethnic, gender-based, and now also sexual orientation-based groups 
+locked in zero-sum combat with Western whites. ' Generally speaking, cultural 
+Marxism ' s indoctrinees have learned to view morality and knowledge as 
+constructs and social and economic power as commodities to be transferred from 
+oppressor to oppressed. **#xteam_h** **#dt47_h** **#truthtrain_h** 
+**#phpnews_h** **#tcd_h** **#nightshift_h** **#lilypadlounge_h** **#fhfnews_h** 
+**#rpn_h** **#ratpack_h** **#twgrp_h** **#thefungicrew_h** **#5dnews_h** 
+**#wtpafu_h** **#trump2024_h** **#murchmadness_h** **#ncswic_h** 
+**#maga2024_h** **#maga_h** **#fbj_h** **#truth_h** **#trumpwon_h** 
+**#wethepeople_h** **#trump_h** 
+
+Lemmas in this text that loaded on the factor:
+
+5dnews_h 
+dt47_h 
+fbj_h 
+fhfnews_h 
+lilypadlounge_h 
+maga2024_h 
+maga_h 
+murchmadness_h 
+ncswic_h 
+nightshift_h 
+phpnews_h 
+ratpack_h 
+rpn_h 
+tcd_h 
+thefungicrew_h 
+trump2024_h 
+trump_h 
+trumpwon_h 
+truth_h 
+truthtrain_h 
+twgrp_h 
+wethepeople_h 
+wtpafu_h 
+xteam_h 

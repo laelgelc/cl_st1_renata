@@ -1,0 +1,28 @@
+file = t000270
+date = 2024-05-31
+user = AmericaFirstLegal
+conversation = 108442624771421568
+URL = https://truthsocial.com/@AmericaFirstLegal/112536222769634996
+
+word count = 127
+words loading = 4
+factor score = -3
+
+Our nation is under attack from within: President Biden is leading the invasion 
+of his own country by facilitating mass illegal immigration, allowing dangerous 
+criminals to destroy American cities with no consequences, and targeting his 
+leading political opponent using the full force of the federal government. 
+Radical local officials violate laws to target the leader of the conservative 
+movement. The list goes a, if you haven ' t already, it ' s time to wake up. We 
+will not stand idly by while the Marxist left wages war against our Republic, 
+our Constitution, and our American justice system. America First Legal will 
+soon be taking new legal actions to push back against this radical 
+weaponization of government. We will do everything in our power to save 
+America. Stay tuned … 
+
+Lemmas in this text that loaded on the factor:
+
+conservative_jj 
+country_nn 
+government_nn (secondary)
+political_jj 

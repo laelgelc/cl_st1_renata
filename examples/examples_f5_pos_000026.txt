@@ -1,0 +1,21 @@
+file = t043177
+date = 2023-03-23
+user = epochtimes
+conversation = 107814273983601296
+URL = https://truthsocial.com/@epochtimes/110073617946676918
+
+word count = 35
+words loading = 4
+factor score = 4
+
+ Neither my parents nor I was fully informed of most of the potential risks. 
+18-year-old Chloe Cole—a self-described former trans kid — joined a panel 
+to discuss the threat that gender ideology presents to children at Innocence 
+Under Siege. 
+
+Lemmas in this text that loaded on the factor:
+
+child_nns 
+old_jj 
+parent_nns 
+year 

@@ -1,0 +1,22 @@
+file = t010185
+date = 2023-09-27
+user = DCTheMan
+conversation = 109678637844306528
+URL = https://truthsocial.com/@DCTheMan/111139524516590629
+
+word count = 38
+words loading = 5
+factor score = 5
+
+**pouting_face_e** **pouting_face_e** **pouting_face_e** Simply Naked, a TV 
+show made for kids that airs in the Netherlands and features naked men and 
+women who disrobe in front of 10-12-year-old children, has been dubbed a show 
+for pedophiles by critics from around the: / / 
+
+Lemmas in this text that loaded on the factor:
+
+child_nns 
+kid_nns 
+old_jj 
+pouting_face_e 
+year 

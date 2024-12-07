@@ -1,0 +1,25 @@
+file = t053372
+date = 2024-05-31
+user = realDonaldTrump
+conversation = 107780257626128496
+URL = https://truthsocial.com/@realDonaldTrump/112535601905420886
+
+word count = 135
+words loading = 2
+factor score = 2
+
+My bookkeeper called a Legal Expense, on the tiny description line of the 
+Ledger, a Legal Expense, openly paid to my lawyer, at that time a fully 
+accredited one. I was not involved in that designation, but what else would you 
+have called it? It was, in fact, a LEGAL EXPENSE. That is the so-called CRIME. 
+On top of that, I wasn ' t allowed by the judge to use, in any form, the 
+standard RELIANCE ON COUNSEL DEFENSE ( ADVICE OF COUNSEL! ) . My lawyer, at the 
+time, did virtually everything on the NDA ( NON-DISCLOSURE AGREEMENT ) , and I 
+assumed that what he did was correct. I did nothing wrong, and frankly, there 
+was nothing done wrong - NDA ' s are standard, commonly used, and LEGAL. 
+MAGA2024 ! WITCH HUNT! IF THIS CAN HAPPEN TO ME, IT CAN HAPPEN TO ANYONE! 
+
+Lemmas in this text that loaded on the factor:
+
+hunt_nn 
+witch_nn 

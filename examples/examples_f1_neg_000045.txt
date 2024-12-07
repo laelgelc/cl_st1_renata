@@ -1,0 +1,19 @@
+file = t002016
+date = 2022-10-11
+user = CongressmanLaMalfa
+conversation = 107916016508319936
+URL = https://truthsocial.com/@CongressmanLaMalfa/109150555154136421
+
+word count = 27
+words loading = 3
+factor score = -3
+
+Republicans believe in our Constitutional rights, free speech, religious 
+freedom, and the Second ent Biden has continually attacked these values since 
+his first day in office. 
+
+Lemmas in this text that loaded on the factor:
+
+free_jj 
+freedom_nn 
+speech_nn 

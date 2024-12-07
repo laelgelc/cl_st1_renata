@@ -1,0 +1,21 @@
+file = t000668
+date = 2023-11-02
+user = Charliekirk
+conversation = 107804978292323344
+URL = https://truthsocial.com/@Charliekirk/111341275112367725
+
+word count = 68
+words loading = 3
+factor score = -3
+
+Rest in peace to the legend, Coach Bob was a record-breaking coach, a true 
+Hoosier, and total patriot. He was as tough as they come and as a result, one 
+of the best to ever do it. Most people have the will to win, few have the will 
+to prepare to win. - Coach KnightListen to him describe Michael Jordan BEFORE 
+he ever stepped foot onto an NBA court. 
+
+Lemmas in this text that loaded on the factor:
+
+patriot_nn 
+total_jj 
+win_vb 

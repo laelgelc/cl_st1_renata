@@ -1,0 +1,11 @@
+red_circle_e red_circle_e
+Federal federal_NP
+Judge judge_NP
+Issues issues_NPS
+Ruling ruling_NP
+over over_IN
+Transgender transgender_NP
+Medical medical_NP
+Treatments treatments_NP
+for for_IN
+Children children_NP

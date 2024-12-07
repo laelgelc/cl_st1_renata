@@ -1,0 +1,24 @@
+file = t000093
+date = 2023-11-09
+user = AlexJones
+conversation = 107838014712814240
+URL = https://truthsocial.com/@AlexJones/111382288444027226
+
+word count = 55
+words loading = 4
+factor score = -4
+
+𝙉𝙊𝙒 𝘼𝙑𝘼𝙄𝙇𝘼𝘽𝙇𝙀 ! ! 
+backhand_index_pointing_down_e backhand_index_pointing_down_e 
+backhand_index_pointing_down_e closed_book_e Get Alex Jones ' NEW book ' The 
+Great Awakening: Defeating the Globalists and Launching the Next Great 
+Renaissance ' SHOP: it on Amazon: If you want to read one book this year to 
+understand your world and help lead humanity to the next great human 
+renaissance, you need to order this book today. #supportinfowars_h 
+
+Lemmas in this text that loaded on the factor:
+
+great_jj 
+need_vbp 
+today_nn 
+want_vbp 

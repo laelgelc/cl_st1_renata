@@ -1,0 +1,24 @@
+file = t011521
+date = 2023-02-05
+user = DCTheMan
+conversation = 109678637844306528
+URL = https://truthsocial.com/@DCTheMan/109814575469702793
+
+word count = 74
+words loading = 5
+factor score = -4
+
+Did you know what other bills were attached to the one about equal marriage? 
+All of the pork and pet projects and money laundering the Democrats were trying 
+to sneak past the American people? And then Democrats simply told y ' all that 
+the GOP voted against the equal marriage act. Do you know anything about the 
+bill at all? We ' ll start here and work our way down your little list. Shall 
+we? 
+
+Lemmas in this text that loaded on the factor:
+
+bill_nn (secondary)
+know_vbp 
+other_jj 
+people_nns 
+way_nn 

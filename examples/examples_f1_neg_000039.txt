@@ -1,0 +1,18 @@
+file = t001491
+date = 2023-09-08
+user = CitizenFreePress
+conversation = 108274591401172032
+URL = https://truthsocial.com/@CitizenFreePress/111032013925060895
+
+word count = 21
+words loading = 3
+factor score = -3
+
+Breaking Boom collision_e Fifth Circuit affirms district court decision in 
+Biden v. Missouri free speech case. Big win for free speech. 
+
+Lemmas in this text that loaded on the factor:
+
+case_nn 
+free_jj 
+speech_nn 

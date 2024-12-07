@@ -1,0 +1,25 @@
+file = t011457
+date = 2023-02-13
+user = DCTheMan
+conversation = 109678637844306528
+URL = https://truthsocial.com/@DCTheMan/109857906133702224
+
+word count = 92
+words loading = 5
+factor score = -5
+
+I think they know all that. But I believe that they don ' t want the corruption 
+to stop. I think all Liberals are absolutely complicit in the Democrats lies 
+and in their destabilizing not only of the United states, but of many other 
+nations. They want to be controlled and chained up little sheep. They want to 
+feel like they are cared for children. But what they don ' t realize is that 
+even well care for children get their asses beaten when they step out of line 
+even a little bit. 
+
+Lemmas in this text that loaded on the factor:
+
+know_vbp 
+many_jj 
+other_jj 
+stop_vb 
+want_vbp 

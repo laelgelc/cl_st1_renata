@@ -1,0 +1,20 @@
+file = t034028
+date = 2022-05-29
+user = QAnnon
+conversation = 107879560233869216
+URL = https://truthsocial.com/@QAnnon/108386611501929000
+
+word count = 27
+words loading = 4
+factor score = 4
+
+April 5 , 2022Erie High School in Erie, Pennsylvania0 dead • 1 injured • 2 
+, 100 children present in schoolA 14-year-old student shot a fellow student in 
+a school hallway. 
+
+Lemmas in this text that loaded on the factor:
+
+child_nns 
+old_jj 
+school_nn 
+year 

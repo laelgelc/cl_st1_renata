@@ -1,0 +1,22 @@
+file = t041910
+date = 2024-02-28
+user = epochtimes
+conversation = 107814273983601296
+URL = https://truthsocial.com/@epochtimes/112009412366858389
+
+word count = 34
+words loading = 5
+factor score = 5
+
+Former President Donald J. Trump has soundly defeated former South Carolina 
+Gov. Nikki Haley in Michigan ' s Feb. 27 Republican presidential primary, 
+notching his sixth-straight primary victory as he marches towards the GOP 
+nomination. 
+
+Lemmas in this text that loaded on the factor:
+
+former_jj 
+nomination_nn 
+presidential_jj 
+primary_nn 
+republican_jj 

@@ -1,0 +1,20 @@
+file = t000057
+date = 2023-12-13
+user = AlexJones
+conversation = 107838014712814240
+URL = https://truthsocial.com/@AlexJones/111574225829328361
+
+word count = 33
+words loading = 2
+factor score = -2
+
+prohibited_e #alexjonesshow_h - Wednesday LIVE: Globalists Desperate to Keep 
+Ukraine War Alive as Support Plummets prohibited_e TUNE IN 
+backhand_index_pointing_down_e closed_book_e writing_hand_e Get a signed copy 
+of ' The Great Awakening ' & help keep Infowars & Alex Jones on air! 
+backhand_index_pointing_down_e - #supportinfowars_h #1a_h 
+
+Lemmas in this text that loaded on the factor:
+
+copy_nn 
+sign_vbn 

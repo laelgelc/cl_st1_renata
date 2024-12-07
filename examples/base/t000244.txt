@@ -1,0 +1,15 @@
+Genocide genocide_NN
+Alert alert_NP
+: :
+Hospitals hospital_NNS
+Profit profit_NN
+From from_IN
+Massive massive_JJ
+Spike spike_NP
+In in_IN
+COVID covid_NP
+Vaccine-Induced vaccine-induced_NP
+Heart heart_NP
+Damage damage_NN
+In in_IN
+Children children_NP

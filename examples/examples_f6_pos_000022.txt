@@ -1,0 +1,14 @@
+file = t056621
+date = 2022-03-21
+user = tednugent
+conversation = 107834528142172976
+URL = https://truthsocial.com/@tednugent/107996692462173229
+
+word count = 12
+words loading = 0
+factor score = 
+
+If you ' re not having fun with me you ' re weird. ￼ 
+
+Lemmas in this text that loaded on the factor:
+

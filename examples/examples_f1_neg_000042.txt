@@ -1,0 +1,20 @@
+file = t001918
+date = 2022-12-08
+user = ClayAndBuck
+conversation = 107839024552549600
+URL = https://truthsocial.com/@ClayAndBuck/109478887213753921
+
+word count = 42
+words loading = 3
+factor score = -3
+
+Religious freedom and compelled speech are front and center in the 303 Creative 
+vs. Elenis case. @ClayTravis and @BuckSexton ponder this SCOTUS legal us on 
+Odysee. Be sure to give us a like, share this video, and subscribe to our 
+channel! 
+
+Lemmas in this text that loaded on the factor:
+
+case_nn 
+freedom_nn 
+speech_nn 

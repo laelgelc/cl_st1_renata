@@ -1,0 +1,14 @@
+file = t056591
+date = 2022-12-26
+user = tednugent
+conversation = 107834528142172976
+URL = https://truthsocial.com/@tednugent/109581428066134299
+
+word count = 8
+words loading = 0
+factor score = 
+
+What a true American patriot leader would do￼ 
+
+Lemmas in this text that loaded on the factor:
+

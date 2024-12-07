@@ -1,0 +1,21 @@
+file = t044410
+date = 2022-07-07
+user = epochtimes
+conversation = 107814273983601296
+URL = https://truthsocial.com/@epochtimes/108606689929560330
+
+word count = 43
+words loading = 4
+factor score = 4
+
+A school board director in #washington_h state says she will host events at an 
+identity-inclusive and not creepy adult store she owns and discuss topics such 
+as sexual anatomy for pleasure and safer sex practices with kids as young as 9 
+years old. 
+
+Lemmas in this text that loaded on the factor:
+
+kid_nns 
+old_jj 
+school_nn 
+sex_nn 

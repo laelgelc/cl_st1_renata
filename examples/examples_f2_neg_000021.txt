@@ -1,0 +1,22 @@
+file = t018564
+date = 2023-03-03
+user = DonaldJTrumpJr
+conversation = 108040237637233824
+URL = https://truthsocial.com/@DonaldJTrumpJr/109956623289041462
+
+word count = 62
+words loading = 4
+factor score = -3
+
+BREAKING: Woke @PNCBank just shut down the bank account for my app @mxmnews 
+without any Left doesn ' t think you should be able to exist, much less thrive, 
+in society. It should be illegal to discriminate based on political 
+affiliation! ! ! If you ' re a conservative stop banking with them. It ' s only 
+a matter of time till they cancel you too! ! ! 
+
+Lemmas in this text that loaded on the factor:
+
+breaking_nn (secondary)
+conservative_jj 
+political_jj 
+think_vbp 

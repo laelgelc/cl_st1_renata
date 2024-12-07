@@ -1,0 +1,22 @@
+file = t000066
+date = 2023-12-06
+user = AlexJones
+conversation = 107838014712814240
+URL = https://truthsocial.com/@AlexJones/111534931657084495
+
+word count = 54
+words loading = 2
+factor score = -2
+
+sun_e #alexjonesshow_h Wednesday LIVE: Liberty Movement Strikes Back! Paxton 
+Suing State Department for Targeting Conservatives, Pfizer for Lying About 
+Covid Jabs as Establishment Scrambles to Stop Trump ' s Retribution — The 
+Great Awakening is HERE: » » » #supportinfowars_h ╮ ✿ Play #nwowars_h: 
+✿ 𝘈𝘭𝘦𝘹 𝘑𝘰𝘯𝘦𝘴 𝘋𝘦𝘧𝘦𝘯𝘴𝘦 
+𝘍𝘶𝘯𝘥 : ✿ Get a signed copy of ' The Great Awakening ' while you 
+still can! #1a_h 
+
+Lemmas in this text that loaded on the factor:
+
+copy_nn 
+sign_vbn 

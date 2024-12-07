@@ -1,0 +1,21 @@
+file = t043446
+date = 2023-01-17
+user = epochtimes
+conversation = 107814273983601296
+URL = https://truthsocial.com/@epochtimes/109707133794757403
+
+word count = 36
+words loading = 5
+factor score = 5
+
+Parents of children at a #kentucky_h school where a 14-year-old student 
+allegedly wrote a kill list last year have voiced concerns for their children ' 
+s safety after the student was reportedly allowed to return this month. 
+
+Lemmas in this text that loaded on the factor:
+
+child_nns 
+old_jj 
+parent_nns 
+school_nn 
+year 

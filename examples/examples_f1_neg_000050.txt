@@ -1,0 +1,23 @@
+file = t009663
+date = 2024-03-19
+user = DCTheMan
+conversation = 109678637844306528
+URL = https://truthsocial.com/@DCTheMan/112119432855059629
+
+word count = 74
+words loading = 4
+factor score = -3
+
+DID YOU KNOW THAT IT IS NOT REQUIRED TO HAVE A LAW DEGREE IN ORDER TO BECOME A 
+SUPREME COURT JUSTICE SO LONG AS YOU HAVE A RUDIMENTARY UNDERSTANDING OF THE 
+LAW, EVEN IF IT IS FASCIST OR MARXIST? **pouting_face_e** US Supreme Court 
+Justice Kentanji Brown Jackson Just Defended The US Government Violating the 
+1st Amendment During Arguments in Case Sen Rand Paul Calls the most 
+consequential free speech case in U. S. history 
+
+Lemmas in this text that loaded on the factor:
+
+case_nn 
+free_jj 
+pouting_face_e (secondary)
+speech_nn 

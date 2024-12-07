@@ -1,0 +1,13 @@
+red_circle_e red_circle_e
+Brian brian_NP
+Kemp kemp_NP
+Issues issues_NPS
+Indirect indirect_NN
+Warning warning_NP
+to to_TO
+GOP gop_NP
+About about_IN
+Trump trump_NP
+Election election_NP
+Fraud fraud_NP
+Claims claims_NPS

@@ -1,0 +1,19 @@
+file = t001993
+date = 2022-04-19
+user = ClayAndBuck
+conversation = 107839024552549600
+URL = https://truthsocial.com/@ClayAndBuck/108161144672295882
+
+word count = 33
+words loading = 3
+factor score = -3
+
+We ' re fighting for free speech, not a free pass to bully. @ClayTravis and 
+@BuckSexton are dumbfounded because liberals just can ' t understand that. For 
+more on this topic, follow the link: 
+
+Lemmas in this text that loaded on the factor:
+
+free_jj 
+liberal_nns 
+speech_nn 

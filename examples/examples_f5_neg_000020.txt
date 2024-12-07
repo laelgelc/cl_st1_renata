@@ -1,0 +1,18 @@
+file = t044677
+date = 2022-05-23
+user = epochtimes
+conversation = 107814273983601296
+URL = https://truthsocial.com/@epochtimes/108351685252418665
+
+word count = 27
+words loading = 2
+factor score = -2
+
+Undecided voters and an endorsement from former President @realDonaldTrump 
+could tip the results in Tuesday ' s primary elections for #georgia_h ' s 
+secretary of state, polls suggest. 
+
+Lemmas in this text that loaded on the factor:
+
+election_nns 
+poll_nns 

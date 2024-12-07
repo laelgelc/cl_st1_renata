@@ -1,0 +1,22 @@
+file = t031620
+date = 2024-03-13
+user = NewsMax
+conversation = 107764331655353184
+URL = https://truthsocial.com/@NewsMax/112089805010557232
+
+word count = 42
+words loading = 5
+factor score = 5
+
+Just hours after the official 2024 presidential election matchup was clinched 
+by President Joe Biden and presumptive GOP nominee and former President Donald 
+Trump. The Economist / YouGov released a poll Wednesday showing a remarkably 
+close race — in fact, a statistical tie. 
+
+Lemmas in this text that loaded on the factor:
+
+former_jj 
+nominee_nn 
+poll_nn 
+presidential_jj 
+race_nn 

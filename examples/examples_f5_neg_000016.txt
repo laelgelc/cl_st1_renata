@@ -1,0 +1,22 @@
+file = t039238
+date = 2022-08-07
+user = ThePatriotVoice
+conversation = 107834263369962160
+URL = https://truthsocial.com/@ThePatriotVoice/108784107421929925
+
+word count = 86
+words loading = 2
+factor score = -2
+
+The idea that we should NOT vote until 2020 is fixed, is absoutely ABSURD. 
+Individuals who are spreading this kind of DANGEROUS rhetoric are NOT Patriots, 
+but they are infiltrators, disruptors, and is BEYOND reasonable logic to even 
+suggest the notion of not voting in such a CRITICAL time in our nations 
+history. Even if there is massive fraud in our elections, which clearly is the 
+case, that does NOT absolve the FACT that we ALL need to participate in order 
+to overwhelm the system. 
+
+Lemmas in this text that loaded on the factor:
+
+election_nns 
+massive_jj 

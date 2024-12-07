@@ -1,0 +1,6 @@
+MAGA maga_NN
+like like_IN
+you you_PP
+mean mean_VBP
+it it_PP
+! !

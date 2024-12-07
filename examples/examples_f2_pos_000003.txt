@@ -1,0 +1,35 @@
+file = t050061
+date = 2022-05-19
+user = jncojok
+conversation = 107839448160284576
+URL = https://truthsocial.com/@jncojok/108328692164600714
+
+word count = 42
+words loading = 13
+factor score = 11
+
+@13ace is a Great Patriot, Please help me in welcoming my #gettr_h friend to 
+#truthsocial_h #patriot_h! ! Please give my friend a #follow_h **red_heart_e** 
+**white_heart_e** **blue_heart_e** **flag_united_states_e** 
+**flag_united_states_e** **flag_united_states_e** #patriots4ever_h 
+**#retruth_h** **#share_h** **#truth_h** #like_h #wefollowback_h 
+**flag_united_states_e** #ifbap_h **#patriots_h** #wwg1wga_h #maga_h 
+**#magaa_h** **#ultramaga_h** **#americafirst_h** **#america_h** #truthtrains_h 
+**#wethepeople_h** #trumptrains_h #patriotsunitethank_h you **red_heart_e** 
+**white_heart_e** **blue_heart_e** folded_hands_e folded_hands_e folded_hands_e 
+
+Lemmas in this text that loaded on the factor:
+
+america_h 
+americafirst_h 
+blue_heart_e 
+flag_united_states_e 
+magaa_h 
+patriots_h 
+red_heart_e 
+retruth_h 
+share_h 
+truth_h (secondary)
+ultramaga_h 
+wethepeople_h (secondary)
+white_heart_e 

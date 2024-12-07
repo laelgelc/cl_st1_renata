@@ -1,0 +1,17 @@
+file = t037781
+date = 2022-12-18
+user = ResisttheMainstream
+conversation = 107838850131880704
+URL = https://truthsocial.com/@ResisttheMainstream/109535339822150281
+
+word count = 11
+words loading = 2
+factor score = 2
+
+**red_circle_e** CIA Director Issues Warning About Children on TikTok: ' 
+Genuinely Troubling ' 
+
+Lemmas in this text that loaded on the factor:
+
+issues_nps 
+red_circle_e 

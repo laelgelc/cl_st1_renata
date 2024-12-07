@@ -1,0 +1,20 @@
+file = t042812
+date = 2023-06-04
+user = epochtimes
+conversation = 107814273983601296
+URL = https://truthsocial.com/@epochtimes/110486490645267423
+
+word count = 33
+words loading = 4
+factor score = 4
+
+8 GOP presidential hopefuls attended the Roast and Ride event in #iowa_h to 
+pitch themselves to prospective voters as the busy summer campaign season kicks 
+off, with GOP frontrunner former President @realDonaldTrump notably absent. 
+
+Lemmas in this text that loaded on the factor:
+
+campaign_nn 
+former_jj 
+presidential_jj 
+voter_nns 

@@ -1,0 +1,49 @@
+file = t052536
+date = 2024-05-12
+user = maxjett12
+conversation = 108319249994754560
+URL = https://truthsocial.com/@maxjett12/112429815709566661
+
+word count = 110
+words loading = 24
+factor score = 24
+
+ Demographers agree almost unanimously on the following grim timetable: by 1975 
+widespread famines will begin in India; these will spread by 1990 to include 
+all of India, Pakistan, China and the Near East, Africa. By the year 2000 , or 
+conceivably sooner, South and Central America will exist under famine 
+conditions … . By the year 2000 , thirty years from now, the entire world, 
+with the exception of Western Europe, North America, and Australia, will be in 
+famine. • Peter Gunter, professor, North Texas State University 1st earth day 
+1970 . **#xteam_h** **#dt47_h** **#truthtrain_h** **#phpnews_h** **#tcd_h** 
+**#nightshift_h** **#lilypadlounge_h** **#fhfnews_h** **#rpn_h** **#ratpack_h** 
+**#twgrp_h** **#thefungicrew_h** **#5dnews_h** **#wtpafu_h** **#trump2024_h** 
+**#murchmadness_h** **#ncswic_h** **#maga2024_h** **#maga_h** **#fbj_h** 
+**#truth_h** **#trumpwon_h** **#wethepeople_h** **#trump_h** 
+
+Lemmas in this text that loaded on the factor:
+
+5dnews_h 
+dt47_h 
+fbj_h 
+fhfnews_h 
+lilypadlounge_h 
+maga2024_h 
+maga_h 
+murchmadness_h 
+ncswic_h 
+nightshift_h 
+phpnews_h 
+ratpack_h 
+rpn_h 
+tcd_h 
+thefungicrew_h 
+trump2024_h 
+trump_h 
+trumpwon_h 
+truth_h 
+truthtrain_h 
+twgrp_h 
+wethepeople_h 
+wtpafu_h 
+xteam_h 

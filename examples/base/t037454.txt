@@ -1,0 +1,17 @@
+red_circle_e red_circle_e
+Trump trump_NP
+' '
+s s_NN
+2024 @card@
+GOP gop_NP
+Rivals rival_NNS
+Respond respond_NN
+to to_TO
+His his
+Third third_JJ
+Indictment indictment_NN
+With with_IN
+Wide wide_NP
+Range range_NP
+of of_IN
+Reactions reaction_NNS

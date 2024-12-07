@@ -1,0 +1,24 @@
+file = t052867
+date = 2022-05-24
+user = maxjett12
+conversation = 108319249994754560
+URL = https://truthsocial.com/@maxjett12/108357754780736054
+
+word count = 75
+words loading = 4
+factor score = 4
+
+New Hampshire ' s Republican governor believes that the state ' s motto, Live 
+Free or Die, refers to local governments not individual human beings. He 
+believes your children have no right to breathe unrestrictedly in school, but 
+local governments have a right to follow the federal government ' s barbaric 
+mask requirements without state input. Likewise, he believes schools have the 
+right to secretly engage in grooming of children, but parents have no right to 
+know. 
+
+Lemmas in this text that loaded on the factor:
+
+child_nns 
+federal_jj 
+parent_nns 
+school_nn 

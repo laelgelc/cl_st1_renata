@@ -1,0 +1,20 @@
+file = t056196
+date = 2023-04-10
+user = seanhannity
+conversation = 107803381972948240
+URL = https://truthsocial.com/@seanhannity/110175741075185667
+
+word count = 61
+words loading = 2
+factor score = -2
+
+TRUMP: Ron DeSantis is a young man who is not doing well against me in the 
+polls, to put it mildly. I believe that if he decides to run for President, 
+which will only hurt and somewhat divide the Republican Party, he will lose the 
+cherished and massive MAGA vote, and never be able to successfully run for 
+office again. 
+
+Lemmas in this text that loaded on the factor:
+
+massive_jj 
+poll_nns 

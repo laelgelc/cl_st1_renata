@@ -1,0 +1,20 @@
+file = t043737
+date = 2022-11-17
+user = epochtimes
+conversation = 107814273983601296
+URL = https://truthsocial.com/@epochtimes/109356637228419804
+
+word count = 42
+words loading = 3
+factor score = -3
+
+The top priority of Republicans upon gaining control of the House should be to 
+root out political motivations from the US justice system, as federal law 
+enforcement has been hijacked as a cudgel against political opponents, says 
+former Rep. Devin Nunes. 
+
+Lemmas in this text that loaded on the factor:
+
+law_nn 
+political_jj 
+republican_nns 

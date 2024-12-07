@@ -1,0 +1,21 @@
+file = t000039
+date = 2024-01-11
+user = AlexJones
+conversation = 107838014712814240
+URL = https://truthsocial.com/@AlexJones/111738522173440870
+
+word count = 49
+words loading = 2
+factor score = -2
+
+BREAKING BOMBSHELL: Elon Musk Takes on WEF / UN / EU Plan to Censor Free Speech 
+Worldwide, Take Over National Medical Systems, Dissolve Borders & Enforce a 
+Global CBDC Cashless Society! Must-Watch Thursday Broadcast! ╰ 
+#supportinfowars_h ╮ video_game_e grinning_squinting_face_e #nwowars_h 
+AVAILABLE on Steam! fire_e closed_book_e writing_hand_e Get a signed copy of ' 
+The Great Awakening ' while you still can! #1a_h 
+
+Lemmas in this text that loaded on the factor:
+
+copy_nn 
+sign_vbn 

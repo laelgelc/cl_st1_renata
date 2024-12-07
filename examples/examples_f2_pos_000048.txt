@@ -1,0 +1,27 @@
+file = t049749
+date = 2022-08-22
+user = jncojok
+conversation = 107839448160284576
+URL = https://truthsocial.com/@jncojok/108867578360605718
+
+word count = 21
+words loading = 10
+factor score = 8
+
+#maga_h **#americafirst_h** **#america_h** **#ultramaga_h** **#darkmaga_h** 
+**#patriots_h** **#trump_h** #trumptruths_h #bannonswarroom_h 
+**#warroomposse_h** #warroom_h #stevebannon_h #fbi_h **#truth_h** **#share_h** 
+#repost_h **#retruth_h** on #gettr_h #truthsocial_h 
+
+Lemmas in this text that loaded on the factor:
+
+america_h 
+americafirst_h 
+darkmaga_h 
+patriots_h 
+retruth_h 
+share_h 
+trump_h (secondary)
+truth_h (secondary)
+ultramaga_h 
+warroomposse_h 

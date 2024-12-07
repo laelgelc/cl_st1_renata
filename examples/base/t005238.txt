@@ -1,0 +1,7 @@
+Bad bad_JJ
+news news_NN
+for for_IN
+the the_DT
+far-left far-left_JJ
+DA da_NP
+! !

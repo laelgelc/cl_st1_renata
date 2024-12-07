@@ -1,0 +1,18 @@
+file = t001483
+date = 2023-09-13
+user = CitizenFreePress
+conversation = 108274591401172032
+URL = https://truthsocial.com/@CitizenFreePress/111055645772657678
+
+word count = 18
+words loading = 3
+factor score = -3
+
+Owen Shroyer is ready to take his free speech case all the way to the Supreme 
+Court. 
+
+Lemmas in this text that loaded on the factor:
+
+case_nn 
+free_jj 
+speech_nn 

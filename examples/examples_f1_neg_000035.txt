@@ -1,0 +1,20 @@
+file = t000873
+date = 2023-04-26
+user = Charliekirk
+conversation = 107804978292323344
+URL = https://truthsocial.com/@Charliekirk/110266819807334598
+
+word count = 46
+words loading = 3
+factor score = -3
+
+BREAKING: The courts in Brazil have banned the use of the Telegram messaging 
+app, mandating that all phone carriers and app stores remove it from their 
+platforms after it refused to hand over user data to the Brazilian government. 
+The assault on free speech continues. 
+
+Lemmas in this text that loaded on the factor:
+
+breaking_nn 
+free_jj 
+speech_nn 

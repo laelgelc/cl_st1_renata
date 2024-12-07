@@ -1,0 +1,21 @@
+file = t032276
+date = 2023-05-10
+user = NewsMax
+conversation = 107764331655353184
+URL = https://truthsocial.com/@NewsMax/110345315149416510
+
+word count = 28
+words loading = 5
+factor score = 5
+
+Former President Donald Trump holds a commanding lead over potential and 
+current GOP presidential contenders among likely Iowa Republican caucus voters 
+in a poll released last week. 
+
+Lemmas in this text that loaded on the factor:
+
+former_jj 
+poll_nn 
+presidential_jj 
+republican_jj 
+voter_nns 

@@ -1,0 +1,20 @@
+file = t036714
+date = 2024-04-19
+user = RepMattGaetz
+conversation = 107820765822139728
+URL = https://truthsocial.com/@RepMattGaetz/112299310262656036
+
+word count = 43
+words loading = 3
+factor score = -3
+
+Would a motion to vacate @RepMikeJohnson result in a Democrat Speaker? I regret 
+to inform the country that, in a one-seat majority, there could be 1-3 of my 
+GOP colleagues who would take a BRIBE in order to deprive the Republicans of 
+our majority. 
+
+Lemmas in this text that loaded on the factor:
+
+country_nn 
+majority_nn 
+republican_nns 

@@ -1,0 +1,16 @@
+file = t000537
+date = 2024-04-10
+user = Charliekirk
+conversation = 107804978292323344
+URL = https://truthsocial.com/@Charliekirk/112247690971131386
+
+word count = 14
+words loading = 1
+factor score = -1
+
+National, state GOP figures gather in Omaha to push for winner-take-all 
+elections in Nebraska 
+
+Lemmas in this text that loaded on the factor:
+
+election_nns 

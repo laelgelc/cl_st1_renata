@@ -1,0 +1,37 @@
+Former former_JJ
+President president_NP
+@realDonaldTrump twitterhandle_NN
+is be_VBZ
+in in_IN
+a a_DT
+ "  "
+much much_RB
+more more_RBR
+dominant dominant_JJ
+position position_NN
+ "  "
+in in_IN
+the the_DT
+2024 @card@
+GOP gop_NP
+presidential presidential_JJ
+primary primary_JJ
+race race_NN
+than than_IN
+he he_PP
+was be_VBD
+in in_IN
+2016 @card@
+presidential presidential_JJ
+primary primary_JJ
+cycle cycle_NN
+, ,
+according accord_VBG
+to to_TO
+former former_JJ
+GOP gop_NP
+campaign campaign_NN
+strategist strategist_NN
+Matthew matthew_NP
+Dowd dowd_NP
+. .

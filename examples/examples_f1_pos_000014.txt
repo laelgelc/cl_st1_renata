@@ -1,0 +1,49 @@
+file = t052578
+date = 2024-05-08
+user = maxjett12
+conversation = 108319249994754560
+URL = https://truthsocial.com/@maxjett12/112406575365810196
+
+word count = 110
+words loading = 24
+factor score = 24
+
+Democrats With Ties To China Targeting Lawyers Who Advocate For ' Election 
+Integrity ' Former Senator Tom Daschle – a board member of a new dark money, 
+left-wing group targeting conservative election integrity lawyers – took a 
+trip to China sponsored by a key communist influence group flagged by the U. S. 
+government for its efforts to infiltrate American new group – 65 Project – 
+seeks to deter right-wing lawyers from fighting on behalf of election integrity 
+by attempting to disbar and intimidate lawyers who fought for the issue during 
+the 2020 election. **#xteam_h** **#dt47_h** **#truthtrain_h** **#phpnews_h** 
+**#tcd_h** **#nightshift_h** **#lilypadlounge_h** **#fhfnews_h** **#rpn_h** 
+**#ratpack_h** **#twgrp_h** **#thefungicrew_h** **#5dnews_h** **#wtpafu_h** 
+**#trump2024_h** **#murchmadness_h** **#ncswic_h** **#maga2024_h** **#maga_h** 
+**#fbj_h** **#truth_h** **#trumpwon_h** **#wethepeople_h** **#trump_h** 
+
+Lemmas in this text that loaded on the factor:
+
+5dnews_h 
+dt47_h 
+fbj_h 
+fhfnews_h 
+lilypadlounge_h 
+maga2024_h 
+maga_h 
+murchmadness_h 
+ncswic_h 
+nightshift_h 
+phpnews_h 
+ratpack_h 
+rpn_h 
+tcd_h 
+thefungicrew_h 
+trump2024_h 
+trump_h 
+trumpwon_h 
+truth_h 
+truthtrain_h 
+twgrp_h 
+wethepeople_h 
+wtpafu_h 
+xteam_h 

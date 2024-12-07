@@ -1,0 +1,30 @@
+file = t038779
+date = 2023-12-20
+user = ThePatriotVoice
+conversation = 107834263369962160
+URL = https://truthsocial.com/@ThePatriotVoice/111610972420606542
+
+word count = 180
+words loading = 3
+factor score = -3
+
+If you think for a second that our country hasn ' t been totally turned over to 
+communists, then you need to pay MUCH CLOSER ATTENTION. police_car_light_e 
+police_car_light_e police_car_light_e What was allowed to happen to 
+@realDonaldTrump in Colorado today was historic for ALL of the WRONG reasons. A 
+Federal Court actually ruled against the will of an ENTIRE voting block to keep 
+Trump OFF their state GOP ballot, in favor of the opposite party. NEVER BEFORE 
+in history has that EVER happened. This is a rubicon moment, and one that if is 
+not swiftly reversed will absolutely lead to civil disturbances. They WANT us 
+in a civil war, BADLY. If that happened, it would be easy for Biden to call 
+Martial Law and then ALL hell would break lose. They are betting on this, that 
+is why you see the INTENSE persecution of Trump, to the point of removing him 
+from state ballots. Colorado isn ' t the goes BEYOND election interference, not 
+only do they want to make sure he is NEVER President again, but they want to 
+bring us FULLY TO HEEL. 
+
+Lemmas in this text that loaded on the factor:
+
+country_nn 
+law_nn 
+think_vbp 

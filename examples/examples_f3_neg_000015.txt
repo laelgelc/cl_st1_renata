@@ -1,0 +1,20 @@
+file = t000022
+date = 2024-02-15
+user = AlexJones
+conversation = 107838014712814240
+URL = https://truthsocial.com/@AlexJones/111936631634639845
+
+word count = 40
+words loading = 2
+factor score = -2
+
+#alexjonesshow_h Thursday LIVE: World Awakens to Deep State Lies on Russian 
+Space Nukes, Border Invasion, Toxic Jabs, MORE — TUNE IN NOW ╰☆☆☆ 
+#supportinfowars_h ☆☆☆╮ » » » Play #nwowars_h! NOW ON STEAM! ! 
+smiling_face_with_sunglasses_e » » » Get a signed copy of ' The Great 
+Awakening ' while you still can! 
+
+Lemmas in this text that loaded on the factor:
+
+copy_nn 
+sign_vbn 

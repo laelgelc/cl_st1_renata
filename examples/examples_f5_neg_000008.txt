@@ -1,0 +1,17 @@
+file = t020326
+date = 2023-10-14
+user = FoxNews
+conversation = 108058433447588352
+URL = https://truthsocial.com/@FoxNews/111232336593238729
+
+word count = 17
+words loading = 2
+factor score = -2
+
+Dems, GOP face first test ahead of 2024 elections as voters head to polls in 
+Louisiana 
+
+Lemmas in this text that loaded on the factor:
+
+election_nns 
+poll_nns 

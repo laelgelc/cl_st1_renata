@@ -1,0 +1,30 @@
+file = t038672
+date = 2024-05-28
+user = ThePatriotVoice
+conversation = 107834263369962160
+URL = https://truthsocial.com/@ThePatriotVoice/112520016370668774
+
+word count = 156
+words loading = 4
+factor score = -3
+
+Secret Service is reportedly meeting with jail staff in New York in preparation 
+for the possibility that @realDonaldTrump is found guilty in the hush money 
+trial, and sentenced to prison. police_car_light_e police_car_light_e 
+police_car_light_e Communist Democrats are really NOT the smartest bunch…They 
+want to put Trump in JAIL for a crime that he didn ' t even commit. This is not 
+a trial for JUSTICE, it is a Bolshevik style political hit job and persecution. 
+It is ELECTION INTERFERENCE at the HIGHEST and MOST egregious a way, I pray 
+they are DUMB enough to put Trump in prison, because that would galvanize MAGA, 
+and most of the country like NEVER before. Trump has already captured the black 
+vote, this would just solidify this ENDLESS persecution, they are doing nothing 
+but turning Trump into the world ' s MOST famous martyr, and it is going to 
+backfire. BIG the Democrats want to MAKE SURE that Trump WINS in an absolute 
+landslide, then PLEASE…DO. DARE: / / 
+
+Lemmas in this text that loaded on the factor:
+
+big_jj 
+country_nn 
+political_jj 
+way_nn (secondary)

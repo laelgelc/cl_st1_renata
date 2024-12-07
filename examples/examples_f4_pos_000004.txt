@@ -1,0 +1,17 @@
+file = t014365
+date = 2024-01-09
+user = DineshDSouza
+conversation = 107810096875431984
+URL = https://truthsocial.com/@DineshDSouza/111727903334563592
+
+word count = 11
+words loading = 3
+factor score = 3
+
+Huge ruling in Jack Smith ' s witch hunt against Trump! 
+
+Lemmas in this text that loaded on the factor:
+
+hunt_nn 
+ruling_nn 
+witch_nn 

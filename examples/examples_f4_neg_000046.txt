@@ -1,0 +1,32 @@
+file = t038788
+date = 2023-12-09
+user = ThePatriotVoice
+conversation = 107834263369962160
+URL = https://truthsocial.com/@ThePatriotVoice/111548023562992796
+
+word count = 161
+words loading = 5
+factor score = -4
+
+EVERYONE NEEDS TO LISTEN to what @AlexJones lays out here & focus on the 
+absolutely CHILLING ramifications of what he is saying. police_car_light_e 
+police_car_light_e police_car_light_e The earth is being put into a countdown 
+collapse right now…They want to bring the world population down to 500 
+million…Elon Musk is right and a hero for pointing out if you don ' t have a 
+2 . 1 children…replacement rate, society collapses. According to WEF & UN 
+white papers … We will have a post-industrial world by 2030 . We will have NO 
+personal cars by 2030 . We will be eating bugs by 2030 . We will start the 
+DEPOPULATION of 90 % the people by 2045 . When you look at this & you look at 
+population data, the numbers DO NOT LIE. There is a SERIOUS problem with the 
+US, Japan, Italy & many other predominantly white countries NOT reproducing 
+enough to sustain a viable culture & society. This is a MAJOR issue looking 
+into the future another 20-30 years and beyond…Replacement rates by country: 
+Japan: 1 . 3Italy: 1 . 3America: 1 . 6NOT SUSTAINABLE. 
+
+Lemmas in this text that loaded on the factor:
+
+country_nn (secondary)
+many_jj 
+other_jj 
+people_nns 
+want_vbp 

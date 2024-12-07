@@ -1,0 +1,36 @@
+As as_IN
+corporations corporation_NNS
+increasingly increasingly_RB
+take take_VBP
+up up_RP
+progressive progressive_JJ
+political political_JJ
+causes cause_NNS
+, ,
+some some_DT
+conservative conservative_JJ
+entrepreneurs entrepreneur_NNS
+see see_VBP
+a a_DT
+business business_NN
+companies company_NNS
+like like_IN
+Black black_NP
+Rifle rifle_NP
+Coffee coffee_NP
+and and_CC
+Patriot patriot_NP
+Mobile mobile_NP
+, ,
+Meckler meckler_NP
+said say_VBD
+ "  "
+half half_PDT
+the the_DT
+country country_NN
+ "  "
+is be_VBZ
+a a_DT
+potential potential_JJ
+market market_NN
+. .

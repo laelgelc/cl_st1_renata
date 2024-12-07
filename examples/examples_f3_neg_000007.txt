@@ -1,0 +1,22 @@
+file = t000012
+date = 2024-02-27
+user = AlexJones
+conversation = 107838014712814240
+URL = https://truthsocial.com/@AlexJones/112004548642138715
+
+word count = 36
+words loading = 2
+factor score = -2
+
+Emergency Tuesday Broadcast! President Macron Prepares French Population for 
+Direct War With Russia, Says NATO Readying Invasion of Ukraine! 
+backhand_index_pointing_down_e WATCH THE BROADCAST NOW 
+backhand_index_pointing_down_e closed_book_e writing_hand_e Get a signed copy 
+of ' The Great Awakening ' & help support Infowars! - #alexjonesshow_h - 
+backhand_index_pointing_down_e backhand_index_pointing_down_e 
+backhand_index_pointing_down_e 
+
+Lemmas in this text that loaded on the factor:
+
+copy_nn 
+sign_vbn 

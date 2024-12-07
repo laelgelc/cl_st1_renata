@@ -1,0 +1,52 @@
+file = t052563
+date = 2024-05-10
+user = maxjett12
+conversation = 108319249994754560
+URL = https://truthsocial.com/@maxjett12/112417261942375996
+
+word count = 150
+words loading = 24
+factor score = 24
+
+ You put them first, said Malcolm X, and they put you last. ' Cause you ' re a 
+chump. A political chump! . . . Any time you throw your weight behind a 
+political party that controls two-thirds of the government, and that party can 
+' t keep the promise that it made to you during election time, and you are dumb 
+enough to walk around continuing to identify yourself with that party -- you ' 
+re not only a chump but you ' re a traitor to your race. What would Malcolm X 
+say about today ' s 95 percent black vote? Did the Democratic Party keep its 
+promises to promote family stability, push education and encourage job 
+creation? The black community, over the last 50 years, has suffered an 
+unparalleled breakdown in family unity. **#xteam_h** **#dt47_h** 
+**#truthtrain_h** **#phpnews_h** **#tcd_h** **#nightshift_h** 
+**#lilypadlounge_h** **#fhfnews_h** **#rpn_h** **#ratpack_h** **#twgrp_h** 
+**#thefungicrew_h** **#5dnews_h** **#wtpafu_h** **#trump2024_h** 
+**#murchmadness_h** **#ncswic_h** **#maga2024_h** **#maga_h** **#fbj_h** 
+**#truth_h** **#trumpwon_h** **#wethepeople_h** **#trump_h** 
+
+Lemmas in this text that loaded on the factor:
+
+5dnews_h 
+dt47_h 
+fbj_h 
+fhfnews_h 
+lilypadlounge_h 
+maga2024_h 
+maga_h 
+murchmadness_h 
+ncswic_h 
+nightshift_h 
+phpnews_h 
+ratpack_h 
+rpn_h 
+tcd_h 
+thefungicrew_h 
+trump2024_h 
+trump_h 
+trumpwon_h 
+truth_h 
+truthtrain_h 
+twgrp_h 
+wethepeople_h 
+wtpafu_h 
+xteam_h 

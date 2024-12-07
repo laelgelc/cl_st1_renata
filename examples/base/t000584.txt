@@ -1,0 +1,16 @@
+NEW new_JJ
+: :
+House house_NP
+GOP gop_NP
+file file_NN
+impeachment impeachment_NN
+articles article_NNS
+against against_IN
+Biden biden_NP
+' '
+s s_JJ
+DHS dhs_NP
+sec sec_NN
+over over_IN
+border border_NN
+invasion invasion_NN

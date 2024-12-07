@@ -1,0 +1,26 @@
+file = t047669
+date = 2023-11-11
+user = gracechong
+conversation = 107834212685293904
+URL = https://truthsocial.com/@gracechong/111393829569860390
+
+word count = 82
+words loading = 5
+factor score = -5
+
+FROM PUNCHBOWL NEWS — Happy Saturday from Punchbowl News. Speaker Mike 
+Johnson told House Republicans on a conference call today that GOP leaders 
+would offer a pair of stopgap funding bills to avoid a government shutdown next 
+first package would extend Agriculture, MilCon-Va, Energy and Water plus 
+Transportation-HUD spending until Jan. 19 . The second package would extend the 
+other eight appropriations bills until Feb. 2 . Johnson said the fallback 
+option is a full-year CR. The CR doesn ' t extend FISA authority or aid to 
+Israel. 
+
+Lemmas in this text that loaded on the factor:
+
+first_jj 
+government_nn 
+other_jj 
+say_vbd 
+today_nn 

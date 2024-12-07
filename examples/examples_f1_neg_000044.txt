@@ -1,0 +1,24 @@
+file = t002015
+date = 2022-10-12
+user = CongressmanLaMalfa
+conversation = 107916016508319936
+URL = https://truthsocial.com/@CongressmanLaMalfa/109155303965936789
+
+word count = 68
+words loading = 5
+factor score = -3
+
+Our nation was founded on the principle of freedom, but under a Democrat 
+one-party rule in Washington, Americans have seen their Constitutional freedoms 
+come under attack. Concerned parents are targeted as domestic terrorists, sport 
+coaches are fired for silently praying, Big Tech is censoring media to silence 
+free speech. When Republicans take back the majority in November, we will 
+defend our unalienable rights and ensure that freedom perseveres. 
+
+Lemmas in this text that loaded on the factor:
+
+free_jj 
+freedom_nn 
+freedom_nns (secondary)
+parent_nns (secondary)
+speech_nn 

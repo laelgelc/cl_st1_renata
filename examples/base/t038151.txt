@@ -1,0 +1,16 @@
+red_circle_e red_circle_e
+Federal federal_NP
+Judge judge_NP
+Issues issues_NPS
+Ruling ruling_NP
+on on_IN
+Lawsuit lawsuit_NP
+Challenging challenging_NP
+GOP gop_NP
+Rep rep_NP
+. .
+Greene greene_NP
+' '
+s s_NN
+Re-Election re-election_NP
+Bid bid_NP

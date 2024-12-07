@@ -1,0 +1,20 @@
+file = t036007
+date = 2023-08-02
+user = RSBN
+conversation = 107804136363140448
+URL = https://truthsocial.com/@RSBN/110820357541334349
+
+word count = 50
+words loading = 2
+factor score = 2
+
+**red_circle_e** COMING UP THIS WEEK ON RSBN television_e right_arrow_e 8 / 3 : 
+Coverage of President Donald J. Trump ' s D. C. indictment. LIVE at 2 pm: / / 
+right_arrow_e 8 / 4 : President Trump speaks at Alabama GOP dinner. LIVE at 6 
+pm: / / right_arrow_e 8 / 5 : President Trump speaks at South Carolina GOP 
+dinner. LIVE at 5 pm: / / 
+
+Lemmas in this text that loaded on the factor:
+
+indictment_nn 
+red_circle_e 

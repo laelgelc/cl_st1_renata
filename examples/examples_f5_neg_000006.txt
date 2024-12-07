@@ -1,0 +1,23 @@
+file = t012141
+date = 2022-10-18
+user = DC_Draino
+conversation = 107813989985461776
+URL = https://truthsocial.com/@DC_Draino/109189733138329607
+
+word count = 80
+words loading = 3
+factor score = -2
+
+The generic ballot polls didn ' t magically swing wildly back towards 
+Republicans in the last couple weeksThe polls in August and September were just 
+suppression polls trying to dampen MAGA enthusiasm after seeing their huge 
+advantage earlier in the summerThey tried to shift the national electorate but 
+it didn ' t work and now they have to reflect the actual political reality 
+right before elections so they don ' t completely humiliate themselves as a 
+polling organizationThey do this every cycle 
+
+Lemmas in this text that loaded on the factor:
+
+election_nns 
+poll_nns 
+republican_nns (secondary)

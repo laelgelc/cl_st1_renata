@@ -1,0 +1,21 @@
+file = t053979
+date = 2023-04-10
+user = realDonaldTrump
+conversation = 107780257626128496
+URL = https://truthsocial.com/@realDonaldTrump/110175037026906627
+
+word count = 81
+words loading = 2
+factor score = -2
+
+Ron DeSantis is a young man who is not doing well against me in the polls, to 
+put it mildly. I believe that if he decides to run for President, which will 
+only hurt and somewhat divide the Republican Party, he will lose the cherished 
+and massive MAGA vote, and never be able to successfully run for office again. 
+If he remains Governor, which is what Florida voters assumed, it would be a 
+whole different story … . JUST SAYIN ' - But who knows? 
+
+Lemmas in this text that loaded on the factor:
+
+massive_jj 
+poll_nns 

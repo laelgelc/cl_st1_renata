@@ -1,0 +1,22 @@
+file = t032547
+date = 2023-01-01
+user = NewsMax
+conversation = 107764331655353184
+URL = https://truthsocial.com/@NewsMax/109615313844320800
+
+word count = 39
+words loading = 5
+factor score = 5
+
+The violence at the Capitol on Jan. 6 , 2021 , disqualifies former President 
+Donald Trump from winning the Republican presidential nomination in 2024 , 
+Arkansas GOP Gov. Asa Hutchinson, who has been hinting heavily about mounting a 
+campaign, said Sunday. 
+
+Lemmas in this text that loaded on the factor:
+
+campaign_nn 
+former_jj 
+nomination_nn 
+presidential_jj 
+republican_jj 

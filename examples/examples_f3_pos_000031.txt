@@ -1,0 +1,22 @@
+file = t054198
+date = 2022-07-22
+user = realDonaldTrump
+conversation = 107780257626128496
+URL = https://truthsocial.com/@realDonaldTrump/108688186769698466
+
+word count = 62
+words loading = 4
+factor score = 4
+
+ Not only does a majority of GOP voters favor former President Donald Trump to 
+be the 2024 presidential nominee, but a large majority of those picking Trump ( 
+66 % ) say they are ' absolutely certain ' …along with 19 % ' very certain, ' 
+and 13 % ' somewhat certain. ' That totals 98 % certainty among those picking 
+Trump that they are certain he will be their pick in two years. 
+
+Lemmas in this text that loaded on the factor:
+
+former_jj 
+nominee_nn 
+presidential_jj 
+voter_nns 

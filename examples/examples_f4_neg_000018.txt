@@ -1,0 +1,25 @@
+file = t051248
+date = 2023-02-04
+user = maga420
+conversation = 107834188191138752
+URL = https://truthsocial.com/@maga420/109808202873766454
+
+word count = 89
+words loading = 5
+factor score = -5
+
+The MOST important issue we face today is ELECTION INTEGRITY! If we fail to 
+secure our elections BEFORE 2024 we WILL lose again! That means losing our 
+freedom for good! All this other stuff people rather talk about is irrelevant 
+because you will never be able to fix any of these other issues you ' re crying 
+about if we don ' t get to choose your leaders. If we continue to allow our 
+leaders to be installed they will continue to do whatever THEY want to do. Get 
+it? ! 
+
+Lemmas in this text that loaded on the factor:
+
+good_jj 
+other_jj 
+people_nns 
+today_nn 
+want_vbp 

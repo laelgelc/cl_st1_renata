@@ -1,0 +1,21 @@
+file = t043323
+date = 2023-02-17
+user = epochtimes
+conversation = 107814273983601296
+URL = https://truthsocial.com/@epochtimes/109877697136807501
+
+word count = 39
+words loading = 4
+factor score = 4
+
+ I ' m glad she ' s running, Trump President Trump, who is running for the 2024 
+GOP presidential nomination, welcomed #nikkihaley_h ' s decision to join the 
+2024 Republican presidential race after he criticized her record in his initial 
+response. 
+
+Lemmas in this text that loaded on the factor:
+
+nomination_nn 
+presidential_jj 
+race_nn 
+republican_jj 

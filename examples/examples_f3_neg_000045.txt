@@ -1,0 +1,22 @@
+file = t000070
+date = 2023-12-03
+user = AlexJones
+conversation = 107838014712814240
+URL = https://truthsocial.com/@AlexJones/111518779597071361
+
+word count = 40
+words loading = 2
+factor score = -2
+
+pirate_flag_e skull_e syringe_e #alexjonesshow_h Sunday LIVE: Governments 
+Retaliate Against Whistleblowers Who Exposed COVID Jab Mass Deaths to the World 
+— Alex Jones Responds! speaking_head_e prohibited_e prohibited_e prohibited_e 
+╚★★★ #supportinfowars_h ★★★╝ » » » Play #nwowars_h! ! » » 
+» 𝘈𝘭𝘦𝘹 𝘑𝘰𝘯𝘦𝘴 𝘋𝘦𝘧𝘦𝘯𝘴𝘦 
+𝘍𝘶𝘯𝘥 : » » » Get a signed copy of ' The Great Awakening ' while 
+you still can! #1a_h 
+
+Lemmas in this text that loaded on the factor:
+
+copy_nn 
+sign_vbn 

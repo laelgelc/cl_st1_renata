@@ -1,0 +1,42 @@
+ "  "
+DOJ doj_NP
+just just_RB
+handed hand_VBD
+Donald donald_NP
+Trump trump_NP
+the the_DT
+Republican republican_JJ
+nominee nominee_NN
+and and_CC
+potentially potentially_RB
+the the_DT
+presidency presidency_NN
+. .
+ "  "
+The the_DT
+#fbiraid_h fbiraid_h
+of of_IN
+the the_DT
+former former_JJ
+President president_NP
+Trump trump_NP
+' '
+s s_JJ
+Mar-a-Largo mar-a-largo_NP
+estate estate_NN
+may may_MD
+have have_VB
+ "  "
+handed hand_VBN
+ "  "
+the the_DT
+2024 @card@
+GOP gop_NP
+presidential presidential_JJ
+nomination nomination_NN
+to to_TO
+Trump trump_NP
+, ,
+commentators commentator_NNS
+said say_VBD
+. .

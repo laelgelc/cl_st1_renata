@@ -1,0 +1,22 @@
+file = t044252
+date = 2022-08-09
+user = epochtimes
+conversation = 107814273983601296
+URL = https://truthsocial.com/@epochtimes/108795513562691770
+
+word count = 34
+words loading = 5
+factor score = 5
+
+ DOJ just handed Donald Trump the Republican nominee and potentially the 
+presidency. The #fbiraid_h of the former President Trump ' s Mar-a-Largo estate 
+may have handed the 2024 GOP presidential nomination to Trump, commentators 
+said. 
+
+Lemmas in this text that loaded on the factor:
+
+former_jj 
+nomination_nn 
+nominee_nn 
+presidential_jj 
+republican_jj 

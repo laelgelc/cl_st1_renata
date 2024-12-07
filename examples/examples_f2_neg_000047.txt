@@ -1,0 +1,19 @@
+file = t043333
+date = 2023-02-14
+user = epochtimes
+conversation = 107814273983601296
+URL = https://truthsocial.com/@epochtimes/109865798040710107
+
+word count = 24
+words loading = 3
+factor score = -3
+
+Conservative political commentator Matt Walsh has escalated his efforts to call 
+attention to child sex-change surgery, sparring with #tennessee_h lawmakers 
+about a proposed bill. 
+
+Lemmas in this text that loaded on the factor:
+
+bill_nn 
+conservative_jj 
+political_jj 

@@ -1,0 +1,16 @@
+Massive massive_JJ
+election election_NN
+shakeup shakeup_NN
+in in_IN
+Michigan michigan_NP
+. .
+What what_WP
+do do_VBP
+you you_PP
+think think_VBP
+this this_DT
+means means_NN
+for for_IN
+the the_DT
+midterms midterm_NNS
+? ?

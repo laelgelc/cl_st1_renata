@@ -1,0 +1,21 @@
+file = t009568
+date = 2024-04-16
+user = DCTheMan
+conversation = 109678637844306528
+URL = https://truthsocial.com/@DCTheMan/112282937789695261
+
+word count = 51
+words loading = 3
+factor score = -3
+
+#freethej6politicalhostages_h flag_united_states_e heart_suit_e Justice Neil 
+Gorsuch stole the show this morning by blowing up the foundation of the DOJ ' s 
+case against the nonviolent J6 protesters. While the Trump supporters simply 
+exercised their freedom of speech, there were leftist individuals who committed 
+actual felonies that the Biden regime gave a complete pass: / / 
+
+Lemmas in this text that loaded on the factor:
+
+case_nn 
+freedom_nn 
+speech_nn 

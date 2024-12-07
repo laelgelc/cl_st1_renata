@@ -1,0 +1,20 @@
+file = t039857
+date = 2022-09-06
+user = UpstateVoice
+conversation = 108371561221787680
+URL = https://truthsocial.com/@UpstateVoice/108950232122665553
+
+word count = 46
+words loading = 2
+factor score = 2
+
+Breaking: Judge Rules Trump To Use Special Master To Review Phony Case Brought 
+Against Him By The Crooked absurd FBI raid at Mora-largo was outrageous. This 
+entire debacle is nothing more than an administrative state witch hunt. It 
+cannot stand! ! #trump2024_hHASHTAG#freedom_h #freespeech_h #liberty_h 
+#patriot_h #maga_h 
+
+Lemmas in this text that loaded on the factor:
+
+hunt_nn 
+witch_nn 

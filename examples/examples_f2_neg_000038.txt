@@ -1,0 +1,30 @@
+file = t038744
+date = 2024-01-27
+user = ThePatriotVoice
+conversation = 107834263369962160
+URL = https://truthsocial.com/@ThePatriotVoice/111830045041016413
+
+word count = 158
+words loading = 4
+factor score = -3
+
+Here ' s one for the ages … America ' s #1_h Rapper Ben Shapiro, Conservative 
+influencer and majority owner of The Daily Wire has been found to be making 
+very generous contributions to HIAS ( Hebrew Immigrant Aid Society ) 
+triangular_flag_e triangular_flag_e triangular_flag_e The Daily Wire has also 
+shamelessly pushed the death jab, support for the Ukraine war, and cheered on 
+the endless war between Israel / Gaza. Not to mention, VERY outspoken about 
+support for candidate Ron DeSantis, and in total opposition of @ , is one of 
+the many NGOs working in tandem with the United Nations, and the Communist 
+Biden Regime to ensure that illegal immigrants from ALL corners of the world 
+are well funded, and taken care of as they make the journey on the Pan American 
+Highway to INVADE our ' Ben is also a stanch advocate for the Browning of 
+America and couldn ' t give a damn what you think. Be careful WHO you follow is 
+an UNDERSTATEMENT. Our movement has been throughly: / / 
+
+Lemmas in this text that loaded on the factor:
+
+conservative_jj 
+majority_nn 
+think_vbp 
+total_jj (secondary)

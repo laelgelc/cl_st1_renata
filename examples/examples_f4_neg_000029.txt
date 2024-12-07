@@ -1,0 +1,24 @@
+file = t011574
+date = 2023-02-01
+user = DCTheMan
+conversation = 109678637844306528
+URL = https://truthsocial.com/@DCTheMan/109790590426039582
+
+word count = 96
+words loading = 4
+factor score = -4
+
+The party they belong to is not meaningless, tell you why. Because Democrats 
+are trying to tell all of their liberal followers and the rest of the world 
+that they had nothing to do with slavery in any way and that it was all the 
+Republicans faults. Which we all know to not be true. And how reparations need 
+to be made. However they do not talk about how it was their own tribes who 
+captured them and sold them into slavery in the first place. Or how Democrats 
+voted against their freedom and voting. 
+
+Lemmas in this text that loaded on the factor:
+
+first_jj 
+know_vbp 
+need_vbp 
+way_nn 

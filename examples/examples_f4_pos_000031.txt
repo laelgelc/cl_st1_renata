@@ -1,0 +1,17 @@
+file = t037647
+date = 2023-04-10
+user = ResisttheMainstream
+conversation = 107838850131880704
+URL = https://truthsocial.com/@ResisttheMainstream/110174921982142013
+
+word count = 15
+words loading = 2
+factor score = 2
+
+**red_circle_e** New Poll Reveals How Americans Feel About Trump ' s Indictment 
+in Stormy Daniels Case 
+
+Lemmas in this text that loaded on the factor:
+
+indictment_nn 
+red_circle_e 

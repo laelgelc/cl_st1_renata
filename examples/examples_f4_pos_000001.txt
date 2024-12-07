@@ -1,0 +1,20 @@
+file = t043126
+date = 2023-03-31
+user = epochtimes
+conversation = 107814273983601296
+URL = https://truthsocial.com/@epochtimes/110115688182725816
+
+word count = 38
+words loading = 3
+factor score = 3
+
+A bevy of Republicans responded to the news of Trump ' s indictment, largely 
+offering support for the former icans and Trump have characterized the 
+prosecution by the Manhattan District Attorney ' s office as a partisan witch 
+hunt. 
+
+Lemmas in this text that loaded on the factor:
+
+hunt_nn 
+indictment_nn 
+witch_nn 

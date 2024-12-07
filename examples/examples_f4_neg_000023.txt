@@ -1,0 +1,31 @@
+file = t000310
+date = 2023-09-22
+user = BrandonStraka
+conversation = 107815387689187504
+URL = https://truthsocial.com/@BrandonStraka/111110475373127216
+
+word count = 168
+words loading = 5
+factor score = -4
+
+4 days ago my mom had a stroke. She ' s doing very well right now, but the 
+first few days turned our lives upside down. So many things were brought to 
+light for me when this started Monday night. I ' m trying to take my time and 
+figure out what I truly feel and truly want to say about everything without 
+being reactionary in the moment, because it ' s been a roller coaster of 
+emotions. I ' ve written and deleted and re-written and deleted this message 
+about a dozen times. For over 5 years I have dedicated and devoted my entire 
+life to trying to save our country. What happened to my mom this week 
+highlighted the insanity of the problems that exist within the structures of 
+the conservative movement and how the conservative movement treats its very 
+best workers and activists. Perhaps it ' s better that I go live with all of 
+you later today or tomorrow to talk about all of this and explain how I ' m 
+feeling. 
+
+Lemmas in this text that loaded on the factor:
+
+country_nn (secondary)
+first_jj 
+many_jj 
+today_nn 
+want_vbp 

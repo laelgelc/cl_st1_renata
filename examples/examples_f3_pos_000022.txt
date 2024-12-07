@@ -1,0 +1,22 @@
+file = t032191
+date = 2023-06-16
+user = NewsMax
+conversation = 107764331655353184
+URL = https://truthsocial.com/@NewsMax/110555328430149704
+
+word count = 42
+words loading = 5
+factor score = 5
+
+Former President Donald Trump remains at the top of a New Hampshire poll taken 
+after his indictment on federal charges, leading Florida Gov. Ron DeSantis, his 
+top competitor in the race for the 2024 GOP presidential nomination, by 34 
+percentage points. 
+
+Lemmas in this text that loaded on the factor:
+
+former_jj 
+nomination_nn 
+poll_nn 
+presidential_jj 
+race_nn 

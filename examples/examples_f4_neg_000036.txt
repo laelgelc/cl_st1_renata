@@ -1,0 +1,23 @@
+file = t036651
+date = 2022-12-29
+user = RepMTG
+conversation = 107825831647341200
+URL = https://truthsocial.com/@RepMTG/109597730615039274
+
+word count = 77
+words loading = 4
+factor score = -4
+
+I have a vision of a Republican Party that truly serves the American people and 
+our many great House GOP conference all suffered together so much in the past 
+two years and many House Republicans have changed and moved to the right, but 
+the base doesn ' t know is an example:The Senate Republicans are another story 
+& the 18 Senators that voted for the Democrats $1 . 7 trillion omnimonster are 
+the Uniparty, 36 % of Republican Senators. 
+
+Lemmas in this text that loaded on the factor:
+
+great_jj 
+know_vbp 
+many_jj 
+people_nns 

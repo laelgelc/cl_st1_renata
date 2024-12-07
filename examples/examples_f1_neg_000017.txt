@@ -1,0 +1,21 @@
+file = t038783
+date = 2023-12-15
+user = ThePatriotVoice
+conversation = 107834263369962160
+URL = https://truthsocial.com/@ThePatriotVoice/111586693896724733
+
+word count = 42
+words loading = 4
+factor score = -4
+
+BREAKING! **police_car_light_e** A jury awards Georgia election workers $148 
+million in a defamation case over lies that @MayorRudyGiuliani spread about 
+them - APRudy MUST appeal this ABSURD ruling. They are trying to BURY 
+conservatives going into 2024 , that much is MUST FIGHT BACK! ! ! 
+
+Lemmas in this text that loaded on the factor:
+
+breaking_nn 
+case_nn 
+conservative_nns 
+police_car_light_e 

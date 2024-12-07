@@ -1,0 +1,18 @@
+file = t045737
+date = 2023-07-30
+user = gatewaypundit
+conversation = 107834752222880416
+URL = https://truthsocial.com/@gatewaypundit/110803889004080841
+
+word count = 12
+words loading = 4
+factor score = 4
+
+Children ' s Book Pushes 6-12 Year-Old Kids to Believe Euthanizing People Is OK 
+
+Lemmas in this text that loaded on the factor:
+
+child_nns 
+kid_nns 
+old_jj 
+year 

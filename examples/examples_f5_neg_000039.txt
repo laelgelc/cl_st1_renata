@@ -1,0 +1,19 @@
+file = t000506
+date = 2024-05-16
+user = Charliekirk
+conversation = 107804978292323344
+URL = https://truthsocial.com/@Charliekirk/112448546637132416
+
+word count = 53
+words loading = 1
+factor score = -1
+
+Thank you, President Trump. I ' m incredibly honored by your support of Turning 
+Point and our Chase the Vote project. Our team is hiring HUNDREDS of ballot 
+chasers as we speak! Help save the country by driving low propensity, 
+conservative voters out to the polls in Arizona, Wisconsin, or Michigan. Apply 
+here backhand_index_pointing_down_e 
+
+Lemmas in this text that loaded on the factor:
+
+poll_nns 

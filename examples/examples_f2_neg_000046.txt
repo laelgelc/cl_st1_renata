@@ -1,0 +1,19 @@
+file = t043299
+date = 2023-02-24
+user = epochtimes
+conversation = 107814273983601296
+URL = https://truthsocial.com/@epochtimes/109921159183913811
+
+word count = 32
+words loading = 3
+factor score = -3
+
+As corporations increasingly take up progressive political causes, some 
+conservative entrepreneurs see a business companies like Black Rifle Coffee and 
+Patriot Mobile, Meckler said half the country is a potential market. 
+
+Lemmas in this text that loaded on the factor:
+
+conservative_jj 
+country_nn 
+political_jj 

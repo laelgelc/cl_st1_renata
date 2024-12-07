@@ -1,0 +1,20 @@
+file = t042571
+date = 2023-07-22
+user = epochtimes
+conversation = 107814273983601296
+URL = https://truthsocial.com/@epochtimes/110755365708673001
+
+word count = 37
+words loading = 4
+factor score = 4
+
+GOP underdog candidates are seeking to derail @realDonaldTrump ' s 2024 
+Republican presidential drive see #utah_h as a weak link in his path to the. 
+Ron DeSantis made 2 campaign appearances in the Salt Lake City area. 
+
+Lemmas in this text that loaded on the factor:
+
+campaign_nn 
+candidate_nns 
+presidential_jj 
+republican_jj 

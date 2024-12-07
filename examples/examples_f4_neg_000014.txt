@@ -1,0 +1,24 @@
+file = t036607
+date = 2023-04-26
+user = RepMTG
+conversation = 107825831647341200
+URL = https://truthsocial.com/@RepMTG/110265935963561475
+
+word count = 73
+words loading = 5
+factor score = -5
+
+The First Amendment is unholy union of government and big tech created 
+censorship which destroyed free News firing Tucker Carlson and editors not 
+allowing negative democrat news stories because it would reveal the truth means 
+there is no longer a free day people will say, why didn ' t anyone say anything 
+or try to stop it? Sadly, they won ' t know how many tried, but they will know 
+how many didn ' t. 
+
+Lemmas in this text that loaded on the factor:
+
+government_nn 
+know_vbp 
+many_jj 
+people_nns 
+stop_vb 

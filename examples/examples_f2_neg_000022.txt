@@ -1,0 +1,18 @@
+file = t025962
+date = 2023-05-14
+user = JennaEllisEsq
+conversation = 107810042577943552
+URL = https://truthsocial.com/@JennaEllisEsq/110369100028450449
+
+word count = 25
+words loading = 3
+factor score = -3
+
+Meanwhile, Joe Biden parades around the country saying he ' s waiting on 
+Republicans to do their job. They think you ' re not paying attention. 
+
+Lemmas in this text that loaded on the factor:
+
+country_nn 
+republican_nns 
+think_vbp 

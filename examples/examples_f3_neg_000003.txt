@@ -1,0 +1,19 @@
+file = t000005
+date = 2024-03-23
+user = AlexJones
+conversation = 107838014712814240
+URL = https://truthsocial.com/@AlexJones/112146565130776350
+
+word count = 29
+words loading = 2
+factor score = -2
+
+Live Saturday Emergency Broadcast: Alex Jones & Vladimir Soloviev Reveal 
+Secrets of The Moscow Terror Attacks » » TUNE IN! » » Get a signed copy of 
+' The Great Awakening ' hourglass_not_done_e ( LIMITED AMOUNT ) : 
+#supportinfowars_h 
+
+Lemmas in this text that loaded on the factor:
+
+copy_nn 
+sign_vbn 

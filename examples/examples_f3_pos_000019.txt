@@ -1,0 +1,23 @@
+file = t032389
+date = 2023-03-17
+user = NewsMax
+conversation = 107764331655353184
+URL = https://truthsocial.com/@NewsMax/110040076346341706
+
+word count = 43
+words loading = 6
+factor score = 5
+
+Forty-seven percent of Florida ' s Republican voters say they would cast their 
+ballot for former President Donald Trump in a hypothetical GOP presidential 
+primary, while 44 % say they would vote for the state ' s Gov. Ron DeSantis, 
+according to a new Emerson College: / / 
+
+Lemmas in this text that loaded on the factor:
+
+accord_vbg (secondary)
+former_jj 
+presidential_jj 
+primary_nn 
+republican_jj 
+voter_nns 

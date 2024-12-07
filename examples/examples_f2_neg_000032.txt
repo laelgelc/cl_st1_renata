@@ -1,0 +1,24 @@
+file = t036704
+date = 2022-06-25
+user = RepMTG
+conversation = 107825831647341200
+URL = https://truthsocial.com/@RepMTG/108539381574092543
+
+word count = 83
+words loading = 4
+factor score = -3
+
+Passing red flag laws was not a solution by Democrats to stop mass shootings, 
+it will be a tool to disarm any gun owner that wants to stop abortion, the 
+trans agenda on kids, mass illegal migration, & big government oppression 
+suffocating our families, faith, & ican Senators failed their voters and helped 
+Democrats create a very dangerous bill making it now possible to red flag 
+Americans when their political enemies feel a gun owner is a threat to 
+themselves or others. 1 / 5 
+
+Lemmas in this text that loaded on the factor:
+
+big_jj 
+bill_nn 
+government_nn (secondary)
+political_jj 

@@ -1,0 +1,21 @@
+file = t055651
+date = 2022-06-16
+user = repandybiggsaz
+conversation = 107821173267154704
+URL = https://truthsocial.com/@repandybiggsaz/108488742862875425
+
+word count = 44
+words loading = 4
+factor score = 4
+
+Democrats are exploiting children to advance their radical agenda. They 
+recently brought an 11-year-old Uvalde survivor to the House Oversight 
+Committee. It ' s shameful to make a child relive that trauma and use her as a 
+political pawn. Rep. Thomas Massie and I discuss. 
+
+Lemmas in this text that loaded on the factor:
+
+child_nn 
+child_nns 
+old_jj 
+year 

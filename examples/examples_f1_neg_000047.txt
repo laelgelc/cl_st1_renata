@@ -1,0 +1,18 @@
+file = t004939
+date = 2023-09-11
+user = ConservativeBrief
+conversation = 107846872260084416
+URL = https://truthsocial.com/@ConservativeBrief/111048372398294181
+
+word count = 14
+words loading = 3
+factor score = -3
+
+MSNBC Host Loses Show - Gets Brutal News Immediately AfterBrutal news for the 
+far-left MSNBC: / / 
+
+Lemmas in this text that loaded on the factor:
+
+far 
+left_jj 
+news_nn 

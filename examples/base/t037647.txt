@@ -1,0 +1,16 @@
+red_circle_e red_circle_e
+New new_NP
+Poll poll_NP
+Reveals reveals_NP
+How how_WRB
+Americans americans_NPS
+Feel feel_NP
+About about_IN
+Trump trump_NP
+' '
+s s_JJ
+Indictment indictment_NN
+in in_IN
+Stormy stormy_NP
+Daniels daniels_NP
+Case case_NP

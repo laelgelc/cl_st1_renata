@@ -1,0 +1,20 @@
+file = t042539
+date = 2023-07-27
+user = epochtimes
+conversation = 107814273983601296
+URL = https://truthsocial.com/@epochtimes/110783329766487423
+
+word count = 37
+words loading = 4
+factor score = 4
+
+Sen. Mitt Romney suggested that certain 2024 GOP candidates should drop out of 
+the race because it would foment what he described as a Trump plurality that 
+would essentially hand former President @realDonaldTrump the GOP nomination. 
+
+Lemmas in this text that loaded on the factor:
+
+candidate_nns 
+former_jj 
+nomination_nn 
+race_nn 

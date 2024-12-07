@@ -1,0 +1,21 @@
+file = t000021
+date = 2024-02-15
+user = AlexJones
+conversation = 107838014712814240
+URL = https://truthsocial.com/@AlexJones/111937271438113716
+
+word count = 36
+words loading = 2
+factor score = -2
+
+Exclusive: Secrets of Russia Space-Based Nuclear Lasers ExposedAre the 
+Globalists Planning a Nuclear Laser / EMP False Flag To Escalate a War With 
+Russia » » » #supportinfowars_h: Get a signed copy of ' The Great Awakening 
+' while you still can! 
+╰☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆�
+�☆☆☆☆☆╮ 
+
+Lemmas in this text that loaded on the factor:
+
+copy_nn 
+sign_vbn 

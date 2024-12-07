@@ -1,0 +1,23 @@
+file = t010331
+date = 2023-08-29
+user = DCTheMan
+conversation = 109678637844306528
+URL = https://truthsocial.com/@DCTheMan/110970335730052692
+
+word count = 74
+words loading = 4
+factor score = -4
+
+You know, I think another reason liberals hate conservatives so much is not 
+only because they continue to fall for Democrats lies and end up with their 
+jizz dripping outta their backsides. . . . . But because many of us work with 
+our hands, our work touches people in one way or another to improve people ' s 
+lives. I LOVE CREATING BEAUTY, not only for my own home, but for my clients who 
+also enjoy beauty. heart_suit_e 
+
+Lemmas in this text that loaded on the factor:
+
+know_vbp 
+many_jj 
+people_nns 
+way_nn 

@@ -1,0 +1,29 @@
+file = t053518
+date = 2024-04-02
+user = realDonaldTrump
+conversation = 107780257626128496
+URL = https://truthsocial.com/@realDonaldTrump/112199420425708030
+
+word count = 176
+words loading = 2
+factor score = 2
+
+I ' ve just posted a 175 Million Dollar Bond with the sadly failing and very 
+troubled State of New York, based on a Corrupt Judge and Attorney General who 
+used a Statute that was never used for this before, where no Jury was allowed, 
+my financial statements were conservative and had a 100 % perfect caution / 
+non-reliance clause, there were no victims ( except me! ) , there was no crime 
+or damage, there was only success and HAPPY BANKS. The case was a fabricated 
+ELECTION INTERFERENCE con job, so bad for New York, where businesses are 
+fleeing & violent crime is flourishing. The Crooked Judge, to suit his 
+narrative, valued Mar-a-Lago, in Palm Beach, Florida, at $18 , 000 , 000 , when 
+it is worth 50 to 100 times that amount. He ruled I was guilty before he ever 
+saw the case. He should be disbarred, and Letitia James, who campaigned on 
+getting TRUMP, Impeached. Also posted a 91 Million Dollar Bond on another New 
+York Fake Case, money I can ' t use on my campaign. Just what Crooked Joe 
+wanted. WITCH HUNT! 
+
+Lemmas in this text that loaded on the factor:
+
+hunt_nn 
+witch_nn 

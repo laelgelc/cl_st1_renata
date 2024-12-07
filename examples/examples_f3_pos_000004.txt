@@ -1,0 +1,25 @@
+file = t032454
+date = 2023-02-18
+user = NewsMax
+conversation = 107764331655353184
+URL = https://truthsocial.com/@NewsMax/109887386909427730
+
+word count = 51
+words loading = 7
+factor score = 6
+
+POLL: Former President Donald Trump has a 13-point lead over Florida Gov. Ron 
+DeSantis in a hypothetical 2024 GOP primary, a new Rasmussen Reports poll 
+finds. former president leads DeSantis with 45 % of likely Republican voters 
+supporting Trump to 32 % supporting the r 14 % said they would support a 
+different candidate. 
+
+Lemmas in this text that loaded on the factor:
+
+candidate_nn (secondary)
+former_jj 
+poll_nn 
+president_nn 
+primary_nn 
+republican_jj 
+voter_nns 

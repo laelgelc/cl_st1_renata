@@ -1,0 +1,23 @@
+file = t034623
+date = 2023-03-24
+user = Qanon76
+conversation = 107834998234793712
+URL = https://truthsocial.com/@Qanon76/110079374457738154
+
+word count = 71
+words loading = 4
+factor score = 4
+
+Kevin McCarthy: Today was a win for every mother, every father, but most 
+importantly, for every student in America. You have a Parents Bill of Rights 
+now. Today the GOP has passed the Parents Bill of Rights. Parents will have the 
+right to:1 . Know what their children are being taught. 2 . Be heard. 3 . See 
+the school budget and spending. 4 . Protect their child ' s privacy. 5 . Keep 
+their children safe. 
+
+Lemmas in this text that loaded on the factor:
+
+child_nn 
+child_nns 
+parent_nns 
+school_nn 

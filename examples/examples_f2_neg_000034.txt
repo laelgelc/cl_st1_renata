@@ -1,0 +1,25 @@
+file = t038160
+date = 2023-09-29
+user = RobbyStarbuck
+conversation = 107816202511505472
+URL = https://truthsocial.com/@RobbyStarbuck/111145790527598905
+
+word count = 112
+words loading = 3
+factor score = -3
+
+HUGE NEWS: The Tennessee law to BAN sex change surgeries, hormones and puberty 
+blockers for kids was just UPHELD by the 6th Circuit! The ACLU, their lawyers 
+and the trans industrial complex don ' t get to mutilate kids in Tennessee — 
+Not on our watch! @landonstarbuck, @mattwalsh and I fought so hard for this law 
+to become a reality. Big thanks to State Representative William Lamberth and 
+Senator Jack Johnson who introduced the bill, Chloe Cole for testifying in 
+favor of it, the TN GOP house legislators who voted to pass it, Gov. Bill Lee 
+for signing it into law and Attorney General Skrmetti for fighting for it! 
+MASSIVE WIN for Tennessee! 
+
+Lemmas in this text that loaded on the factor:
+
+big_jj 
+bill_nn 
+law_nn 

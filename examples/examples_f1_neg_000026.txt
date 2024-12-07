@@ -1,0 +1,21 @@
+file = t000104
+date = 2023-10-30
+user = AlexJones
+conversation = 107838014712814240
+URL = https://truthsocial.com/@AlexJones/111324915626755125
+
+word count = 40
+words loading = 3
+factor score = -3
+
+**police_car_light_e** **police_car_light_e** **police_car_light_e** 
+#alexjonesshow_h Emergency Broadcast: Globalists Rush to Launch WW3 & Martial 
+Law Ahead of Mass Awakening That mRNA COVID Jabs Attack Immune System, Cause 
+Blood Clots TUNE IN UNCENSORED: closed_book_e writing_hand_e Get a signed copy 
+of ' The Great Awakening ' & help support free speech! 
+
+Lemmas in this text that loaded on the factor:
+
+free_jj 
+police_car_light_e 
+speech_nn 

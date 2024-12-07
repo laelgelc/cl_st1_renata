@@ -1,0 +1,23 @@
+file = t052838
+date = 2022-07-07
+user = maxjett12
+conversation = 108319249994754560
+URL = https://truthsocial.com/@maxjett12/108606866564148210
+
+word count = 69
+words loading = 4
+factor score = 4
+
+Uvalde mayor slams state law enforcement for cover-up in school shooting 
+investigationIt ' s been since May 24 that a deranged shooter took the lives of 
+nineteen children and two adults in a mass shooting at Robb Elementary School 
+in Uvalde, Texas. An investigation is still underway and the public long ago 
+lost patience with state officials dragging their feet in releasing 
+information. The eighteen-year-old shooter was killed at the scene. 
+
+Lemmas in this text that loaded on the factor:
+
+child_nns 
+old_jj 
+school_nn 
+year 

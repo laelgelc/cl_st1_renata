@@ -1,0 +1,15 @@
+file = t056641
+date = 2022-03-11
+user = truthsocial
+conversation = 107759501782461328
+URL = https://truthsocial.com/@truthsocial/107938531568526386
+
+word count = 15
+words loading = 0
+factor score = 
+
+User engagement on #truth_h is off the charts…and we ' re just getting 
+started! #realpeoplerealengagement_h #truthsocial_h 
+
+Lemmas in this text that loaded on the factor:
+

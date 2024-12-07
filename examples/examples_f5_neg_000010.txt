@@ -1,0 +1,17 @@
+file = t029101
+date = 2022-06-02
+user = JennaEllisEsq
+conversation = 107810042577943552
+URL = https://truthsocial.com/@JennaEllisEsq/108408565860475247
+
+word count = 15
+words loading = 2
+factor score = -2
+
+Massive election shakeup in Michigan. What do you think this means for the 
+midterms? 
+
+Lemmas in this text that loaded on the factor:
+
+massive_jj 
+midterm_nns 

@@ -1,0 +1,22 @@
+file = t000073
+date = 2023-11-29
+user = AlexJones
+conversation = 107838014712814240
+URL = https://truthsocial.com/@AlexJones/111494950727654729
+
+word count = 42
+words loading = 2
+factor score = -1
+
+loudspeaker_e #alexjonesshow_h Wednesday LIVE: Whistleblower Exposes Government 
+' s Alliance With Private Sector to Rig Elections & Persecute the American 
+People! TUNE IN: 𝘾𝙔𝘽𝙀𝙍 𝙒𝙀𝙀𝙆 𝙉𝙊𝙒 
+𝘼𝘾𝙏𝙄𝙑𝙀 ! ! #supportinfowars_h » 𝘚𝘏𝘖𝘗 : » PLAY ' 
+NWO WARS ' play_button_e » 𝘈𝘭𝘦𝘹 𝘑𝘰𝘯𝘦𝘴 
+𝘋𝘦𝘧𝘦𝘯𝘴𝘦 𝘍𝘶𝘯𝘥 : » Get a signed copy of ' The 
+Great Awakening ' 
+
+Lemmas in this text that loaded on the factor:
+
+copy_nn (secondary)
+election_nns 

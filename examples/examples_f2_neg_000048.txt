@@ -1,0 +1,20 @@
+file = t043487
+date = 2023-01-09
+user = epochtimes
+conversation = 107814273983601296
+URL = https://truthsocial.com/@epochtimes/109659925330910930
+
+word count = 43
+words loading = 3
+factor score = -3
+
+As part of Speaker Kevin McCarthy ' s tough negotiations with 20 holdout 
+Republicans, 7 conservative bills are now guaranteed to be put to a vote, 
+including 1 that would cut additional #irs_h funding, 2 related to #abortion_h, 
+and a tough-on-crime bill, among others. 
+
+Lemmas in this text that loaded on the factor:
+
+bill_nn 
+conservative_jj 
+republican_nns 

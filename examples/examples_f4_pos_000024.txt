@@ -1,0 +1,18 @@
+file = t037910
+date = 2022-09-16
+user = ResisttheMainstream
+conversation = 107838850131880704
+URL = https://truthsocial.com/@ResisttheMainstream/109005334616005262
+
+word count = 18
+words loading = 2
+factor score = 2
+
+**red_circle_e** GOP Leader Issues Warning to Trump Supporters Weeks After 
+Unprecedented Mar-a-Lago Raid𝘐𝘯 𝘤𝘢𝘴𝘦 𝘺𝘰𝘶 
+𝘮𝘪𝘴𝘴𝘦𝘥 𝘪𝘵 𝘰𝘯 𝘚𝘶𝘯𝘥𝘢𝘺 . 
+
+Lemmas in this text that loaded on the factor:
+
+issues_nps 
+red_circle_e 

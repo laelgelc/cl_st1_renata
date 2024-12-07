@@ -1,0 +1,42 @@
+file = t049564
+date = 2022-10-30
+user = jncojok
+conversation = 107839448160284576
+URL = https://truthsocial.com/@jncojok/109254516570699734
+
+word count = 35
+words loading = 11
+factor score = 9
+
+#realnews_h rolling_on_the_floor_laughing_e rolling_on_the_floor_laughing_e 
+rolling_on_the_floor_laughing_e **red_heart_e** **white_heart_e** 
+**blue_heart_e** **#truth_h** **red_heart_e** **white_heart_e** 
+**blue_heart_e** Somebody give that guy screaming at #obama_h making him 
+stutter. FREAKIN METAL OF HONOR fire_e fire_e fire_e 
+rolling_on_the_floor_laughing_e rolling_on_the_floor_laughing_e 
+rolling_on_the_floor_laughing_e rolling_on_the_floor_laughing_e 
+rolling_on_the_floor_laughing_e rolling_on_the_floor_laughing_e 
+**flag_united_states_e** **flag_united_states_e** **flag_united_states_e** 
+**flag_united_states_e** **flag_united_states_e** **flag_united_states_e** 
+**flag_united_states_e** **flag_united_states_e** **flag_united_states_e** 
+**flag_united_states_e** **flag_united_states_e** **flag_united_states_e** 
+**flag_united_states_e** **flag_united_states_e** **flag_united_states_e** 
+**flag_united_states_e** **flag_united_states_e** **flag_united_states_e** 
+**flag_united_states_e** **#wethepeople_h** **#warroomposse_h** 
+#gatewaypundit_h **#ultramaga_h** **#darkmaga_h** **#americafirst_h** #maga_h 
+#maga_h No more #fakeadmin_h douche canoes allowed **#patriots_h** approved 
+message #michigan_h 
+
+Lemmas in this text that loaded on the factor:
+
+americafirst_h 
+blue_heart_e 
+darkmaga_h 
+flag_united_states_e 
+patriots_h 
+red_heart_e 
+truth_h (secondary)
+ultramaga_h 
+warroomposse_h 
+wethepeople_h (secondary)
+white_heart_e 

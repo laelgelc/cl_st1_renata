@@ -1,0 +1,17 @@
+file = t037975
+date = 2022-08-09
+user = ResisttheMainstream
+conversation = 107838850131880704
+URL = https://truthsocial.com/@ResisttheMainstream/108790130301262507
+
+word count = 17
+words loading = 2
+factor score = 2
+
+**red_circle_e** GOP Issues Warning as Democrat ' Inflation Reduction Act ' 
+Includes Hiring of 87 , 000 New IRS Agents 
+
+Lemmas in this text that loaded on the factor:
+
+issues_nps 
+red_circle_e 

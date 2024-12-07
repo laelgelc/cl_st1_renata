@@ -1,0 +1,17 @@
+file = t056597
+date = 2022-09-13
+user = tednugent
+conversation = 107834528142172976
+URL = https://truthsocial.com/@tednugent/108988761987720468
+
+word count = 35
+words loading = 0
+factor score = 
+
+Raised a shitload of money for the great Friends of Vets Military Charity 
+Saturday night at Bare-Bones barbecue in Gatesville Texas surrounded by the 
+best loving giving caring Americans! Godbless the Gonzo MAGA American families! 
+￼ 
+
+Lemmas in this text that loaded on the factor:
+

@@ -1,0 +1,21 @@
+file = t044243
+date = 2022-08-11
+user = epochtimes
+conversation = 107814273983601296
+URL = https://truthsocial.com/@epochtimes/108801962542200574
+
+word count = 38
+words loading = 4
+factor score = 4
+
+Former President Trump ' s influence over GOP swing state voters was tested 
+again on Aug. 9 in the #wisconsin_h gubernatorial contest served as another 
+clash of candidates endorsed by Trump and his former vice president, Mike 
+Pence. 
+
+Lemmas in this text that loaded on the factor:
+
+candidate_nns 
+former_jj 
+president_nn 
+voter_nns 

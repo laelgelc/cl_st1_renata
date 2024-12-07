@@ -1,0 +1,24 @@
+file = t038195
+date = 2022-08-15
+user = RobbyStarbuck
+conversation = 107816202511505472
+URL = https://truthsocial.com/@RobbyStarbuck/108828225501062419
+
+word count = 93
+words loading = 4
+factor score = 4
+
+WPATH sets standards internationally for child sex transitions and now they ' 
+re set to recommend even younger children get sterilized for life, have their 
+breasts cut off, have their testicles cut off and / or be put on dangerous 
+drugs to stop their natural development as young as 8 YEARS OLD! Nations fall 
+when good men and women say and do nothing. You can ' t stand by in silence 
+because you ' re afraid of ruffling feathers. This is the issue you NEED to 
+speak up on. We can ' t afford to be silent! 
+
+Lemmas in this text that loaded on the factor:
+
+child_nn 
+child_nns 
+old_jj 
+sex_nn 

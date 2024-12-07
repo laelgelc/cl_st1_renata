@@ -1,0 +1,22 @@
+file = t000004
+date = 2024-03-26
+user = AlexJones
+conversation = 107838014712814240
+URL = https://truthsocial.com/@AlexJones/112162855429253377
+
+word count = 39
+words loading = 2
+factor score = -2
+
+Tuesday LIVE: Vital US Port Brought to Standstill After Baltimore Bridge 
+Collapse — Tune In For Possible Black Swan Event! MUST-WATCHposted 22 minutes 
+ago backhand_index_pointing_down_e WATCH THE BROADCAST NOW 
+backhand_index_pointing_down_e closed_book_e writing_hand_e Get a signed copy 
+of ' The Great Awakening ' & help support Infowars! - #alexjonesshow_h - 
+backhand_index_pointing_down_e backhand_index_pointing_down_e 
+backhand_index_pointing_down_e 
+
+Lemmas in this text that loaded on the factor:
+
+copy_nn 
+sign_vbn 

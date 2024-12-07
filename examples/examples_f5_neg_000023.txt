@@ -1,0 +1,22 @@
+file = t053878
+date = 2023-08-04
+user = realDonaldTrump
+conversation = 107780257626128496
+URL = https://truthsocial.com/@realDonaldTrump/110831337231923264
+
+word count = 85
+words loading = 2
+factor score = -2
+
+CRAZY! My political opponent has hit me with a barrage of weak lawsuits, 
+including D. A. , A. G. , and others, which require massive amounts of my time 
+& money to adjudicate. Resources that would have gone into Ads and Rallies, 
+will now have to be spent fighting these Radical Left Thugs in numerous courts 
+throughout the Country. I am leading in all Polls, including against Crooked 
+Joe, but this is not a level playing field. It is Election Interference, & the 
+Supreme Court must intercede. MAGA! 
+
+Lemmas in this text that loaded on the factor:
+
+massive_jj 
+poll_nns 

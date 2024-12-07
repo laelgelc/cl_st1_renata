@@ -1,0 +1,24 @@
+file = t011522
+date = 2023-02-05
+user = DCTheMan
+conversation = 109678637844306528
+URL = https://truthsocial.com/@DCTheMan/109814213924926624
+
+word count = 92
+words loading = 4
+factor score = -4
+
+First of all, you need to prove the second part of that. Second of all, we ' re 
+not the ones accusing him of it, Ashley ' s diary is. Not to mention there ' s 
+many pictures out there of Hunter doing inappropriate and disgusting things 
+with children and Biden sniffing little girls hair and having his hand around 
+their chest and getting way too close to them. But you ' re going to believe 
+the same FBI who wanted to censor anyone who spoke out against the 
+dictatorship? Seems logical, for an idiot. 
+
+Lemmas in this text that loaded on the factor:
+
+first_jj 
+many_jj 
+need_vbp 
+way_nn 

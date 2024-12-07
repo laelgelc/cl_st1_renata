@@ -1,0 +1,20 @@
+file = t016822
+date = 2023-05-03
+user = DineshDSouza
+conversation = 107810096875431984
+URL = https://truthsocial.com/@DineshDSouza/110306782426901931
+
+word count = 37
+words loading = 4
+factor score = -4
+
+Today: How the Biden regime is hiding the ball in a big free speech case 
+involving government collusion with digital censorship. What his text really 
+reveals about Tucker. Drink to the woes of Bud Light. Watch! 
+
+Lemmas in this text that loaded on the factor:
+
+case_nn 
+free_jj 
+speech_nn 
+watch_nn 

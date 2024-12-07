@@ -1,0 +1,20 @@
+file = t000020
+date = 2024-02-16
+user = AlexJones
+conversation = 107838014712814240
+URL = https://truthsocial.com/@AlexJones/111942284274393342
+
+word count = 48
+words loading = 2
+factor score = -2
+
+#alexjonesshow_h Friday LIVE: Biden Addresses Nation on Death of Kremlin Critic 
+Navalny, NWO Falls Apart as Corruption Now Impossible to Hide, World Demands 
+Answers on Monkey-Human Hybrids & MORE! — TUNE IN: » » » Play #nwowars_h 
+ON STEAM & support Infowars! ! » » » Get a signed copy of ' The Great 
+Awakening ' while you still can: 
+
+Lemmas in this text that loaded on the factor:
+
+copy_nn 
+sign_vbn 

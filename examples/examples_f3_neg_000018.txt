@@ -1,0 +1,18 @@
+file = t000026
+date = 2024-02-07
+user = AlexJones
+conversation = 107838014712814240
+URL = https://truthsocial.com/@AlexJones/111891312939093204
+
+word count = 29
+words loading = 2
+factor score = -2
+
+EMERGENCY BROADCAST: World Braces for Release of Tucker Carlson Interview as 
+Deep State Accelerates War on Press TUNE IN - #alexjonesshow_h sparkles_e Get a 
+signed copy of ' The Great Awakening ' 
+
+Lemmas in this text that loaded on the factor:
+
+copy_nn 
+sign_vbn 

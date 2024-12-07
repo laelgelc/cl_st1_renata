@@ -1,0 +1,21 @@
+file = t043218
+date = 2023-03-14
+user = epochtimes
+conversation = 107814273983601296
+URL = https://truthsocial.com/@epochtimes/110023217439642428
+
+word count = 35
+words loading = 4
+factor score = 4
+
+While Gov. Ron DeSantis has not yet announced whether he will seek the 
+Republican presidential nomination next year, appearances across the US, 
+including in Alabama last week, have drummed up excitement among Republican 
+voters. 
+
+Lemmas in this text that loaded on the factor:
+
+nomination_nn 
+presidential_jj 
+republican_jj 
+voter_nns 

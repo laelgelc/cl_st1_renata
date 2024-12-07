@@ -1,0 +1,20 @@
+file = t036899
+date = 2024-01-22
+user = RepTiffany
+conversation = 109192219787677920
+URL = https://truthsocial.com/@RepTiffany/111801054656511536
+
+word count = 29
+words loading = 4
+factor score = 4
+
+Every child deserves access to a quality education regardless of their zip 
+code. School choice gives parents the freedom to choose what is best for their 
+kids. #schoolchoiceweek_h 
+
+Lemmas in this text that loaded on the factor:
+
+child_nn 
+kid_nns 
+parent_nns 
+school_nn 

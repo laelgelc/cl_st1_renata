@@ -1,0 +1,27 @@
+file = t049992
+date = 2022-05-28
+user = jncojok
+conversation = 107839448160284576
+URL = https://truthsocial.com/@jncojok/108379966908439405
+
+word count = 22
+words loading = 10
+factor score = 8
+
+**#ultramaga_h** #maga_h **#darkmaga_h** **#magaa_h** **#americafirst_h** 
+**#wethepeople_h** **#america_h** #constitution_h #like_h **#share_h** 
+#repostplease_h **#retruth_h** #patriotsfurtruth_h **#patriots_h** #ifbap_h 
+#wefollowback_h #follow4follow_h @jncojok @jncojok1 #truthsocial_h **#truth_h** 
+
+Lemmas in this text that loaded on the factor:
+
+america_h 
+americafirst_h 
+darkmaga_h 
+magaa_h 
+patriots_h 
+retruth_h 
+share_h 
+truth_h (secondary)
+ultramaga_h 
+wethepeople_h (secondary)

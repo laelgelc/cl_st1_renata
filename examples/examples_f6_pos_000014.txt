@@ -1,0 +1,17 @@
+file = t056629
+date = 2023-11-24
+user = therealkidrock
+conversation = 108379772378225680
+URL = https://truthsocial.com/@therealkidrock/111466603811150898
+
+word count = 47
+words loading = 0
+factor score = 
+
+Black Friday is here! You could go to Target and get a great deal on a women ' 
+s swimsuit with a penis pouch face_with_tears_of_joy_e see-no-evil_monkey_e … 
+. . or you could buy tickets to the most patriotic music gatherings in the 
+world! Hope everyone had a terrific Thanksgiving, God Bless. -Kid Rock 
+
+Lemmas in this text that loaded on the factor:
+

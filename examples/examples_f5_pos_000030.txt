@@ -1,0 +1,21 @@
+file = t042420
+date = 2023-08-23
+user = epochtimes
+conversation = 107814273983601296
+URL = https://truthsocial.com/@epochtimes/110940290818803133
+
+word count = 42
+words loading = 4
+factor score = 4
+
+ Parents are in charge of their children ' s lives, Youngkin ia Gov. Glenn 
+Youngkin has put defiant school districts on notice, ordering them comply with 
+a new transgender policy framework that includes requiring students to use 
+bathrooms matching their birth sex. 
+
+Lemmas in this text that loaded on the factor:
+
+child_nns 
+parent_nns 
+school_nn 
+sex_nn 

@@ -1,0 +1,30 @@
+file = t034260
+date = 2023-11-05
+user = Qanon76
+conversation = 107834998234793712
+URL = https://truthsocial.com/@Qanon76/111356909545156058
+
+word count = 165
+words loading = 4
+factor score = -4
+
+New J6 Footage Shows Ray Epps Whispering To ' Baked Alaska ' : We ' re Here To 
+Storm The Capitol In the first of a two-part series, Truth in Media host Lara 
+Logan spoke with Anthime Gionet, also known as Baked Alaska, a right-wing 
+influencer formerly associated with the alt right. Video footage from January 5 
+, 2021 and earlier indicate that Epps appeared to be particularly interested in 
+Gionet, who was later sentenced to two months in prison for his participation 
+in the riot at the US ( Baked Alaska ) was one of several people who filmed 
+Epps on the evening of January 5 , 2021 outside BLM Plaza as he told Trump 
+supporters we need to go into the Capitol! At first, Gionet said he was amused 
+by Epps ' exhortation to breach the Capitol, and yelled ' let ' s go! ' in 
+response, but after he saw him repeat the line several times to different 
+groups that night, he became convinced the boomer was an FBI plant and was up 
+to no: / / 
+
+Lemmas in this text that loaded on the factor:
+
+first_jj 
+need_vbp 
+people_nns 
+say_vbd 

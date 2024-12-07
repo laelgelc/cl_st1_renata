@@ -1,0 +1,17 @@
+file = t037774
+date = 2022-12-27
+user = ResisttheMainstream
+conversation = 107838850131880704
+URL = https://truthsocial.com/@ResisttheMainstream/109588080240538869
+
+word count = 19
+words loading = 2
+factor score = 2
+
+**red_circle_e** Supreme Court Issues Order on Title 42 Border Rule After 19 
+GOP State AG ' s Seek to Intervene 
+
+Lemmas in this text that loaded on the factor:
+
+issues_nps 
+red_circle_e 

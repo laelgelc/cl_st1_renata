@@ -1,0 +1,28 @@
+file = t036483
+date = 2024-06-12
+user = RepMTG
+conversation = 107825831647341200
+URL = https://truthsocial.com/@RepMTG/112605765108426997
+
+word count = 133
+words loading = 4
+factor score = -3
+
+Attorney General Merrick Garland believes he ' s above the law and doesn ' t 
+have to comply with legally issued Congressional, the House held Merrick 
+Garland in contempt of d has completely weaponized the Department of Justice 
+against the American people and created two tiers of justice. One for himself, 
+Joe Biden, and the Democrats, and another for President Trump and conservative 
+and Antifa thugs caused billions in damage all across our country as they 
+burned our cities in 2020 . AG Garland has refused to go after these ile, he 
+has destroyed the lives of innocent patriotic Americans who protested the 
+fraudulent 2020 presidential must end the two-tiered system of justice in Joe 
+Biden ' s Department of Justice now pursue charges against AG Garland just like 
+they did against Peter Navarro and Steve Bannon? ? 
+
+Lemmas in this text that loaded on the factor:
+
+conservative_jj 
+country_nn 
+law_nn 
+presidential_jj (secondary)

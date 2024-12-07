@@ -1,0 +1,20 @@
+file = t000616
+date = 2023-12-11
+user = Charliekirk
+conversation = 107804978292323344
+URL = https://truthsocial.com/@Charliekirk/111563303618467876
+
+word count = 43
+words loading = 3
+factor score = -3
+
+NEW Ask Me Anything **police_car_light_e** -What matters more — preserving 
+free speech, or cracking down on left-wing whackjobs on campus? -Does Trump ' s 
+planned picks for 2025 prove that his second term would be more effective than 
+his first? -Should Taylor Swift have been Person of the Year? 
+
+Lemmas in this text that loaded on the factor:
+
+free_jj 
+police_car_light_e 
+speech_nn 

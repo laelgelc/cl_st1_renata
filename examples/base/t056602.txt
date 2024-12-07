@@ -1,0 +1,15 @@
+Go go_VBP
+ahead ahead_RB
+celebrate celebrate_VB
+truth truth_NN
+logic logic_NN
+commonsense commonsense_NN
+American american_JJ
+shitkicker shitkicker_NN
+freedom freedom_NN
+like like_IN
+you you_PP
+mean mean_VBP
+it it_PP
+! !
+￼ ￼

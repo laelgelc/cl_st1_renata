@@ -1,0 +1,14 @@
+Smith smith_NP
+' '
+s s_JJ
+witch witch_NN
+hunt hunt_NN
+in in_IN
+jeopardy jeopardy_NN
+after after_IN
+big big_JJ
+update update_NN
+from from_IN
+: :
+/ /
+/ /

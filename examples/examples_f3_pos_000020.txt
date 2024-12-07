@@ -1,0 +1,23 @@
+file = t032293
+date = 2023-05-02
+user = NewsMax
+conversation = 107764331655353184
+URL = https://truthsocial.com/@NewsMax/110300441965735483
+
+word count = 30
+words loading = 7
+factor score = 5
+
+Nearly the entire Republican Party — 85 % of likely Republican primary voters 
+— prefers a candidate for the GOP ' s presidential nomination who challenges 
+woke ideas, according to a new poll. 
+
+Lemmas in this text that loaded on the factor:
+
+accord_vbg (secondary)
+candidate_nn (secondary)
+nomination_nn 
+poll_nn 
+presidential_jj 
+republican_jj 
+voter_nns 

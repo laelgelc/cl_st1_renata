@@ -1,0 +1,18 @@
+file = t000513
+date = 2024-05-08
+user = Charliekirk
+conversation = 107804978292323344
+URL = https://truthsocial.com/@Charliekirk/112406236734107491
+
+word count = 56
+words loading = 1
+factor score = -1
+
+Last night at UW was a MASSIVE win for @TPUSA and for conservatives in the PNW! 
+There were a few altercations with ANTIFA but they were proven to be a bunch of 
+cowards. Our Prove Me Wrong tabling event was packed and our Live Free Tour 
+event was one of our BIGGEST ever, standing room! ! flag_united_states_e 
+
+Lemmas in this text that loaded on the factor:
+
+massive_jj 

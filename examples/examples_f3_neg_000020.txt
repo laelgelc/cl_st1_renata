@@ -1,0 +1,20 @@
+file = t000030
+date = 2024-01-30
+user = AlexJones
+conversation = 107838014712814240
+URL = https://truthsocial.com/@AlexJones/111846254412431089
+
+word count = 33
+words loading = 2
+factor score = -2
+
+speaking_head_e prohibited_e prohibited_e prohibited_e #alexjonesshow_h: 
+EMERGENCY BROADCAST! Globalists OPENLY Pushing All-Out War With Iran! Experts 
+Warn Chances of WW3 Have Never Been Greater! TUNE IN: closed_book_e 
+writing_hand_e Get a signed copy of ' The Great Awakening ' while you still 
+can! 
+
+Lemmas in this text that loaded on the factor:
+
+copy_nn 
+sign_vbn 

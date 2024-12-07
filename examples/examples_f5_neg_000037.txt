@@ -1,0 +1,15 @@
+file = t000472
+date = 2022-11-10
+user = BuckSexton
+conversation = 108121149563118272
+URL = https://truthsocial.com/@BuckSexton/109321519527336955
+
+word count = 8
+words loading = 1
+factor score = -1
+
+They Rig Elections While the GOP Whines 
+
+Lemmas in this text that loaded on the factor:
+
+election_nns 

@@ -1,0 +1,21 @@
+file = t043456
+date = 2023-01-14
+user = epochtimes
+conversation = 107814273983601296
+URL = https://truthsocial.com/@epochtimes/109689056736116049
+
+word count = 34
+words loading = 4
+factor score = 4
+
+ I ' m concerned that our school district is indoctrinating our children, 
+Snyder said. #parents_h protested outside a #california_h high school that 
+invited 12-year-old students to a talk featuring Rachel Pepper, co-author of 
+The Transgender Child. 
+
+Lemmas in this text that loaded on the factor:
+
+child_nns 
+old_jj 
+school_nn 
+year 

@@ -1,0 +1,19 @@
+file = t031652
+date = 2024-03-01
+user = NewsMax
+conversation = 107764331655353184
+URL = https://truthsocial.com/@NewsMax/112021320284403275
+
+word count = 38
+words loading = 3
+factor score = -3
+
+The right to protect and serve as members of Virginia law enforcement will be 
+extended to illegal immigrants who were brought to the U. S. as children by 
+their parents, according to a recently passed state bill. 
+
+Lemmas in this text that loaded on the factor:
+
+accord_vbg 
+bill_nn 
+law_nn 

@@ -1,0 +1,20 @@
+file = t036469
+date = 2024-03-11
+user = RepEliCrane
+conversation = 111127110356562432
+URL = https://truthsocial.com/@RepEliCrane/112079350552471968
+
+word count = 37
+words loading = 3
+factor score = -3
+
+Brave patriots who want to serve this country should be treated with dignity 
+— not railroaded & mistreated because of their conservative political Armed 
+Forces have become saturated in DEI, & ultimately, our recruitment, 
+preparedness, and national defense will suffer. 
+
+Lemmas in this text that loaded on the factor:
+
+conservative_jj 
+country_nn 
+political_jj 

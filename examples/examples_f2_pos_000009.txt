@@ -1,0 +1,36 @@
+file = t050255
+date = 2022-04-16
+user = jncojok
+conversation = 107839448160284576
+URL = https://truthsocial.com/@jncojok/108143465504194005
+
+word count = 31
+words loading = 10
+factor score = 9
+
+FEEL IT FAR DUE TIME TO CALL FOR A **flag_united_states_e** 
+**flag_united_states_e** **flag_united_states_e** **flag_united_states_e** 
+**flag_united_states_e** **flag_united_states_e** **flag_united_states_e** 
+police_car_light_e #national_h **red_heart_e** **white_heart_e** 
+**blue_heart_e** #deletetwitter_h **red_heart_e** **white_heart_e** 
+**blue_heart_e** day! ! ! #maga_h **#americafirst_h** **flag_united_states_e** 
+**flag_united_states_e** **flag_united_states_e** **flag_united_states_e** 
+**flag_united_states_e** **flag_united_states_e** **flag_united_states_e** 
+**flag_united_states_e** **flag_united_states_e** **flag_united_states_e** 
+**flag_united_states_e** #stevebannon_h #warroom_h #bannonswarroom_h 
+**#warroomposse_h** **#america_h** #usa_h #citizen_h #patriot_h **#truth_h** 
+**#retruth_h** #like_h **#share_h** #boycott_h **red_heart_e** 
+**white_heart_e** **blue_heart_e** #digitalwarfare_h #war_h #msm_h 
+
+Lemmas in this text that loaded on the factor:
+
+america_h 
+americafirst_h 
+blue_heart_e 
+flag_united_states_e 
+red_heart_e 
+retruth_h 
+share_h 
+truth_h (secondary)
+warroomposse_h 
+white_heart_e 

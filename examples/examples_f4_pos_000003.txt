@@ -1,0 +1,17 @@
+file = t015268
+date = 2023-09-26
+user = DineshDSouza
+conversation = 107810096875431984
+URL = https://truthsocial.com/@DineshDSouza/111133069734947000
+
+word count = 11
+words loading = 3
+factor score = 3
+
+Smith ' s witch hunt in jeopardy after big update from: / / 
+
+Lemmas in this text that loaded on the factor:
+
+hunt_nn 
+update_nn 
+witch_nn 

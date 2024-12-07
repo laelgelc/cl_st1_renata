@@ -1,0 +1,25 @@
+file = t011548
+date = 2023-02-03
+user = DCTheMan
+conversation = 109678637844306528
+URL = https://truthsocial.com/@DCTheMan/109802962683788568
+
+word count = 92
+words loading = 5
+factor score = -5
+
+I ' m a conservative. And I do my research. N95 masks are used to try and stop 
+any contamination, saliva and sweat from around the surgeon ' s mouth 
+primarily. The shot is killing a great number of people, being covered up by 
+the liberal media. The good doctor that is being praised as an American hero 
+has been involved in a number of illnesses that killed also many many people, 
+from him making bad decisions. The Democrats are trying to push pedophilia onto 
+the LGB community. All of these things true 
+
+Lemmas in this text that loaded on the factor:
+
+good_jj 
+great_jj 
+many_jj 
+people_nns 
+stop_vb 

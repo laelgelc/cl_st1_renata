@@ -1,0 +1,51 @@
+file = t052574
+date = 2024-05-08
+user = maxjett12
+conversation = 108319249994754560
+URL = https://truthsocial.com/@maxjett12/112407870825881600
+
+word count = 131
+words loading = 24
+factor score = 24
+
+Progressives see the family as an oppressive unit that pushes racism, sexism, 
+homophobia and fascism onto children. They say that the family is patriarchal, 
+authorative and hierarchical. They believe that after the eradication of the 
+family, they can fill children with the ideas of ' equality ' and ' 
+egalitarianism. ' The methods in which they set out to destroy the family are 
+to promote homosexuality, feminism, sexual liberation and a reliance on the 
+state. The role of the father has also been under attack, cut the father out of 
+the family unit and the job is already half done. The family is labeled as a ' 
+generational chain of oppression. ' **#xteam_h** **#dt47_h** **#truthtrain_h** 
+**#phpnews_h** **#tcd_h** **#nightshift_h** **#lilypadlounge_h** **#fhfnews_h** 
+**#rpn_h** **#ratpack_h** **#twgrp_h** **#thefungicrew_h** **#5dnews_h** 
+**#wtpafu_h** **#trump2024_h** **#murchmadness_h** **#ncswic_h** 
+**#maga2024_h** **#maga_h** **#fbj_h** **#truth_h** **#trumpwon_h** 
+**#wethepeople_h** **#trump_h** 
+
+Lemmas in this text that loaded on the factor:
+
+5dnews_h 
+dt47_h 
+fbj_h 
+fhfnews_h 
+lilypadlounge_h 
+maga2024_h 
+maga_h 
+murchmadness_h 
+ncswic_h 
+nightshift_h 
+phpnews_h 
+ratpack_h 
+rpn_h 
+tcd_h 
+thefungicrew_h 
+trump2024_h 
+trump_h 
+trumpwon_h 
+truth_h 
+truthtrain_h 
+twgrp_h 
+wethepeople_h 
+wtpafu_h 
+xteam_h 

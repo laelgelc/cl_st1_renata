@@ -1,0 +1,41 @@
+file = t049539
+date = 2022-11-04
+user = jncojok
+conversation = 107839448160284576
+URL = https://truthsocial.com/@jncojok/109287061406681866
+
+word count = 38
+words loading = 12
+factor score = 11
+
+Please help me to welcome this Awesome #gettr_h friend to #truthsocial_h 
+**flag_united_states_e** **flag_united_states_e** @Zarric 
+**flag_united_states_e** **flag_united_states_e** #patriots4ever_h! ! Please 
+give my friend a **red_heart_e** **white_heart_e** **blue_heart_e** 
+**red_heart_e** **white_heart_e** **blue_heart_e** **red_heart_e** 
+**white_heart_e** **blue_heart_e** #follow_h **red_heart_e** **white_heart_e** 
+**blue_heart_e** **flag_united_states_e** **flag_united_states_e** 
+**flag_united_states_e** #patriot_h #covfefe_h #magatruth_h **red_heart_e** 
+**white_heart_e** **blue_heart_e** **#ultramaga_h** #nuclearmaga_h 
+**#darkmaga_h** star_e star_e star_e **#retruth_h** **#share_h** **#truth_h** 
+#like_h **flag_united_states_e** **flag_united_states_e** 
+**flag_united_states_e** star_e star_e star_e **flag_united_states_e** 
+#wefollowback_h **flag_united_states_e** #ifbap_h **#patriots_h** #maga_h 
+**#americafirst_h** **#america_h** **red_heart_e** **white_heart_e** 
+**blue_heart_e** Thank you **red_heart_e** **white_heart_e** **blue_heart_e** 
+folded_hands_e folded_hands_e folded_hands_e 
+
+Lemmas in this text that loaded on the factor:
+
+america_h 
+americafirst_h 
+blue_heart_e 
+darkmaga_h 
+flag_united_states_e 
+patriots_h 
+red_heart_e 
+retruth_h 
+share_h 
+truth_h (secondary)
+ultramaga_h 
+white_heart_e 

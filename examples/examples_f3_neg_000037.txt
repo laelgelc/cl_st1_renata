@@ -1,0 +1,22 @@
+file = t000060
+date = 2023-12-11
+user = AlexJones
+conversation = 107838014712814240
+URL = https://truthsocial.com/@AlexJones/111562902754320631
+
+word count = 50
+words loading = 2
+factor score = -2
+
+loudspeaker_e fire_e fire_e fire_e #alexjonesshow_h Monday LIVE: Total Infowar 
+Victory! Alex Jones Drops Massive Truth Bombs to Millions of NEW Listeners on 
+X! Globalists Are FREAKING OUT, Threatening Nuclear War TUNE IN UNCENSORED 
+╰☆☆☆ #supportinfowars_h ☆☆☆╮ » » » Play #nwowars_h: » » » 
+𝘈𝘭𝘦𝘹 𝘑𝘰𝘯𝘦𝘴 𝘋𝘦𝘧𝘦𝘯𝘴𝘦 
+𝘍𝘶𝘯𝘥 : » » » Get a signed copy of ' The Great Awakening ' while 
+you still can! #1a_h 
+
+Lemmas in this text that loaded on the factor:
+
+copy_nn 
+sign_vbn 

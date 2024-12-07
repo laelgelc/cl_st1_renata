@@ -1,0 +1,14 @@
+file = t056607
+date = 2022-05-13
+user = tednugent
+conversation = 107834528142172976
+URL = https://truthsocial.com/@tednugent/108295896105687373
+
+word count = 6
+words loading = 0
+factor score = 
+
+MAGA like you mean it! 
+
+Lemmas in this text that loaded on the factor:
+

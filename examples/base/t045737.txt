@@ -1,0 +1,14 @@
+Children child_NNS
+' '
+s s_NN
+Book book_NN
+Pushes pushes_NP
+6-12 @card@
+Year-Old year-old_JJ
+Kids kid_NNS
+to to_TO
+Believe believe_NP
+Euthanizing euthanizing_NP
+People people_NP
+Is be_VBZ
+OK ok_JJ

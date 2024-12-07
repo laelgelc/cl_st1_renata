@@ -1,0 +1,16 @@
+file = t013424
+date = 2024-04-10
+user = DineshDSouza
+conversation = 107810096875431984
+URL = https://truthsocial.com/@DineshDSouza/112248785485309140
+
+word count = 6
+words loading = 2
+factor score = -2
+
+Massive announcement on impeachment trial! 
+
+Lemmas in this text that loaded on the factor:
+
+impeachment_nn 
+massive_jj 

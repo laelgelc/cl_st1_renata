@@ -1,0 +1,14 @@
+file = t056601
+date = 2022-08-05
+user = tednugent
+conversation = 107834528142172976
+URL = https://truthsocial.com/@tednugent/108770877819473359
+
+word count = 4
+words loading = 0
+factor score = 
+
+Hook&Barrel magazine 
+
+Lemmas in this text that loaded on the factor:
+

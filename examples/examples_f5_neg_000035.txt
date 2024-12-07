@@ -1,0 +1,18 @@
+file = t000428
+date = 2022-05-29
+user = BrandonStraka
+conversation = 107815387689187504
+URL = https://truthsocial.com/@BrandonStraka/108382863529724994
+
+word count = 55
+words loading = 1
+factor score = -1
+
+I believe that conservative voters will continue to feel deflated about 
+elections until they see that victory is possible. IT IS. But stand up and 
+invest in our future NOW. Don ' t allow your shaken faith to make you 
+complacent. Believe NOW that we can win. Then let ' s work to make it HAPPEN! 
+
+Lemmas in this text that loaded on the factor:
+
+election_nns 

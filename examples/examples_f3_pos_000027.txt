@@ -1,0 +1,21 @@
+file = t031687
+date = 2024-02-08
+user = NewsMax
+conversation = 107764331655353184
+URL = https://truthsocial.com/@NewsMax/111896260617465168
+
+word count = 35
+words loading = 5
+factor score = 5
+
+Donald Trump is expected to sweep Nevada ' s GOP caucuses, which would give the 
+former president a third consecutive victory in the Republican presidential 
+race and display his dominance over the Republican Party. MORE: 
+
+Lemmas in this text that loaded on the factor:
+
+former_jj 
+president_nn 
+presidential_jj 
+race_nn 
+republican_jj 

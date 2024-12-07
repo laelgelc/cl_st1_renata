@@ -1,0 +1,26 @@
+file = t051345
+date = 2022-11-22
+user = maga420
+conversation = 107834188191138752
+URL = https://truthsocial.com/@maga420/109385304821771857
+
+word count = 69
+words loading = 6
+factor score = -4
+
+face_with_symbols_on_mouth_e **police_car_light_e** **pouting_face_e** 
+Balenciaga drops new ads with kids holding toys in fetish gear, shows glimpses 
+of a poorly disguised court document in the ad that appears to be a case known 
+as ' Free speech coalition vs Ashcroft ' ( look it up ) , PANDA EYES. After 
+backlash, Balenciaga has deleted all the posts on IG & changed the photos on 
+their website. backhand_index_pointing_right_medium-light_skin_tone_e WHY IS NO 
+ONE TALKING ABOUT THIS? ? This is unbelievably sick & criminal! ! 
+
+Lemmas in this text that loaded on the factor:
+
+case_nn 
+free_jj 
+kid_nns (secondary)
+police_car_light_e 
+pouting_face_e (secondary)
+speech_nn 

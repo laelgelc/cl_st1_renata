@@ -1,0 +1,18 @@
+file = t056637
+date = 2022-07-22
+user = truthsocial
+conversation = 107759501782461328
+URL = https://truthsocial.com/@truthsocial/108692267926812477
+
+word count = 51
+words loading = 0
+factor score = 
+
+What a week! In honor of our international expansion, we ' ve launched some new 
+#truthsocial_h swag, available exclusively at our online store: addition to our 
+Truth Social Patriot Hat and #covfefe_h coffee mug, we ' ve added Truth 
+koozies, golf balls, and our first ever T-shirt. Get them before they ' re 
+gone! 
+
+Lemmas in this text that loaded on the factor:
+

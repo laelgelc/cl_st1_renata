@@ -1,0 +1,5 @@
+Good good_JJ
+governments government_NNS
+defend defend_VBP
+freedom freedom_NN
+. .

@@ -1,0 +1,14 @@
+file = t056642
+date = 2022-04-04
+user = warrendavidson
+conversation = 107838824115445312
+URL = https://truthsocial.com/@warrendavidson/108074604707533794
+
+word count = 5
+words loading = 0
+factor score = 
+
+Good governments defend freedom. 
+
+Lemmas in this text that loaded on the factor:
+

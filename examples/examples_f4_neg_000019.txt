@@ -1,0 +1,24 @@
+file = t051576
+date = 2022-06-30
+user = maga420
+conversation = 107834188191138752
+URL = https://truthsocial.com/@maga420/108567832325594976
+
+word count = 51
+words loading = 7
+factor score = -5
+
+@paula this is one of many reasons we need to stop electing rinos. If we had 
+all America first patriots when we have the majority we can write law the 
+correct way. Having agencies set policies or using EOs can all be undone just 
+as fast as it was implemented. 
+
+Lemmas in this text that loaded on the factor:
+
+first_jj 
+law_nn (secondary)
+many_jj 
+need_vbp 
+patriot_nns (secondary)
+stop_vb 
+way_nn 

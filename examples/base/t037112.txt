@@ -1,0 +1,12 @@
+red_circle_e red_circle_e
+MAGA maga_NP
+Rejoices rejoices_NP
+Following follow_VBG
+Latest latest_JJ
+Update update_NN
+in in_IN
+Trump trump_NP
+' '
+s s_NN
+Georgia georgia_NP
+Case case_NP

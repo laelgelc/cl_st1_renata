@@ -1,0 +1,21 @@
+file = t036625
+date = 2023-03-02
+user = RepMTG
+conversation = 107825831647341200
+URL = https://truthsocial.com/@RepMTG/109954138604902670
+
+word count = 75
+words loading = 2
+factor score = -2
+
+Why would a voting machine company sue conservative media companies and their 
+employees in order to cancel them out of existence? The voting machine company 
+hasn ' t lost contracts so it doesn ' t seem that they have standing in the 
+only conclusion is that these massive billion dollar lawsuits are purely made 
+up of political they trying to control the outcomes of elections by attacking 
+the sources of information the public consumes? 1 / 2 
+
+Lemmas in this text that loaded on the factor:
+
+election_nns 
+massive_jj 

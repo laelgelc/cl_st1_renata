@@ -1,0 +1,17 @@
+file = t037675
+date = 2023-03-19
+user = ResisttheMainstream
+conversation = 107838850131880704
+URL = https://truthsocial.com/@ResisttheMainstream/110047849524714022
+
+word count = 17
+words loading = 2
+factor score = 2
+
+**red_circle_e** Trump-Stormy Daniels Settlement at Heart of Potential NY DA 
+Indictment Didn ' t Violate Campaign Law: FEC Expert 
+
+Lemmas in this text that loaded on the factor:
+
+indictment_nn 
+red_circle_e 

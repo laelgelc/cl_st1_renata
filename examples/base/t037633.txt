@@ -1,0 +1,14 @@
+red_circle_e red_circle_e
+DA da_NP
+Alvin alvin_NP
+Bragg bragg_NP
+, ,
+House house_NP
+GOP gop_NP
+Reach reach_NP
+Deal deal_NP
+in in_IN
+Probe probe_NP
+Over over_IN
+Trump trump_NP
+Indictment indictment_NN

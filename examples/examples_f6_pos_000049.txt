@@ -1,0 +1,20 @@
+file = t056592
+date = 2022-10-20
+user = tednugent
+conversation = 107834528142172976
+URL = https://truthsocial.com/@tednugent/109200338371311395
+
+word count = 78
+words loading = 0
+factor score = 
+
+from the great Col Allen West-Today is a great and monumental day for these 
+United States of America. On Oct. 19 , 1781 , the British officially 
+surrendered to Gen. George Washington and effectively ended the War of 
+Independence. Yes, today is anniversary of the day that America secured its 
+independence. . . kinda like April 21 , 1836 is San Jacinto Day here in Texas. 
+Sadly, this nation is too busy indoctrinating and sexualizing our children to 
+teach them our exceptional history. 
+
+Lemmas in this text that loaded on the factor:
+

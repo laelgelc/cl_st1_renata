@@ -1,0 +1,15 @@
+red_circle_e red_circle_e
+Trump trump_NP
+' '
+s s_NN
+2024 @card@
+GOP gop_NP
+Rivals rival_NNS
+React react_NN
+to to_TO
+the the_DT
+Former former_NP
+President president_NP
+' '
+s s_JJ
+Indictment indictment_NN

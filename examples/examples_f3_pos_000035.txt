@@ -1,0 +1,24 @@
+file = t050927
+date = 2022-11-14
+user = loudobbs
+conversation = 107839077892175376
+URL = https://truthsocial.com/@loudobbs/109339261382388879
+
+word count = 78
+words loading = 4
+factor score = 4
+
+Establishment tools like RINO Gregg and Ryan align with Marxist Left as they 
+all declare the man they fear most will not be GOP nominee: 
+#thegreatamericashow_h Pres. Trump will not be the Republican presidential 
+nominee in 2024 , says former Sen. Judd mp will not be the Republican 
+presidential nominee in 2024 , says former Sen. Judd GreggJudd Gregg, former U. 
+S. Senator from New Hampshire, and Bill Daley, former Commerce Secretary and 
+chief of staff to President Barack 
+
+Lemmas in this text that loaded on the factor:
+
+former_jj 
+nominee_nn 
+presidential_jj 
+republican_jj 

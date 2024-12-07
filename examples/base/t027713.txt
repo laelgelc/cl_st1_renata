@@ -1,0 +1,12 @@
+BREAKING breaking_NN
+: :
+Judge judge_NP
+Delivers delivers_NP
+Massive massive_JJ
+Ruling ruling_NN
+on on_IN
+Mail-In mail-in_NP
+Ballots ballots_NP
+Days day_NNS
+Before before_IN
+Midterms midterm_NNS

@@ -1,0 +1,23 @@
+file = t000495
+date = 2024-05-29
+user = Charliekirk
+conversation = 107804978292323344
+URL = https://truthsocial.com/@Charliekirk/112525223266463114
+
+word count = 122
+words loading = 1
+factor score = -1
+
+police_car_light_e BREAKING: Trump addresses the media as the jury begins to 
+deliberate in the New York hush money trial: Mother Theresa could not beat 
+these charges. . . this whole thing is rigged. The Judge is so conflicted he 
+can ' t breathe. I took a big lead in the polls over the last few weeks. 
+Something is going on. Because I think the people of this country see that this 
+is a rigged deal. Then they have a protest with Robert De Niro yesterday who is 
+a fool, a broken down fool. He got MAGA ' d yesterday. He got a big dose of it. 
+Remember, November 5 , the most important day in the history of our country. In 
+the meantime, this trial is rigged. 
+
+Lemmas in this text that loaded on the factor:
+
+poll_nns 

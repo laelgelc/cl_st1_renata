@@ -1,0 +1,36 @@
+file = t049584
+date = 2022-10-26
+user = jncojok
+conversation = 107839448160284576
+URL = https://truthsocial.com/@jncojok/109233659137384384
+
+word count = 21
+words loading = 9
+factor score = 8
+
+#maga_h **#americafirst_h** **#america_h** **#ultramaga_h** **#warroomposse_h** 
+**#wethepeople_h** Deanna is running against #nancypelosi_h **#share_h** 
+#repost_h **#retruth_h** everywhere, lets make this one famous! ! ! 
+**thumbs_up_light_skin_tone_e** **thumbs_up_light_skin_tone_e** 
+**flag_united_states_e** **flag_united_states_e** **flag_united_states_e** 
+**flag_united_states_e** **flag_united_states_e** **flag_united_states_e** 
+**flag_united_states_e** **flag_united_states_e** **flag_united_states_e** 
+**flag_united_states_e** **flag_united_states_e** **flag_united_states_e** 
+**flag_united_states_e** **flag_united_states_e** **flag_united_states_e** 
+**flag_united_states_e** **flag_united_states_e** **flag_united_states_e** 
+**flag_united_states_e** **flag_united_states_e** **flag_united_states_e** 
+**flag_united_states_e** **flag_united_states_e** **flag_united_states_e** 
+**flag_united_states_e** **flag_united_states_e** **flag_united_states_e** 
+**flag_united_states_e** 
+
+Lemmas in this text that loaded on the factor:
+
+america_h 
+americafirst_h 
+flag_united_states_e 
+retruth_h 
+share_h 
+thumbs_up_light_skin_tone_e 
+ultramaga_h 
+warroomposse_h 
+wethepeople_h (secondary)

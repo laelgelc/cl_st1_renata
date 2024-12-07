@@ -1,0 +1,6 @@
+Massive massive_JJ
+announcement announcement_NN
+on on_IN
+impeachment impeachment_NN
+trial trial_NN
+! !

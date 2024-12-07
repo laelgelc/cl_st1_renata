@@ -1,0 +1,23 @@
+file = t031208
+date = 2023-12-06
+user = Kash
+conversation = 107826559359582064
+URL = https://truthsocial.com/@Kash/111534911061352943
+
+word count = 54
+words loading = 4
+factor score = -3
+
+Thank you to Tulare Country GOP for throwing a ticker tape parade as the new 
+golden boy of the valley, replacing @DevinNunes rolling_on_the_floor_laughing_e 
+grinning_squinting_face_e rolling_on_the_floor_laughing_e Special thanks to 
+Connie Conway for putting on a fantastic evening and getting everyone a signed 
+copy of my best seller #governmentgangsters_h just in time for the holiday 
+hunt! %2Caps%2C314&sr=8-1 
+
+Lemmas in this text that loaded on the factor:
+
+copy_nn 
+hunt_nn (secondary)
+sign_vbn 
+thank_vb 

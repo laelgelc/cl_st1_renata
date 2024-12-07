@@ -1,0 +1,16 @@
+file = t037464
+date = 2023-07-30
+user = ResisttheMainstream
+conversation = 107838850131880704
+URL = https://truthsocial.com/@ResisttheMainstream/110804819247152102
+
+word count = 10
+words loading = 2
+factor score = 2
+
+**red_circle_e** ' Sound of Freedom ' Star Issues Dire Warning to Parents 
+
+Lemmas in this text that loaded on the factor:
+
+issues_nps 
+red_circle_e 

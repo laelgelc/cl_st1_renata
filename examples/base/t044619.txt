@@ -1,0 +1,43 @@
+ "  "
+I i_PP
+am be_VBP
+blessed bless_VBN
+to to_TO
+have have_VB
+earned earn_VBN
+the the_DT
+presumptive presumptive_JJ
+Republican republican_JJ
+nomination nomination_NN
+, ,
+ "  "
+Oz oz_NP
+same same_JJ
+day day_NN
+that that_IN
+#pennsylvania_h pennsylvania_h
+counties county_NNS
+can can_MD
+begin begin_VB
+recounting recount_VBG
+ballots ballot_NNS
+in in_IN
+the the_DT
+GOP gop_NP
+US us_NP
+Senate senate_NP
+primary primary_NN
+, ,
+Dr dr_NP
+. .
+Mehmet mehmet_NP
+Oz oz_NP
+declared declare_VBD
+himself himself_PP
+ "  "
+the the_DT
+presumptive presumptive_JJ
+Republican republican_JJ
+nominee nominee_NN
+. .
+ "  "

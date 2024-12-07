@@ -1,0 +1,17 @@
+file = t037272
+date = 2023-11-30
+user = ResisttheMainstream
+conversation = 107838850131880704
+URL = https://truthsocial.com/@ResisttheMainstream/111496584058100775
+
+word count = 15
+words loading = 2
+factor score = 2
+
+**red_circle_e** GOP Rep Issues Stark Warning About TikTok ' s Potential 
+Influence Over The 2024 Election 
+
+Lemmas in this text that loaded on the factor:
+
+issues_nps 
+red_circle_e 

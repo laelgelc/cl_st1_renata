@@ -1,0 +1,21 @@
+file = t036677
+date = 2022-10-04
+user = RepMTG
+conversation = 107825831647341200
+URL = https://truthsocial.com/@RepMTG/109110633353768678
+
+word count = 43
+words loading = 4
+factor score = -4
+
+ Greene told the Just the News Not Noise TV show she is considering suing for 
+infringement of her free speech both as a candidate and congresswoman-elect and 
+working with other lawmakers to launch an investigation that starts with 
+evidence preservation letters this month. 
+
+Lemmas in this text that loaded on the factor:
+
+candidate_nn 
+free_jj 
+news_nn 
+speech_nn 

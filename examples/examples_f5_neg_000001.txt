@@ -1,0 +1,23 @@
+file = t051364
+date = 2022-11-18
+user = maga420
+conversation = 107834188191138752
+URL = https://truthsocial.com/@maga420/109365633258437608
+
+word count = 63
+words loading = 3
+factor score = -3
+
+police_car_light_e GOP leader and Speaker of the House, Kevin McCarthy used 
+#ftx_h cash to defeat conservatives in 2022 , as the globalist-tied #crypto_h 
+exchange funded establishment wings of both hout midterms, McCarthy ( CA-23 ) 
+used his Congressional Leadership Fund to inject massive amounts of cash into 
+House races. He targeted #gop_h primary races and general elections vs. 
+#democrats_h, in which Trump-aligned America First conservatives were on the 
+ballot. 
+
+Lemmas in this text that loaded on the factor:
+
+election_nns 
+massive_jj 
+midterm_nns 

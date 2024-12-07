@@ -1,0 +1,13 @@
+red_circle_e red_circle_e
+Watch watch_NP
+: :
+Trump trump_NP
+Addresses address_NNS
+Potential potential_JJ
+Stormy stormy_NP
+Daniels daniels_NP
+Indictment indictment_NN
+in in_IN
+Late-Night late-night_NP
+Video video_NP
+Address address_NP

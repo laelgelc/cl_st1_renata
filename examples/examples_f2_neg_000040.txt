@@ -1,0 +1,23 @@
+file = t039559
+date = 2023-08-08
+user = TomFitton
+conversation = 107815959231929888
+URL = https://truthsocial.com/@TomFitton/110855903722042417
+
+word count = 77
+words loading = 4
+factor score = -3
+
+Your @JudicialWatch is ready to work with you to:Protect life. Protect our 
+children. Protect our Constitution. Protect the rule of law. Protect our civil 
+rights. Protect parents. Protect political prisoners and targets of Biden DOJ 
+abuse. Protect our borders. Protect free speech. Protect America from the 
+predator Left that seeks to upend this glorious country is. You can do it. We 
+can do it. We must do it. God bless you and God bless America. 
+
+Lemmas in this text that loaded on the factor:
+
+country_nn 
+law_nn 
+political_jj 
+speech_nn (secondary)

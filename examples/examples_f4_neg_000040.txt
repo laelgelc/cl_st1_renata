@@ -1,0 +1,30 @@
+file = t038240
+date = 2024-02-23
+user = ScottPresler
+conversation = 107832303017566256
+URL = https://truthsocial.com/@ScottPresler/111978111302629403
+
+word count = 137
+words loading = 4
+factor score = -4
+
+double_exclamation_mark_e AMISH LIVING UNDER ATTACK double_exclamation_mark_e 
+Amos Miller is an Amish farmer in Lancaster, Pennsylvania, whose farm was 
+raided by the Department of PA Dept. of Agriculture also detained thousands of 
+dollars worth of food, which members of Amos ' community rely on to feed their 
+families. right_arrow_e Amos ' court date is on Thursday, February 29th, @ the 
+Lancaster Courthouse left_arrow_e In response to the raid & detaining of food, 
+Wisconsin activist Max Kane is organizing a protest in support of Amos Miller. 
+First, they come for the Amish. Then, farmers. Then, anyone that opposes Big 
+Agriculture. handshake_e We need as many Amish & English to join this peaceful 
+rally as: Thursday, February 29th Time: 11:30 a. m. ( Rally ) 1:30 p. m. ( 
+Court Hearing ) Where: Lancaster Courthouse 50 N. Duke StreetLancaster, PA 
+17602Please share this with everyone you know! CC: Amish, Farmers, Dairy, Raw 
+Milk, Religious Freedom 
+
+Lemmas in this text that loaded on the factor:
+
+join_vb 
+know_vbp 
+many_jj 
+need_vbp 

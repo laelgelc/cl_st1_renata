@@ -1,0 +1,18 @@
+file = t044661
+date = 2022-05-24
+user = epochtimes
+conversation = 107814273983601296
+URL = https://truthsocial.com/@epochtimes/108359360622788486
+
+word count = 40
+words loading = 2
+factor score = -2
+
+There was a steady stream of voters turning up to #alabama_h polls today to 
+choose party nominees for the 2022 the deep-red state, those who win the GOP 
+primaries will face general elections that Democrats haven ' t won in decades. 
+
+Lemmas in this text that loaded on the factor:
+
+election_nns 
+poll_nns 

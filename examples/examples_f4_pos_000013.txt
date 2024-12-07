@@ -1,0 +1,19 @@
+file = t043125
+date = 2023-03-31
+user = epochtimes
+conversation = 107814273983601296
+URL = https://truthsocial.com/@epochtimes/110115749489945324
+
+word count = 42
+words loading = 2
+factor score = 2
+
+ It is un-American for the ruling party to use police power to arrest its 
+political rivals. @VivekGRamaswamy described the indictment of former President 
+@realDonaldTrump as a dark moment in American history, warning that we ' re 
+skating on thin ice as a country. 
+
+Lemmas in this text that loaded on the factor:
+
+indictment_nn 
+ruling_nn 

@@ -1,0 +1,26 @@
+file = t034115
+date = 2024-03-17
+user = Qanon76
+conversation = 107834998234793712
+URL = https://truthsocial.com/@Qanon76/112110540262629068
+
+word count = 126
+words loading = 2
+factor score = -2
+
+DC_Draino@DC_DrainoAOC is claiming Elon interfered with the 2022 midterm 
+elections by altering X ' s algorithmsI mean, it ' s not like he banned Trump 
+and 100 , 000+ of his top supporters, shadow banned truthful posts about 
+Democrat corruption, and suppressed the Hunter Biden laptop story…But Elon 
+actually didn ' t even change the algos until *after* the midtermsHe kept them 
+in place u til after the midterms and the GOP still took the HouseAOC is trying 
+to rewrite history with more lies to justify more regime tyranny and censorship 
+- remember her fabricated J6 stories? 2024 will be the first major election 
+where we have free speech on XAnd we will likely have 3+ SCOTUS 1A decisions 
+coming by July that will protect free speech on other Big Tech platforms as 
+well 
+
+Lemmas in this text that loaded on the factor:
+
+election_nns 
+midterm_nns 

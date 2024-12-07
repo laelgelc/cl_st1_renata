@@ -1,0 +1,18 @@
+file = t000947
+date = 2022-12-15
+user = Charliekirk
+conversation = 107804978292323344
+URL = https://truthsocial.com/@Charliekirk/109519387353188638
+
+word count = 18
+words loading = 3
+factor score = -3
+
+BREAKING: Trump pledges to BAN federal agencies from colluding with private 
+businesses to limit freedom of speech 
+
+Lemmas in this text that loaded on the factor:
+
+breaking_nn 
+freedom_nn 
+speech_nn 

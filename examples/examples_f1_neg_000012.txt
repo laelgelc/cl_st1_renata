@@ -1,0 +1,21 @@
+file = t029998
+date = 2022-02-22
+user = JennaEllisEsq
+conversation = 107810042577943552
+URL = https://truthsocial.com/@JennaEllisEsq/107842739628832960
+
+word count = 46
+words loading = 4
+factor score = -4
+
+BREAKING: SCOTUS to hear case of web designer who refused to create a wedding 
+website for same-sex couple. 303 Creative LLC v. Elenis: Whether applying a 
+public-accommodation law to compel an artist to speak or stay silent violates 
+the free speech or free exercise clauses of 1A. 
+
+Lemmas in this text that loaded on the factor:
+
+breaking_nn 
+case_nn 
+free_jj 
+speech_nn 

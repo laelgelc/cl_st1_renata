@@ -1,0 +1,19 @@
+file = t043023
+date = 2023-04-22
+user = epochtimes
+conversation = 107814273983601296
+URL = https://truthsocial.com/@epochtimes/110239668911693502
+
+word count = 37
+words loading = 3
+factor score = -3
+
+ In Florida, we deliver big victories every single day, DeSantis vatives must 
+accept no substitute for real political victories and must not refrain from 
+wielding real power to achieve those victories, according to Gov. Ron DeSantis. 
+
+Lemmas in this text that loaded on the factor:
+
+accord_vbg 
+big_jj 
+political_jj 

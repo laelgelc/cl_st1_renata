@@ -1,0 +1,28 @@
+file = t049973
+date = 2022-06-01
+user = jncojok
+conversation = 107839448160284576
+URL = https://truthsocial.com/@jncojok/108403315036522570
+
+word count = 10
+words loading = 9
+factor score = 8
+
+#stevebannon_h #warroom_h Good one **thumbs_up_light_skin_tone_e** 
+**thumbs_up_light_skin_tone_e** **red_heart_e** **white_heart_e** 
+**blue_heart_e** **flag_united_states_e** **flag_united_states_e** 
+**flag_united_states_e** **flag_united_states_e** **flag_united_states_e** 
+**flag_united_states_e** **flag_united_states_e** #maga_h **#magaa_h** 
+**#americafirst_h** **#ultramaga_h** **#truth_h** 
+
+Lemmas in this text that loaded on the factor:
+
+americafirst_h 
+blue_heart_e 
+flag_united_states_e 
+magaa_h 
+red_heart_e 
+thumbs_up_light_skin_tone_e 
+truth_h (secondary)
+ultramaga_h 
+white_heart_e 

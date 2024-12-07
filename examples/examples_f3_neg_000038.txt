@@ -1,0 +1,21 @@
+file = t000061
+date = 2023-12-10
+user = AlexJones
+conversation = 107838014712814240
+URL = https://truthsocial.com/@AlexJones/111558401536465067
+
+word count = 36
+words loading = 2
+factor score = -2
+
+star_e star_e star_e #alexjonesshow_h Sunday LIVE: Alex Jones Interviews Elon 
+Musk For 2+ Hours Live — Learn What Comes Next! ╰☆☆☆ 
+#supportinfowars_h ☆☆☆╮ sparkles_e Play #nwowars_h: sparkles_e 
+𝘈𝘭𝘦𝘹 𝘑𝘰𝘯𝘦𝘴 𝘋𝘦𝘧𝘦𝘯𝘴𝘦 
+𝘍𝘶𝘯𝘥 : sparkles_e Get a signed copy of ' The Great Awakening ' 
+while you still can! #1a_h 
+
+Lemmas in this text that loaded on the factor:
+
+copy_nn 
+sign_vbn 

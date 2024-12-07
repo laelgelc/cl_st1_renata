@@ -1,0 +1,25 @@
+file = t039162
+date = 2022-10-02
+user = ThePatriotVoice
+conversation = 107834263369962160
+URL = https://truthsocial.com/@ThePatriotVoice/109097250815254142
+
+word count = 79
+words loading = 4
+factor score = -4
+
+I find it hilarious, but also incredibly maddening that people will go out of 
+their way to blatantly plagiarize, and steal other peoples hard is probably the 
+MOST egregious example I ' ve seen in a LONG time…The first picture is the 
+logo from our inaugural event in 2021 , the Patriot Roundup, that @QueenAnonAmy 
+and I designed from scratch with our artist. To boot, Sumter County GOP had 
+Tomi Lahren, and Sheriff David Clarke speak in front of OUR logo…How EVABLE. 
+man_facepalming_light_skin_tone_e man_facepalming_light_skin_tone_e 
+man_facepalming_light_skin_tone_e 
+
+Lemmas in this text that loaded on the factor:
+
+first_jj 
+other_jj 
+people_nns 
+way_nn 

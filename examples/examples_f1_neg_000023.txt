@@ -1,0 +1,23 @@
+file = t053021
+date = 2024-04-09
+user = rabcl12
+conversation = 108431748923102896
+URL = https://truthsocial.com/@rabcl12/112243691156353679
+
+word count = 57
+words loading = 4
+factor score = -4
+
+Leading Report collision_e collision_e collision_e collision_e collision_e 
+**police_car_light_e** BREAKING: Former President Trump ' s legalteam, via 
+notice of appeal, asked the Fulton County Superior Court to conduct an 
+immediate review of their motions to dismiss the case on First Amendment 
+grounds, arguing that the indictments handed down by DA Fani Willis ' office 
+last year violate their First Amendment right to freedom of speech 
+
+Lemmas in this text that loaded on the factor:
+
+case_nn 
+freedom_nn 
+police_car_light_e 
+speech_nn 

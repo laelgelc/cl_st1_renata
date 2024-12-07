@@ -1,0 +1,17 @@
+file = t056633
+date = 2023-01-10
+user = truthsocial
+conversation = 107759501782461328
+URL = https://truthsocial.com/@truthsocial/109667047977369487
+
+word count = 42
+words loading = 0
+factor score = 
+
+police_car_light_e Alert: Truth Social hit record activity levels in the first 
+week of January. We also hit record levels for the 4th quarter of 2022 after 
+becoming fully available on all devices in October. It seems that free speech 
+is in demand. 
+
+Lemmas in this text that loaded on the factor:
+

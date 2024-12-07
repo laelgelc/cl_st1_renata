@@ -1,0 +1,44 @@
+ "  "
+I i_NP
+' '
+m m_NN
+concerned concern_VBD
+that that_IN
+our our
+school school_NN
+district district_NN
+is be_VBZ
+indoctrinating indoctrinate_VBG
+our our
+children child_NNS
+, ,
+ "  "
+Snyder snyder_NP
+said say_VBD
+. .
+#parents_h parents_h
+protested protest_VBD
+outside outside_IN
+a a_DT
+#california_h california_h
+high high_JJ
+school school_NN
+that that_WDT
+invited invite_VBD
+12-year-old 12-year-old_JJ
+students student_NNS
+to to_TO
+a a_DT
+talk talk_NN
+featuring feature_VBG
+Rachel rachel_NP
+Pepper pepper_NP
+, ,
+co-author co-author_NN
+of of_IN
+ "  "
+The the_DT
+Transgender transgender_NP
+Child child_NP
+. .
+ "  "

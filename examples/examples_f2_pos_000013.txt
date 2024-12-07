@@ -1,0 +1,31 @@
+file = t050219
+date = 2022-04-25
+user = jncojok
+conversation = 107839448160284576
+URL = https://truthsocial.com/@jncojok/108192372709849456
+
+word count = 25
+words loading = 10
+factor score = 9
+
+@TankGirl s a Great #patriot_h! ! Please give my friend a #follow_h 
+**red_heart_e** **white_heart_e** **blue_heart_e** **flag_united_states_e** 
+**flag_united_states_e** **flag_united_states_e** **#retruth_h** **#share_h** 
+**#truth_h** #like_h **flag_united_states_e** **flag_united_states_e** 
+**flag_united_states_e** **flag_united_states_e** #wefollowback_h 
+**flag_united_states_e** #ifbap_h **#patriots_h** #HASHTAG#maga_h 
+**#americafirst_h** **#america_h** #wwg1wga_h #qthank_h you **red_heart_e** 
+**white_heart_e** **blue_heart_e** folded_hands_e folded_hands_e folded_hands_e 
+
+Lemmas in this text that loaded on the factor:
+
+america_h 
+americafirst_h 
+blue_heart_e 
+flag_united_states_e 
+patriots_h 
+red_heart_e 
+retruth_h 
+share_h 
+truth_h (secondary)
+white_heart_e 

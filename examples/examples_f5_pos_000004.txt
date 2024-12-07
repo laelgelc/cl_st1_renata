@@ -1,0 +1,22 @@
+file = t011423
+date = 2023-02-17
+user = DCTheMan
+conversation = 109678637844306528
+URL = https://truthsocial.com/@DCTheMan/109880534425513296
+
+word count = 42
+words loading = 5
+factor score = 5
+
+The law would require school employees to notify parents if a child begins 
+identifying as a gender different from the student ' s biological sex. It also 
+ensures that the treatment of children as their biological sex is not 
+considered neglect or: / / 
+
+Lemmas in this text that loaded on the factor:
+
+child_nn 
+child_nns 
+parent_nns 
+school_nn 
+sex_nn 

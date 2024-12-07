@@ -1,0 +1,23 @@
+file = t010090
+date = 2023-10-16
+user = DCTheMan
+conversation = 109678637844306528
+URL = https://truthsocial.com/@DCTheMan/111245826480238536
+
+word count = 60
+words loading = 4
+factor score = -4
+
+THE IRONY HERE IS THAT THE LEFT IS GOING TO CELEBRATE A GAG ORDER BEING PUT ON 
+THE LEADING PRESIDENTIAL CANDIDATE WHILE ACCUSING EVERYONE ELSE OF FASCISM. 
+**face_with_tears_of_joy_e** **face_with_tears_of_joy_e** 
+**face_with_tears_of_joy_e** Even before the order was issued, Trump ' s lawyer 
+John Lauro said they would appeal any such order, as it would affect important 
+free speech principles, particularly for a leading candidate for: / / 
+
+Lemmas in this text that loaded on the factor:
+
+candidate_nn 
+face_with_tears_of_joy_e 
+free_jj 
+speech_nn 

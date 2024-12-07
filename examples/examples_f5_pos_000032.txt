@@ -1,0 +1,22 @@
+file = t041679
+date = 2023-04-01
+user = danielledsouzagill
+conversation = 107816899434234096
+URL = https://truthsocial.com/@danielledsouzagill/110126060878325653
+
+word count = 59
+words loading = 4
+factor score = 4
+
+Our children and grandkids are being indoctrinated in ways we can hardly 
+imagine - TV, internet, school, TikTok, bad teachers, bad parents. . . We have 
+to fight back by arming them with the FACTS. Tap the link below to get your 
+free Kids Guide to Fighting Indoctrination. This will give your kids the tools 
+they need to not become rabid: / / 
+
+Lemmas in this text that loaded on the factor:
+
+child_nns 
+kid_nns 
+parent_nns 
+school_nn 

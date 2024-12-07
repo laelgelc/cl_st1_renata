@@ -1,0 +1,21 @@
+file = t042788
+date = 2023-06-07
+user = epochtimes
+conversation = 107814273983601296
+URL = https://truthsocial.com/@epochtimes/110504570297451480
+
+word count = 34
+words loading = 4
+factor score = 4
+
+ The RNC is laser-focused on beating Joe Biden and far-left Democrats next 
+November, @GOPChairwoman Ronna McDaniel #rnc_h has launched a new campaign 
+urging Republican voters to cast their ballots early ahead of the 2024 
+election. 
+
+Lemmas in this text that loaded on the factor:
+
+ballot_nns 
+campaign_nn 
+republican_jj 
+voter_nns 

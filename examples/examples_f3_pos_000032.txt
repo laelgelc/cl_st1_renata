@@ -1,0 +1,21 @@
+file = t052828
+date = 2022-07-20
+user = maxjett12
+conversation = 108319249994754560
+URL = https://truthsocial.com/@maxjett12/108680069640200860
+
+word count = 32
+words loading = 5
+factor score = 4
+
+ Del. Dan Cox defeated former state Commerce Secretary Kelly Schulz to win the 
+Republican nomination for governor in a competitive race that pitted two sides 
+of the GOP against each other. 
+
+Lemmas in this text that loaded on the factor:
+
+former_jj 
+nomination_nn 
+race_nn 
+republican_jj 
+win_vb (secondary)

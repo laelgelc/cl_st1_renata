@@ -1,0 +1,18 @@
+file = t001622
+date = 2023-06-23
+user = CitizenFreePress
+conversation = 108274591401172032
+URL = https://truthsocial.com/@CitizenFreePress/110591740787641237
+
+word count = 24
+words loading = 3
+factor score = -3
+
+Pay attention to this ri v. Biden is the most important free speech case of our 
+ri AG Andrew Bailey is a hero. 
+
+Lemmas in this text that loaded on the factor:
+
+case_nn 
+free_jj 
+speech_nn 

@@ -1,0 +1,20 @@
+file = t030415
+date = 2023-09-13
+user = JewelsJones
+conversation = 107834595014675536
+URL = https://truthsocial.com/@JewelsJones/111059154306070578
+
+word count = 57
+words loading = 2
+factor score = 2
+
+1 . Chuck Schumer, the Democratic Senate Majority Leader from New York, seems 
+to have a bit of irony up his sleeve when he labeled the GOP-led impeachment 
+inquiry into President Joe Biden ' s alleged financial wrongdoings as a ' witch 
+hunt. ' It ' s quite amusing considering his own party spent the past eight 
+years politically targeting former President Donald Trump. 
+
+Lemmas in this text that loaded on the factor:
+
+hunt_nn 
+witch_nn 

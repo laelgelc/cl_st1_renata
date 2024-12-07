@@ -1,0 +1,26 @@
+file = t036730
+date = 2023-11-14
+user = RepMattGaetz
+conversation = 107820765822139728
+URL = https://truthsocial.com/@RepMattGaetz/111410579730932800
+
+word count = 111
+words loading = 4
+factor score = 4
+
+Today I ' m introducing the Parents ' Right to Know Act. In April 2023 , the 
+Department of Education issued guidance to clarify that the Family Educational 
+Rights and Privacy Act ( FERPA ) prohibits parental access to student health 
+information in the absence of student written federal government should not be 
+inhibiting parents ' ability to see records that could affect their children ' 
+s upbringing. My bill reinforces the right for parents to access medical and 
+counseling records of their children, lifting the veil of secrecy in Biden ' s 
+Education s don ' t just have a right to know what ' s happening in their 
+children ' s lives at school – they have a non-negotiable claim to: 
+
+Lemmas in this text that loaded on the factor:
+
+child_nns 
+federal_jj 
+parent_nns 
+school_nn 

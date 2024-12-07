@@ -1,0 +1,22 @@
+file = t042473
+date = 2023-08-08
+user = epochtimes
+conversation = 107814273983601296
+URL = https://truthsocial.com/@epochtimes/110854979330152269
+
+word count = 38
+words loading = 5
+factor score = 5
+
+ Hopefully, former President Trump has the courage to show up, said a Pence 
+Vice President Mike Pence has met the polling and donor threshold required to 
+qualify for the first GOP presidential nomination debate, his campaign 
+confirmed. 
+
+Lemmas in this text that loaded on the factor:
+
+campaign_nn 
+debate_nn 
+former_jj 
+nomination_nn 
+presidential_jj 

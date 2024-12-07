@@ -1,0 +1,17 @@
+file = t037600
+date = 2023-05-15
+user = ResisttheMainstream
+conversation = 107838850131880704
+URL = https://truthsocial.com/@ResisttheMainstream/110373752635533277
+
+word count = 14
+words loading = 2
+factor score = 2
+
+**red_circle_e** Newsom ' s Office Issues New Statement on Reparations Payouts, 
+Calls Out Conservative Media 
+
+Lemmas in this text that loaded on the factor:
+
+issues_nps 
+red_circle_e 

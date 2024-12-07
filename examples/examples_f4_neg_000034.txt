@@ -1,0 +1,23 @@
+file = t036091
+date = 2023-06-10
+user = RSBN
+conversation = 107804136363140448
+URL = https://truthsocial.com/@RSBN/110521520302171254
+
+word count = 67
+words loading = 4
+factor score = -4
+
+ By the way, Biden ' s got 1 , 850 boxes. . . he ' s got boxes all over the 
+place! He doesn ' t know what the hell to do with them. . . He doesn ' t want 
+to give the boxes and then they say, ' Trump is obstructioning, he ' s 
+obstructing. President Donald J. Trump responds to Biden ' s classified 
+documents being located in his garage and other locations. #gagop_h 
+@realDonaldTrump 
+
+Lemmas in this text that loaded on the factor:
+
+know_vbp 
+other_jj 
+want_vbp 
+way_nn 

@@ -1,0 +1,19 @@
+file = t000008
+date = 2024-03-03
+user = AlexJones
+conversation = 107838014712814240
+URL = https://truthsocial.com/@AlexJones/112034008508950419
+
+word count = 30
+words loading = 2
+factor score = -2
+
+#alexjonesshow_h Sunday LIVE: Trump Sweeps Primaries Ahead of Super Tuesday as 
+Democrats Vow to Steal 2024 Election Tune in ╰☆☆☆ #supportinfowars_h 
+☆☆☆╮ closed_book_e writing_hand_e Get a signed copy of ' The Great 
+Awakening ' - #1a_h 
+
+Lemmas in this text that loaded on the factor:
+
+copy_nn 
+sign_vbn 

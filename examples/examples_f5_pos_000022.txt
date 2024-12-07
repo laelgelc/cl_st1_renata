@@ -1,0 +1,21 @@
+file = t044266
+date = 2022-08-08
+user = epochtimes
+conversation = 107814273983601296
+URL = https://truthsocial.com/@epochtimes/108788234812441102
+
+word count = 41
+words loading = 4
+factor score = 4
+
+A federal lawsuit alleged that a #florida_h county school superintendent 
+transferred a 14-year-old girl out of her zoned school after the girl ' s mom 
+persevered in criticizing the school ' s teachings under the protection of the 
+state ' s new #parentalrights_h law. 
+
+Lemmas in this text that loaded on the factor:
+
+federal_jj 
+old_jj 
+school_nn 
+year 

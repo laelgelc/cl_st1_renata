@@ -1,0 +1,21 @@
+file = t044039
+date = 2022-09-26
+user = epochtimes
+conversation = 107814273983601296
+URL = https://truthsocial.com/@epochtimes/109065156033309846
+
+word count = 43
+words loading = 4
+factor score = 4
+
+ If [ Trump ] is the nominee, I won ' t be a Republican. Rep. #lizcheney_h said 
+she will not remain a Republican if former President Trump is the GOP 
+presidential nominee in 2024 , and that she will campaign for Democrats against 
+GOP nominee #karilake_h. 
+
+Lemmas in this text that loaded on the factor:
+
+former_jj 
+nominee_nn 
+presidential_jj 
+republican_jj 

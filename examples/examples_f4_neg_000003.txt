@@ -1,0 +1,25 @@
+file = t050779
+date = 2022-06-13
+user = laralogan
+conversation = 107804083470405728
+URL = https://truthsocial.com/@laralogan/108470870487458536
+
+word count = 73
+words loading = 6
+factor score = -6
+
+Good morning - what are we going to do today to stand together, united against 
+tyranny, protect all our children & fight for freedom? It starts with learning 
+the truth about January 6th & letting your leaders know you want all political 
+prisoners freed now. Jan 6th defendants imprisoned without trial - we hear your 
+cries. You are not alone. We the people are with you & will not forget. We need 
+to do more & we will. 
+
+Lemmas in this text that loaded on the factor:
+
+good_jj 
+know_vbp 
+need_vbp 
+people_nns 
+today_nn 
+want_vbp 

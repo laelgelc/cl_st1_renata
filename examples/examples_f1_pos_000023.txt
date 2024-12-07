@@ -1,0 +1,50 @@
+file = t052569
+date = 2024-05-09
+user = maxjett12
+conversation = 108319249994754560
+URL = https://truthsocial.com/@maxjett12/112411650403701207
+
+word count = 123
+words loading = 24
+factor score = 24
+
+They say that homosexuality is normal and that it is nobody ' s business what 
+two adults get up to. They say ' love is love ' and that we should all tolerate 
+it. Anybody who doesn ' t, and who doesn ' t conform to the agenda is an ' 
+Intolerant homophobic bigot. ' They want children forced into same-sex 
+households to be raised by homosexuals and believe that children should be 
+indoctrinated from the earliest age possible to support the gay agenda. 
+Children are the primary target of the homosexual agenda, as the new generation 
+they are viewed as pivotal in the ' normalization ' process. **#xteam_h** 
+**#dt47_h** **#truthtrain_h** **#phpnews_h** **#tcd_h** **#nightshift_h** 
+**#lilypadlounge_h** **#fhfnews_h** **#rpn_h** **#ratpack_h** **#twgrp_h** 
+**#thefungicrew_h** **#5dnews_h** **#wtpafu_h** **#trump2024_h** 
+**#murchmadness_h** **#ncswic_h** **#maga2024_h** **#maga_h** **#fbj_h** 
+**#truth_h** **#trumpwon_h** **#wethepeople_h** **#trump_h** 
+
+Lemmas in this text that loaded on the factor:
+
+5dnews_h 
+dt47_h 
+fbj_h 
+fhfnews_h 
+lilypadlounge_h 
+maga2024_h 
+maga_h 
+murchmadness_h 
+ncswic_h 
+nightshift_h 
+phpnews_h 
+ratpack_h 
+rpn_h 
+tcd_h 
+thefungicrew_h 
+trump2024_h 
+trump_h 
+trumpwon_h 
+truth_h 
+truthtrain_h 
+twgrp_h 
+wethepeople_h 
+wtpafu_h 
+xteam_h 

@@ -1,0 +1,21 @@
+file = t044626
+date = 2022-05-26
+user = epochtimes
+conversation = 107814273983601296
+URL = https://truthsocial.com/@epochtimes/108370149153039014
+
+word count = 37
+words loading = 4
+factor score = 4
+
+GOP lawmakers in #northcarolina_h have pushed forward a bill to protect 
+#parentsrights_h to direct their children ' s upbringing, including the right 
+to be informed of conversations the school has with their child about sex and 
+gender. 
+
+Lemmas in this text that loaded on the factor:
+
+child_nn 
+child_nns 
+school_nn 
+sex_nn 

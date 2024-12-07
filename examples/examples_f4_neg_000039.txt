@@ -1,0 +1,26 @@
+file = t037193
+date = 2024-01-31
+user = ResisttheMainstream
+conversation = 107838850131880704
+URL = https://truthsocial.com/@ResisttheMainstream/111852797210412875
+
+word count = 111
+words loading = 4
+factor score = -4
+
+Take back your economic freedom and become more self-sufficient. This RTM 
+exclusive opportunity can be the perfect gig for all freedom-loving Americans 
+who want to make a difference. Space is LIMITED. Reserve your spot today: s is 
+meaningful work, that makes a real difference in America and is very have all 
+seen how crazy this world has gotten and it seems like every week it ' s harder 
+to make ends meet. This is the solution if you are motivated and have a good 
+work depending on the government to sort itself out. Ensure that you and your 
+family are prepared. Thursday February 1st @ 8pm ET, 7pm CT, 6pm MT, 5pm PT 
+#ad_h 
+
+Lemmas in this text that loaded on the factor:
+
+good_jj 
+government_nn 
+today_nn 
+want_vbp 

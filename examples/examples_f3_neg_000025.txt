@@ -1,0 +1,20 @@
+file = t000037
+date = 2024-01-14
+user = AlexJones
+conversation = 107838014712814240
+URL = https://truthsocial.com/@AlexJones/111756584908678453
+
+word count = 36
+words loading = 2
+factor score = -2
+
+police_car_light_e police_car_light_e police_car_light_e #alexjonesshow_h 
+Emergency LIVE Broadcast: UN / WEF Warn The Planet That Arrival of Disease X is 
+Imminent — Alex Jones Exposes The Truth! ╰☆☆☆ #supportinfowars_h 
+☆☆☆╮ sparkles_e #nwowars_h AVAILABLE on Steam! closed_book_e 
+writing_hand_e Get a signed copy of ' The Great Awakening ' - #1a_h 
+
+Lemmas in this text that loaded on the factor:
+
+copy_nn 
+sign_vbn 

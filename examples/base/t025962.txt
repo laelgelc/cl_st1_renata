@@ -1,0 +1,31 @@
+Meanwhile meanwhile_RB
+, ,
+Joe joe_NP
+Biden biden_NP
+parades parade_NNS
+around around_IN
+the the_DT
+country country_NN
+saying say_VBG
+he he_PP
+' '
+s s_NNS
+waiting wait_VBG
+on on_IN
+Republicans republican_NNS
+to to_TO
+ "  "
+do do_VB
+their their
+job job_NN
+. .
+ "  "
+They they_PP
+think think_VBP
+you you_PP
+' '
+re re_IN
+not not_RB
+paying pay_VBG
+attention attention_NN
+. .

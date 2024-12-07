@@ -1,0 +1,52 @@
+ "  "
+It it_PP
+is be_VBZ
+un-American un-american_JJ
+for for_IN
+the the_DT
+ruling ruling_NN
+party party_NN
+to to_TO
+use use_VB
+police police_NN
+power power_NN
+to to_TO
+arrest arrest_VB
+its its
+political political_JJ
+rivals rival_NNS
+. .
+ "  "
+@VivekGRamaswamy twitterhandle_NP
+described describe_VBD
+the the_DT
+indictment indictment_NN
+of of_IN
+former former_JJ
+President president_NP
+@realDonaldTrump twitterhandle_NN
+as as_IN
+a a_DT
+ "  "
+dark dark_JJ
+moment moment_NN
+in in_IN
+American american_JJ
+history history_NN
+, ,
+ "  "
+warning warn_VBG
+that that_IN
+ "  "
+we we_PP
+' '
+re re_NN
+skating skating_NN
+on on_IN
+thin thin_JJ
+ice ice_NN
+as as_IN
+a a_DT
+country country_NN
+. .
+ "  "

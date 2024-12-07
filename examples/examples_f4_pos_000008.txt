@@ -1,0 +1,19 @@
+file = t054080
+date = 2022-12-23
+user = realDonaldTrump
+conversation = 107780257626128496
+URL = https://truthsocial.com/@realDonaldTrump/109560810865041541
+
+word count = 46
+words loading = 2
+factor score = 2
+
+The highly partisan Unselect Committee Report purposely fails to mention the 
+failure of Pelosi to heed my recommendation for troops to be used in D. C. , 
+show the Peacefully and Patrioticly words I used, or study the reason for the 
+protest, Election Fraud. WITCH HUNT! 
+
+Lemmas in this text that loaded on the factor:
+
+hunt_nn 
+witch_nn 

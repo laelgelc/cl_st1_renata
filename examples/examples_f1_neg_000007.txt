@@ -1,0 +1,21 @@
+file = t017483
+date = 2022-12-13
+user = DineshDSouza
+conversation = 107810096875431984
+URL = https://truthsocial.com/@DineshDSouza/109503768882299283
+
+word count = 46
+words loading = 4
+factor score = -4
+
+Sick of Big Tech hiding legitimate news stories? Me too. That ' s why I use 
+Freespoke. It ' s a free speech search engine that doesn ' t censor or silence 
+anybody, even conservatives! Try searching any news story and compare Freespoke 
+' s results to Google ' s! 
+
+Lemmas in this text that loaded on the factor:
+
+conservative_nns 
+free_jj 
+news_nn 
+speech_nn 

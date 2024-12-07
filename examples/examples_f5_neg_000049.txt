@@ -1,0 +1,17 @@
+file = t000687
+date = 2023-10-02
+user = Charliekirk
+conversation = 107804978292323344
+URL = https://truthsocial.com/@Charliekirk/111166728131327549
+
+word count = 35
+words loading = 1
+factor score = -1
+
+NEW ASK ME ANYTHING:-Why was Rome successful? What lessons does it offer today? 
+-What should we think about AOC ' s Tesla? -Is a 4-day workweek better than a 
+5-day one? -Is the GOP messing up a Joe Biden impeachment? 
+
+Lemmas in this text that loaded on the factor:
+
+impeachment_nn 

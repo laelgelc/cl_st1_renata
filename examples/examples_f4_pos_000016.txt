@@ -1,0 +1,20 @@
+file = t039597
+date = 2022-05-02
+user = TomFitton
+conversation = 107815959231929888
+URL = https://truthsocial.com/@TomFitton/108232420751741174
+
+word count = 56
+words loading = 2
+factor score = 2
+
+FITTON: HOT UPDATE: Biden Ministry of Truth is dire threat to the First 
+Amendment! It is an attack on #elonmusk_h, your free speech, and, again, free 
+and fair: New Judicial Watch lawsuits on Biden Administration ' s ABUSE of 
+Project VeritasAnd EXCLUSIVE Details on Biolab Safety Issues HERE IN U. S. ! 
+Another Big Judicial Watch Update -- 
+
+Lemmas in this text that loaded on the factor:
+
+issues_nps 
+update_nn 

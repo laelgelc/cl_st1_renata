@@ -1,0 +1,17 @@
+file = t005157
+date = 2023-08-22
+user = ConservativeBrief
+conversation = 107846872260084416
+URL = https://truthsocial.com/@ConservativeBrief/110935258900087342
+
+word count = 15
+words loading = 3
+factor score = 3
+
+Big update in the Peach you think President Trump will beat this witch hunt? ? 
+
+Lemmas in this text that loaded on the factor:
+
+hunt_nn 
+update_nn 
+witch_nn 

@@ -1,0 +1,20 @@
+file = t000038
+date = 2024-01-12
+user = AlexJones
+conversation = 107838014712814240
+URL = https://truthsocial.com/@AlexJones/111744171677802179
+
+word count = 39
+words loading = 2
+factor score = -2
+
+Watch LIVE! Friday Bombshell: TX Governor Orders State Guard to Take Control of 
+Southern Border From Treasonous Feds TUNE IN: ╰ #supportinfowars_h ╮ 
+video_game_e grinning_squinting_face_e #nwowars_h AVAILABLE on Steam! fire_e 
+closed_book_e writing_hand_e Get a signed copy of ' The Great Awakening ' while 
+you still can! #1a_h 
+
+Lemmas in this text that loaded on the factor:
+
+copy_nn 
+sign_vbn 

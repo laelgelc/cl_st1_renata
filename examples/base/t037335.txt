@@ -1,0 +1,13 @@
+red_circle_e red_circle_e
+Police police_NP
+Give give_VB
+Update update_NN
+After after_IN
+Lifelong lifelong_NP
+Patriots patriots_NP
+Fan fan_NP
+Dies dies_NP
+Following follow_VBG
+Altercation altercation_NN
+at at_IN
+Game game_NP

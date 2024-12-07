@@ -1,0 +1,20 @@
+file = t000628
+date = 2023-12-05
+user = Charliekirk
+conversation = 107804978292323344
+URL = https://truthsocial.com/@Charliekirk/111528891665584785
+
+word count = 35
+words loading = 4
+factor score = -4
+
+BREAKING: President Trump releases a new video standing up for free speech and 
+Douglass Mackey. He also finds common cause with Mackey relating his own 
+political persecution to the Regime ' s targeting of conservatives. 
+
+Lemmas in this text that loaded on the factor:
+
+breaking_nn 
+conservative_nns 
+free_jj 
+speech_nn 

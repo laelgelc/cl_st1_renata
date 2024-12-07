@@ -1,0 +1,22 @@
+file = t030613
+date = 2023-05-25
+user = JewelsJones
+conversation = 107834595014675536
+URL = https://truthsocial.com/@JewelsJones/110430663738278102
+
+word count = 74
+words loading = 3
+factor score = -3
+
+Wow, the Biden regime is really reaching new levels of absurdity! They ' re now 
+labeling Christians, conservatives, and Republicans as equivalent to Nazis in 
+their anti-terrorism program. And they ' re using taxpayer money to fund a 
+group that explicitly targets the American political right. Criminal behavior, 
+anyone? We need to wake up and understand that our country is in the middle of 
+a Marxist takeover. This is not the America we know and love. 
+
+Lemmas in this text that loaded on the factor:
+
+country_nn 
+political_jj 
+republican_nns 

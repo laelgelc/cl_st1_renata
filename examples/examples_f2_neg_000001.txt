@@ -1,0 +1,27 @@
+file = t055688
+date = 2024-03-08
+user = repgregsteube
+conversation = 107845217467776080
+URL = https://truthsocial.com/@repgregsteube/112061019457566168
+
+word count = 100
+words loading = 5
+factor score = -5
+
+Thank you to Jordan Peterson for shedding light at the Subcommittee on 
+Weaponization of the Federal Government, on Biden ' s collusion with big banks 
+to spy on Americans ' financial privacy! The danger posed by this increasing 
+ability of governments and large corporations to collude threatens everyone ' s 
+freedom equally, Peterson testified. It could well be at the moment—and I 
+think this is the point Republicans here are trying to make—is that the 
+people in the sights of that collusion tend to have more conservative leanings, 
+but that will shift in a moment whenever the political tides shift. - Dr. 
+Jordan B. Peterson 
+
+Lemmas in this text that loaded on the factor:
+
+big_jj 
+conservative_jj 
+political_jj 
+republican_nns 
+think_vbp 

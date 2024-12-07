@@ -1,0 +1,21 @@
+file = t043159
+date = 2023-03-28
+user = epochtimes
+conversation = 107814273983601296
+URL = https://truthsocial.com/@epochtimes/110101414087896352
+
+word count = 37
+words loading = 4
+factor score = 4
+
+ Our trans youth are troubled, Burchett. Tim Burchett called on police to 
+publicly release a manifesto allegedly written by the 28-year-old transgender 
+school shooter, who killed 3 children and 3 adults at The Covenant School in 
+#nashville_h. 
+
+Lemmas in this text that loaded on the factor:
+
+child_nns 
+old_jj 
+school_nn 
+year 

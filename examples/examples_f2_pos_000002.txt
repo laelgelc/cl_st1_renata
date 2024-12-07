@@ -1,0 +1,37 @@
+file = t050072
+date = 2022-05-18
+user = jncojok
+conversation = 107839448160284576
+URL = https://truthsocial.com/@jncojok/108322953108852509
+
+word count = 39
+words loading = 14
+factor score = 11
+
+@PerkyGirl1456 Help me welcome my Awesome #gettr_h friend to #truthsocial_h 
+#patriots4ever_h! ! Please give my friend a #follow_h #follow4follow_h 
+**red_heart_e** **white_heart_e** **blue_heart_e** **flag_united_states_e** 
+**flag_united_states_e** **flag_united_states_e** #patriot_h #covfefe_h 
+**#magaa_h** **#ultramaga_h** **#trumpwon_h** #wwg1wga_h **#wethepeople_h** 
+**#retruth_h** **#share_h** **#truth_h** #like_h **flag_united_states_e** 
+**flag_united_states_e** **flag_united_states_e** **flag_united_states_e** 
+#wefollowback_h **flag_united_states_e** #ifbap_h **#patriots_h** #maga_h 
+**#americafirst_h** **#america_h** #patriotsunite_h Thank you **red_heart_e** 
+**white_heart_e** **blue_heart_e** folded_hands_e folded_hands_e folded_hands_e 
+
+Lemmas in this text that loaded on the factor:
+
+america_h 
+americafirst_h 
+blue_heart_e 
+flag_united_states_e 
+magaa_h 
+patriots_h 
+red_heart_e 
+retruth_h 
+share_h 
+trumpwon_h (secondary)
+truth_h (secondary)
+ultramaga_h 
+wethepeople_h (secondary)
+white_heart_e 

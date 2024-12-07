@@ -1,0 +1,14 @@
+red_circle_e red_circle_e
+Trump trump_NP
+Issues issues_NPS
+Fiery fiery_NP
+Response response_NP
+on on_IN
+House house_NP
+GOP gop_NP
+' '
+s s_NN
+Speaker speaker_NP
+Nominee nominee_NP
+Tom tom_NP
+Emmer emmer_NP

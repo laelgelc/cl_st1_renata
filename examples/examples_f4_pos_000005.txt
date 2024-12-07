@@ -1,0 +1,18 @@
+file = t013484
+date = 2024-04-04
+user = DineshDSouza
+conversation = 107810096875431984
+URL = https://truthsocial.com/@DineshDSouza/112214552509529297
+
+word count = 16
+words loading = 3
+factor score = 3
+
+Judge steps in and delivers a HUGE ruling in Alvin Bragg ' s witch hunt 
+against: / / 
+
+Lemmas in this text that loaded on the factor:
+
+hunt_nn 
+ruling_nn 
+witch_nn 

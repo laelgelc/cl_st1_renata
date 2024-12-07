@@ -1,0 +1,21 @@
+file = t041345
+date = 2023-09-05
+user = conceptualjames
+conversation = 108602034434061744
+URL = https://truthsocial.com/@conceptualjames/111012952757555628
+
+word count = 55
+words loading = 4
+factor score = 4
+
+I have a wild idea, parents. If your kids ' school is strapping a QR code 
+around their neck and scanning it on the regular, especially for behavioral 
+reasons, it ' s past time to get your children out of that school and to ' s 
+look at PBIS. And yes, schools are using it! Full Thread thread_e: 
+
+Lemmas in this text that loaded on the factor:
+
+child_nns 
+kid_nns 
+parent_nns 
+school_nn 

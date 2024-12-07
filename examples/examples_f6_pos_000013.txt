@@ -1,0 +1,18 @@
+file = t056630
+date = 2023-11-14
+user = therealkidrock
+conversation = 108379772378225680
+URL = https://truthsocial.com/@therealkidrock/111411096768163592
+
+word count = 60
+words loading = 0
+factor score = 
+
+Hey America, if you haven ' t already heard, this summer me and some rowdy 
+friends are hitting the backroads and bringing the party to small towns across 
+the country. The presale is happening this Thursday at 10am. Sign up now to be 
+a part of the most patriotic, badass music festival of 2024 ! Everything you 
+need to know at 
+
+Lemmas in this text that loaded on the factor:
+

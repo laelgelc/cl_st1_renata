@@ -1,0 +1,50 @@
+file = t052564
+date = 2024-05-09
+user = maxjett12
+conversation = 108319249994754560
+URL = https://truthsocial.com/@maxjett12/112413608744542362
+
+word count = 116
+words loading = 24
+factor score = 24
+
+We are never commanded to be pacifists, in the usual sense of the word. Rather, 
+we are to hate what is evil and cling to what is good ( Romans 12:9 ) . In 
+doing so we must take a stand against evil in this world ( which requires 
+conflict ) and pursue righteousness ( 2 Timothy 2:22 ) . Jesus modeled this 
+pursuit and never shrank from conflict when it was part of the Father ' s 
+sovereign plan. Jesus spoke openly against the religious and political rulers 
+of His time because they were not seeking the righteousness of God ( Luke 
+13:31–32 ; 19:45–47 ) . **#xteam_h** **#dt47_h** **#truthtrain_h** 
+**#phpnews_h** **#tcd_h** **#nightshift_h** **#lilypadlounge_h** **#fhfnews_h** 
+**#rpn_h** **#ratpack_h** **#twgrp_h** **#thefungicrew_h** **#5dnews_h** 
+**#wtpafu_h** **#trump2024_h** **#murchmadness_h** **#ncswic_h** 
+**#maga2024_h** **#maga_h** **#fbj_h** **#truth_h** **#trumpwon_h** 
+**#wethepeople_h** **#trump_h** 
+
+Lemmas in this text that loaded on the factor:
+
+5dnews_h 
+dt47_h 
+fbj_h 
+fhfnews_h 
+lilypadlounge_h 
+maga2024_h 
+maga_h 
+murchmadness_h 
+ncswic_h 
+nightshift_h 
+phpnews_h 
+ratpack_h 
+rpn_h 
+tcd_h 
+thefungicrew_h 
+trump2024_h 
+trump_h 
+trumpwon_h 
+truth_h 
+truthtrain_h 
+twgrp_h 
+wethepeople_h 
+wtpafu_h 
+xteam_h 

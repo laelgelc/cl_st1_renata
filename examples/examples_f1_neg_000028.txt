@@ -1,0 +1,23 @@
+file = t000499
+date = 2024-05-22
+user = Charliekirk
+conversation = 107804978292323344
+URL = https://truthsocial.com/@Charliekirk/112486684346245086
+
+word count = 73
+words loading = 3
+factor score = -3
+
+UK Prime Minister Rishi Sunak has announced that Britons will hold a general 
+election on July 4 , the first in 14 years. The far-left Labour Party is 
+expected to trounce the conservatives. And honestly, rightly so. Conservatives 
+in the UK have been cowardly, feckless, and without vision. Let this be a 
+warning to US conservatives. If you govern as Democrat-lite, you will lose 
+everything. The people deserve and demand a courageous alternative opposition 
+party. 
+
+Lemmas in this text that loaded on the factor:
+
+conservative_nns 
+far 
+left_jj 

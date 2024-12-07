@@ -1,0 +1,31 @@
+file = t039601
+date = 2024-04-29
+user = TonyGrimmsTales
+conversation = 108328142512447216
+URL = https://truthsocial.com/@TonyGrimmsTales/112352190092836481
+
+word count = 175
+words loading = 5
+factor score = -4
+
+The writing is on the wall. Trump will win by a huge margin. Joe ' s ( and 
+others ) cheating, lying, propaganda news shield won ' t be enough this time. 
+Both sides know this and this is why we are starting to see protests. This 
+playbook is known. This or that provocative action which leads to a desired and 
+preplanned outcome that favors a particular side. Simply look at what the Nazis 
+did to give themselves permission to invade Poland. It seems obvious, with 
+Trump ' s victory looming, some level of disruption is desired ( by the left ) 
+to take away from a Trump presidency. Don ' t be fooled by the masked shows we 
+are getting. The campus kids, the patriot front party ( and probably more to 
+come ) are all trying to conceal themselves in order to look the part. 
+Conservatives don ' t wear masks and act like this. This is simply being done 
+as a show to stir up problems and direct blame. Again, look up the 1939 
+Gleiwitz incident. Don ' t buy it, be peaceful. 
+
+Lemmas in this text that loaded on the factor:
+
+conservative_nns 
+kid_nns (secondary)
+news_nn 
+patriot_nn 
+win_vb 

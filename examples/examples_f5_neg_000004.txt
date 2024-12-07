@@ -1,0 +1,27 @@
+file = t011756
+date = 2024-06-08
+user = DC_Draino
+conversation = 107813989985461776
+URL = https://truthsocial.com/@DC_Draino/112582284433957075
+
+word count = 157
+words loading = 2
+factor score = -2
+
+Prediction: Undercover FBI, ATF, and / or CIA agents coerce dumb 
+anti-government types to either bomb or engage in a tactical attack with AR-15s 
+against a government target in the 2-3 months prior to the 2024 electionMedia 
+will then push a firestorm about how Trump extremists want to violently 
+overthrow the government No Trump supporters want this type of incidentWe know 
+Trump ' s polls are higher than ever and the end is near for Deep State 
+scumbags after we win legally snd peacefully in 2024If you see something, say 
+somethingDon ' t go to the feds to report it - go to local police and sheriffs 
+you can trustWe the People have to stop some BS attack like this from happening 
+If we don ' t, it will be used by the Deep State to further rig our elections 
+and engage in a political crackdown against Trump supporters that will make the 
+1 , 000+ J6 trials look like a WNBA game ( without Caitlyn Clark ) 
+
+Lemmas in this text that loaded on the factor:
+
+election_nns 
+poll_nns 

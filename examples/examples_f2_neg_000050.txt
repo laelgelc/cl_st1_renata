@@ -1,0 +1,20 @@
+file = t043746
+date = 2022-11-16
+user = epochtimes
+conversation = 107814273983601296
+URL = https://truthsocial.com/@epochtimes/109351177127848264
+
+word count = 43
+words loading = 3
+factor score = -3
+
+ The status quo is broken and big change is needed. It ' s time for new 
+leadership in the Senate that unites Republicans to advance a bold conservative 
+agenda. Sen. Rick Scott announced he ' s challenging Sen. Mitch McConnell as 
+Senate Republican Leader. 
+
+Lemmas in this text that loaded on the factor:
+
+big_jj 
+conservative_jj 
+republican_nns 

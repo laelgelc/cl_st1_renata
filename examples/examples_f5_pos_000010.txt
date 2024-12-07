@@ -1,0 +1,22 @@
+file = t056129
+date = 2023-06-28
+user = seanhannity
+conversation = 107803381972948240
+URL = https://truthsocial.com/@seanhannity/110622698552265172
+
+word count = 64
+words loading = 4
+factor score = 4
+
+TRUMP: I will immediately sign an executive order to cut federal funding for 
+any school pushing critical race theory, gender insanity, and other 
+inappropriate racial, sexual, or political content on our children. I will keep 
+men out of women ' s sports. And I will sign a law prohibiting child sexual 
+mutilation in all 50 states. Can you believe you have to say that? 
+
+Lemmas in this text that loaded on the factor:
+
+child_nn 
+child_nns 
+federal_jj 
+school_nn 

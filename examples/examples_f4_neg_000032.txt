@@ -1,0 +1,23 @@
+file = t030440
+date = 2023-08-26
+user = JewelsJones
+conversation = 107834595014675536
+URL = https://truthsocial.com/@JewelsJones/110955657495073172
+
+word count = 70
+words loading = 4
+factor score = -4
+
+Breitbart News: Rep. Byron Donalds declared that Donald Trump won the first GOP 
+presidential primary debate without participating in it. It ' s a one-person 
+race with a lot of other people in the race, he explained. In the grand scheme, 
+Donald Trump ' s the winner of this debate. Nobody on that stage, from what I 
+saw, really galvanized Republicans in a way that you can then directly 
+challenge Donald Trump. 
+
+Lemmas in this text that loaded on the factor:
+
+first_jj 
+other_jj 
+people_nns 
+way_nn 

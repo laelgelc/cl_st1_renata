@@ -1,0 +1,24 @@
+file = t011269
+date = 2023-03-10
+user = DCTheMan
+conversation = 109678637844306528
+URL = https://truthsocial.com/@DCTheMan/110000080031733075
+
+word count = 81
+words loading = 5
+factor score = -5
+
+What I believe was a good stirring for the GOP was not just handing McCarthy 
+the speakership. They ' re doing a lot more work now than they had been in many 
+years. The real work is not really going to begin until we can get all these 
+investigations into the bad actors out of the way. We need to do a purge and 
+oust everyone who lied to the American people before we can start fresh for the 
+American people. 
+
+Lemmas in this text that loaded on the factor:
+
+good_jj 
+many_jj 
+need_vbp 
+people_nns 
+way_nn 

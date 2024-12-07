@@ -1,0 +1,20 @@
+file = t030189
+date = 2024-02-05
+user = JewelsJones
+conversation = 107834595014675536
+URL = https://truthsocial.com/@JewelsJones/111880571799575589
+
+word count = 44
+words loading = 3
+factor score = -3
+
+play_button_e Republicans at war over $118 BILLION border bill: Mitch McConnell 
+faces fury over new law that would shut down border if crossings reach 5 , 000 
+a day and ends ' catch and release ' as GOP colleagues say it ' s even WORSE 
+than expected movie_camera_e:36 seconds 
+
+Lemmas in this text that loaded on the factor:
+
+bill_nn 
+law_nn 
+republican_nns 

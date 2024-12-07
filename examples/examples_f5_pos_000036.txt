@@ -1,0 +1,20 @@
+file = t040847
+date = 2023-07-01
+user = breitbartnews
+conversation = 107833145315165904
+URL = https://truthsocial.com/@breitbartnews/110636896452745676
+
+word count = 35
+words loading = 4
+factor score = 4
+
+In yet another example of the Biden family ' s extreme cruelty to children, 
+Hunter Biden ' s 4-year-old daughter, Navy Joan, will reportedly no longer be 
+using his surname as part of the child support settlement. 
+
+Lemmas in this text that loaded on the factor:
+
+child_nn 
+child_nns 
+old_jj 
+year 

@@ -1,0 +1,21 @@
+file = t017903
+date = 2022-09-20
+user = DineshDSouza
+conversation = 107810096875431984
+URL = https://truthsocial.com/@DineshDSouza/109032431634107380
+
+word count = 39
+words loading = 4
+factor score = -4
+
+Today: Why digital platforms are not newspapers but rather common carriers with 
+an obligation to respect free speech. How Facebook snitches on conservatives to 
+the FBI. Marine Lt. Col. Stuart Scheller on crossing the military high command. 
+Watch! 
+
+Lemmas in this text that loaded on the factor:
+
+conservative_nns 
+free_jj 
+speech_nn 
+watch_nn 

@@ -1,0 +1,18 @@
+file = t004477
+date = 2023-10-19
+user = ConservativeBrief
+conversation = 107846872260084416
+URL = https://truthsocial.com/@ConservativeBrief/111261983646775904
+
+word count = 22
+words loading = 3
+factor score = -3
+
+BREAKING: Court Employee Arrested for GOING AT Trump in CourtroomThis is what 
+President Trump is having to deal with in far-left New: / / 
+
+Lemmas in this text that loaded on the factor:
+
+breaking_nn 
+far 
+left_jj 

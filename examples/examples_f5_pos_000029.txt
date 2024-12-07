@@ -1,0 +1,21 @@
+file = t042449
+date = 2023-08-14
+user = epochtimes
+conversation = 107814273983601296
+URL = https://truthsocial.com/@epochtimes/110890377535587597
+
+word count = 33
+words loading = 4
+factor score = 4
+
+ It was started as an after-school program…it has turned into an 
+indoctrination camp. Left-wing organizations are recruiting radical groups to 
+pressure small towns into accepting their pushing of transgender ideology on 
+children, according to locals. 
+
+Lemmas in this text that loaded on the factor:
+
+child_nns 
+left 
+school_nn 
+wing_jj 

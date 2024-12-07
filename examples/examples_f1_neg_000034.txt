@@ -1,0 +1,20 @@
+file = t000670
+date = 2023-11-01
+user = Charliekirk
+conversation = 107804978292323344
+URL = https://truthsocial.com/@Charliekirk/111337262682363089
+
+word count = 35
+words loading = 3
+factor score = -3
+
+One year ago, Elon Musk bought Twitter and renamed it X. Now, America ' s 
+politics is radically different: Free speech is back, and ideas that were once 
+unthinkable are now boldly proclaimed to millions. **police_car_light_e** 
+down_arrow_e 
+
+Lemmas in this text that loaded on the factor:
+
+free_jj 
+police_car_light_e 
+speech_nn 

@@ -1,0 +1,51 @@
+file = t052589
+date = 2024-05-08
+user = maxjett12
+conversation = 108319249994754560
+URL = https://truthsocial.com/@maxjett12/112403027245816012
+
+word count = 149
+words loading = 24
+factor score = 24
+
+This afternoon President Biden claimed, I haven ' t been to China. This is 
+FALSE! In 2013 , then-Vice President Biden and his son Hunter flew aboard Air 
+Force Two to China. Ten days later, Hunter Biden ' s firm scored a $1 . 5 
+BILLION deal with a subsidiary of the Chinese government ' s Bank of China. 
+According to NBC News: What wasn ' t known then was that as he accompanied his 
+father to China, Hunter Biden was forming a Chinese private equity fund that 
+associates said at the time was planning to raise big money, including from 
+China. Hunter Biden has acknowledged meeting with Jonathan Li, a Chinese banker 
+and his partner in the fund during the trip, although his spokesman says it was 
+a social visit. **#xteam_h** **#dt47_h** **#truthtrain_h** **#phpnews_h** 
+**#tcd_h** **#nightshift_h** **#lilypadlounge_h** **#fhfnews_h** **#rpn_h** 
+**#ratpack_h** **#twgrp_h** **#thefungicrew_h** **#5dnews_h** **#wtpafu_h** 
+**#trump2024_h** **#murchmadness_h** **#ncswic_h** **#maga2024_h** **#maga_h** 
+**#fbj_h** **#truth_h** **#trumpwon_h** **#wethepeople_h** **#trump_h** 
+
+Lemmas in this text that loaded on the factor:
+
+5dnews_h 
+dt47_h 
+fbj_h 
+fhfnews_h 
+lilypadlounge_h 
+maga2024_h 
+maga_h 
+murchmadness_h 
+ncswic_h 
+nightshift_h 
+phpnews_h 
+ratpack_h 
+rpn_h 
+tcd_h 
+thefungicrew_h 
+trump2024_h 
+trump_h 
+trumpwon_h 
+truth_h 
+truthtrain_h 
+twgrp_h 
+wethepeople_h 
+wtpafu_h 
+xteam_h 

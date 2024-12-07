@@ -1,0 +1,19 @@
+file = t001608
+date = 2023-06-30
+user = CitizenFreePress
+conversation = 108274591401172032
+URL = https://truthsocial.com/@CitizenFreePress/110633544165962083
+
+word count = 21
+words loading = 3
+factor score = -3
+
+**police_car_light_e** **police_car_light_e** **police_car_light_e** Breaking: 
+Christian web designer wins at Supreme Court in 6-3 decisionProfessor Jonathan 
+Turley calls it an enormous win for free speech. 
+
+Lemmas in this text that loaded on the factor:
+
+free_jj 
+police_car_light_e 
+speech_nn 

@@ -1,0 +1,15 @@
+file = t056639
+date = 2022-05-09
+user = truthsocial
+conversation = 107759501782461328
+URL = https://truthsocial.com/@truthsocial/108274163537052821
+
+word count = 20
+words loading = 0
+factor score = 
+
+The wait is OVER! Don ' t miss out on our inaugural, limited edition 
+#truthsocial_h Patriot hat — get yours today: 
+
+Lemmas in this text that loaded on the factor:
+

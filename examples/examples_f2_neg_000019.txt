@@ -1,0 +1,22 @@
+file = t010517
+date = 2023-07-19
+user = DCTheMan
+conversation = 109678637844306528
+URL = https://truthsocial.com/@DCTheMan/110740270303407702
+
+word count = 53
+words loading = 3
+factor score = -3
+
+DEMOCRATS ARE GONNA BE BIG MAD THEY CAN ' T MUTILATE CHILDREN ' S GENITALIA! 
+smiling_face_with_hearts_e smiling_face_with_hearts_e 
+smiling_face_with_hearts_e The law would ban doctors from prescribing hormone 
+therapy and puberty blockers to minors, and from administering 
+gender-transition surgical procedures, according to NOLA. The state legislature 
+passed the bill in June, only to be vetoed by Gov. John Bel: / / 
+
+Lemmas in this text that loaded on the factor:
+
+accord_vbg 
+bill_nn 
+law_nn 

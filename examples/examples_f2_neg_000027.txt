@@ -1,0 +1,19 @@
+file = t032492
+date = 2023-01-31
+user = NewsMax
+conversation = 107764331655353184
+URL = https://truthsocial.com/@NewsMax/109784173494875625
+
+word count = 36
+words loading = 3
+factor score = -3
+
+ No one should be surprised that big corporate media has an agenda, that agenda 
+is to shape the country. Former Pennsylvania Sen. Rick Santorum sounds off on 
+censorship of conservative media by Big Tech. @RobFinnerty 
+
+Lemmas in this text that loaded on the factor:
+
+big_jj 
+conservative_jj 
+country_nn 

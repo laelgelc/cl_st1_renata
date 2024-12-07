@@ -1,0 +1,24 @@
+file = t010311
+date = 2023-09-01
+user = DCTheMan
+conversation = 109678637844306528
+URL = https://truthsocial.com/@DCTheMan/110987249257950347
+
+word count = 91
+words loading = 5
+factor score = -5
+
+The reason they attacked children like that is to try and convince as many 
+children as possible that they were born into the wrong body and therefore 
+there is no need for them to procreate. I see videos and articles of people all 
+the time who claim to be any one of the three million other genders but they ' 
+re also not in relationships. So in reality, they don ' t even know what they 
+want enough to go out and try to have a part of their plan for DEPOPULATION. 
+
+Lemmas in this text that loaded on the factor:
+
+know_vbp 
+many_jj 
+other_jj 
+people_nns 
+want_vbp 

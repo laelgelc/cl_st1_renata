@@ -1,0 +1,51 @@
+file = t052571
+date = 2024-05-09
+user = maxjett12
+conversation = 108319249994754560
+URL = https://truthsocial.com/@maxjett12/112411620370860887
+
+word count = 134
+words loading = 24
+factor score = 24
+
+According to DHS status indicators, over 433 , 000 criminal aliens have been 
+booked into local Texas jails between June 1 , 2011 , and April 30 , 2024 , of 
+which over 305 , 000 were classified as illegal aliens by n June 1 , 2011 , and 
+April 30 , 2024 , these 305 , 000 illegal aliens were charged with more than 
+525 , 000 criminal offenses which included arrests for 981 homicide charges; 66 
+, 702 assault charges; 9 , 509 burglary charges; 61 , 628 drug charges; 1 , 201 
+kidnapping charges; 26 , 469 theft charges; 40 , 968 obstructing police 
+charges; 3 , 022 robbery charges; 6 , 642 sexual assault charges; 7 , 663 
+sexual offense charges; and 6 , 448 weapon charges. **#xteam_h** **#dt47_h** 
+**#truthtrain_h** **#phpnews_h** **#tcd_h** **#nightshift_h** 
+**#lilypadlounge_h** **#fhfnews_h** **#rpn_h** **#ratpack_h** **#twgrp_h** 
+**#thefungicrew_h** **#5dnews_h** **#wtpafu_h** **#trump2024_h** 
+**#murchmadness_h** **#ncswic_h** **#maga2024_h** **#maga_h** **#fbj_h** 
+**#truth_h** **#trumpwon_h** **#wethepeople_h** **#trump_h** 
+
+Lemmas in this text that loaded on the factor:
+
+5dnews_h 
+dt47_h 
+fbj_h 
+fhfnews_h 
+lilypadlounge_h 
+maga2024_h 
+maga_h 
+murchmadness_h 
+ncswic_h 
+nightshift_h 
+phpnews_h 
+ratpack_h 
+rpn_h 
+tcd_h 
+thefungicrew_h 
+trump2024_h 
+trump_h 
+trumpwon_h 
+truth_h 
+truthtrain_h 
+twgrp_h 
+wethepeople_h 
+wtpafu_h 
+xteam_h 

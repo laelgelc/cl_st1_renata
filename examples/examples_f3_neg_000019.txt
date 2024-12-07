@@ -1,0 +1,21 @@
+file = t000028
+date = 2024-02-04
+user = AlexJones
+conversation = 107838014712814240
+URL = https://truthsocial.com/@AlexJones/111875514371448827
+
+word count = 54
+words loading = 2
+factor score = -2
+
+military_medal_e military_medal_e military_medal_e #alexjonesshow_h Sunday 
+LIVE: Tune in Now to The Most Censored Broadcast in the World & Find Out Why 
+the Globalists Fear Alex Jones & How He Can Stop Their Agenda Dead in Its 
+Tracks Tune in here: ╰☆☆☆ #supportinfowars_h ☆☆☆╮ » » » Play 
+#nwowars_h! NOW ON STEAM! ! » » » Get a signed copy of ' The Great Awakening 
+' while you still can! 
+
+Lemmas in this text that loaded on the factor:
+
+copy_nn 
+sign_vbn 

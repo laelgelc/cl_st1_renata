@@ -1,0 +1,19 @@
+file = t030662
+date = 2023-05-09
+user = JewelsJones
+conversation = 107834595014675536
+URL = https://truthsocial.com/@JewelsJones/110339960888642625
+
+word count = 17
+words loading = 4
+factor score = -4
+
+BREAKING: Far-Left Judge Blocks Trump From Posting Details About Stormy Daniels 
+' Hush Payment ' Case to Social Media 
+
+Lemmas in this text that loaded on the factor:
+
+breaking_nn 
+case_nn 
+far 
+left_jj 

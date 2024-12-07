@@ -1,0 +1,30 @@
+file = t052529
+date = 2024-05-14
+user = maxjett12
+conversation = 108319249994754560
+URL = https://truthsocial.com/@maxjett12/112439708960607217
+
+word count = 135
+words loading = 4
+factor score = -4
+
+Feel screwed yet? In 1986 , three million illegal immigrants in the United 
+States were given the right to become citizens. It was a full-scale amnesty, 
+created by a bipartisan majority in Congress and signed into law by President 
+Reagan. It had one big flaw. The amnesty went into effect immediately. And 
+strong measures to secure the border with Mexico and prosecute employers who 
+hired illegals were to follow. The goal was to stop illegal immigration once 
+and for all, while allowing those here illegally to stay. But strengthened 
+enforcement never happened—that was the flaw—and the bill produced a 
+perverse result. Rather than halt the flow of illegal immigrants, the 1986 law 
+actually spurred millions more to come. . . #xteam_h #dt47_h #truthtrain_h 
+#phpnews_h #tcd_h #nightshift_h #lilypadlounge_h #fhfnews_h #rpn_h #ratpack_h 
+#twgrp_h #thefungicrew_h #5dnews_h #wtpafu_h #trump2024_h #murchmadness_h 
+#ncswic_h #maga2024_h #maga_h #fbj_h 
+
+Lemmas in this text that loaded on the factor:
+
+big_jj 
+bill_nn 
+law_nn 
+majority_nn 

@@ -1,0 +1,21 @@
+file = t000033
+date = 2024-01-23
+user = AlexJones
+conversation = 107838014712814240
+URL = https://truthsocial.com/@AlexJones/111806390198786583
+
+word count = 44
+words loading = 2
+factor score = -2
+
+prohibited_e EMERGENCY BROADCAST: Supreme Court Actively Joins Globalists In 
+Destruction of US Border & the Demise of America! Are They Being Blackmailed? 
+Alex Jones Reports! prohibited_e TUNE IN - #alexjonesshow_h 
+backhand_index_pointing_down_e closed_book_e writing_hand_e Get a signed copy 
+of ' The Great Awakening ' & help keep Infowars & Alex Jones on air! 
+backhand_index_pointing_down_e - #supportinfowars_h #1a_h 
+
+Lemmas in this text that loaded on the factor:
+
+copy_nn 
+sign_vbn 

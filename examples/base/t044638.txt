@@ -1,0 +1,17 @@
+Incumbents incumbent_NNS
+are be_VBP
+expected expect_VBN
+to to_TO
+prevail prevail_VB
+in in_IN
+the the_DT
+GOP gop_NP
+primary primary_JJ
+elections election_NNS
+in in_IN
+#southdakota_h southdakota_h
+, ,
+recent recent_JJ
+polls poll_NNS
+indicate indicate_VBP
+. .

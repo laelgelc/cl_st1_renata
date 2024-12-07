@@ -1,0 +1,17 @@
+file = t037338
+date = 2023-10-12
+user = ResisttheMainstream
+conversation = 107838850131880704
+URL = https://truthsocial.com/@ResisttheMainstream/111222195487942966
+
+word count = 15
+words loading = 2
+factor score = 2
+
+**red_circle_e** Biden Says He ' s Seen ' Confirmed Pictures ' of Hamas 
+Beheading Children, WH Issues Clarification 
+
+Lemmas in this text that loaded on the factor:
+
+issues_nps 
+red_circle_e 

@@ -1,0 +1,35 @@
+ "  "
+Del del_FW
+. .
+Dan dan_NP
+Cox cox_NP
+defeated defeat_VBD
+former former_JJ
+state state_NN
+Commerce commerce_NP
+Secretary secretary_NP
+Kelly kelly_NP
+Schulz schulz_NP
+to to_TO
+win win_VB
+the the_DT
+Republican republican_JJ
+nomination nomination_NN
+for for_IN
+governor governor_NN
+in in_IN
+a a_DT
+competitive competitive_JJ
+race race_NN
+that that_WDT
+pitted pit_VBD
+two two_CD
+sides side_NNS
+of of_IN
+the the_DT
+GOP gop_NP
+against against_IN
+each each_DT
+other other_JJ
+. .
+ "  "

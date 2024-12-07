@@ -1,0 +1,28 @@
+file = t000603
+date = 2024-01-05
+user = Charliekirk
+conversation = 107804978292323344
+URL = https://truthsocial.com/@Charliekirk/111704919368169349
+
+word count = 112
+words loading = 5
+factor score = -5
+
+Molly Ball, Time Magazine: To the President, something felt amiss. ' It was all 
+very, very strange, ' Trump said on Dec. 2 . ' Within days after the election, 
+we witnessed an orchestrated effort to anoint the winner, even while many key 
+states were still being counted. ' In a way, Trump was right. There was a 
+conspiracy unfolding behind the scenes…Their work touched every aspect of the 
+election. They got states to change voting systems and laws and helped secure 
+hundreds of millions in public and private funding. They fended off 
+voter-suppression lawsuits, recruited armies of poll workers and got millions 
+of people to vote by mail for the first time. They successfully pressured 
+social media companies … 
+
+Lemmas in this text that loaded on the factor:
+
+first_jj 
+many_jj 
+people_nns 
+say_vbd 
+way_nn 

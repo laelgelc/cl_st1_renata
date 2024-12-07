@@ -1,0 +1,16 @@
+file = t000191
+date = 2023-04-19
+user = AlexJones
+conversation = 107838014712814240
+URL = https://truthsocial.com/@AlexJones/110228188849053747
+
+word count = 12
+words loading = 1
+factor score = -1
+
+Dominion-Fox Settlement Set to Enforce on Free Speech for Questioning Stolen 
+Elections 
+
+Lemmas in this text that loaded on the factor:
+
+election_nns 

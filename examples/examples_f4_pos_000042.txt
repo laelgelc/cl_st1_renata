@@ -1,0 +1,17 @@
+file = t037335
+date = 2023-10-13
+user = ResisttheMainstream
+conversation = 107838850131880704
+URL = https://truthsocial.com/@ResisttheMainstream/111225034088396568
+
+word count = 13
+words loading = 2
+factor score = 2
+
+**red_circle_e** Police Give Update After Lifelong Patriots Fan Dies Following 
+Altercation at Game 
+
+Lemmas in this text that loaded on the factor:
+
+red_circle_e 
+update_nn 

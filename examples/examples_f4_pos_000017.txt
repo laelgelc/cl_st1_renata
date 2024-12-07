@@ -1,0 +1,17 @@
+file = t038151
+date = 2022-04-20
+user = ResisttheMainstream
+conversation = 107838850131880704
+URL = https://truthsocial.com/@ResisttheMainstream/108161629039292800
+
+word count = 13
+words loading = 2
+factor score = 2
+
+**red_circle_e** Federal Judge Issues Ruling on Lawsuit Challenging GOP Rep. 
+Greene ' s Re-Election Bid 
+
+Lemmas in this text that loaded on the factor:
+
+issues_nps 
+red_circle_e 

@@ -1,0 +1,24 @@
+file = t041549
+date = 2022-12-16
+user = conceptualjames
+conversation = 108602034434061744
+URL = https://truthsocial.com/@conceptualjames/109524110782505923
+
+word count = 76
+words loading = 5
+factor score = -5
+
+As I ' ve been saying. This is their greatest magic spell. It was cast so many 
+times over the American people, particularly today ' s professional class 
+during their formative years, countless times with great effect by Jon Stewart, 
+who played a major role in destroying they can make the entire professional 
+class react reflexively against anything that might seem conservative, they 
+only need a very small conspiracy that will operate like a very big conspiracy. 
+
+Lemmas in this text that loaded on the factor:
+
+great_jj 
+many_jj 
+need_vbp 
+people_nns 
+today_nn 

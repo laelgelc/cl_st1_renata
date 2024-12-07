@@ -1,0 +1,25 @@
+file = t038250
+date = 2023-12-14
+user = ScottPresler
+conversation = 107832303017566256
+URL = https://truthsocial.com/@ScottPresler/111580646775206022
+
+word count = 96
+words loading = 4
+factor score = -4
+
+rock_e Kentucky Has A Problem rock_e KY is a closed primary state. This means 
+that if you want to vote in the Republican presidential primary, you MUST be 
+registered as a Republican. However, the deadline to change your party 
+affiliation is Sunday, December are more than 300 , 000 people registered as 
+Independent / Other — they will not be able to participate in the May, please 
+take a moment to check your Kentucky voter registration status. Then, also send 
+this information to anyone you know in won ' t hear this information from the 
+GOP, but you will from me. 
+
+Lemmas in this text that loaded on the factor:
+
+know_vbp 
+other_jj 
+people_nns 
+want_vbp 

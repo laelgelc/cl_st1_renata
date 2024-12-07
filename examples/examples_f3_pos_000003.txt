@@ -1,0 +1,23 @@
+file = t043901
+date = 2022-10-24
+user = epochtimes
+conversation = 107814273983601296
+URL = https://truthsocial.com/@epochtimes/109224189470234642
+
+word count = 42
+words loading = 6
+factor score = 6
+
+Former Secretary of State #mikepompeo_h has no qualms about running for the 
+2024 presidential race even if former president Donald Trump makes his bid, he 
+said in an Trump wins the 2024 GOP nomination, Pompeo said he will vote for 
+him. 
+
+Lemmas in this text that loaded on the factor:
+
+bid_nn 
+former_jj 
+nomination_nn 
+president_nn 
+presidential_jj 
+race_nn 

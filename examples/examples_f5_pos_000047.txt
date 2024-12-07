@@ -1,0 +1,20 @@
+file = t034026
+date = 2022-05-29
+user = QAnnon
+conversation = 107879560233869216
+URL = https://truthsocial.com/@QAnnon/108386613880892022
+
+word count = 28
+words loading = 4
+factor score = 4
+
+March 31 , 2022Tanglewood Middle in Greenville, South Carolina1 dead • 0 
+injured • 800 children present in schoolA 12-year-old boy shot and killed 
+another student, also 12 , inside the school. 
+
+Lemmas in this text that loaded on the factor:
+
+child_nns 
+old_jj 
+school_nn 
+year 

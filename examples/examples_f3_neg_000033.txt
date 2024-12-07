@@ -1,0 +1,18 @@
+file = t000054
+date = 2023-12-17
+user = AlexJones
+conversation = 107838014712814240
+URL = https://truthsocial.com/@AlexJones/111598051150029572
+
+word count = 28
+words loading = 2
+factor score = -2
+
+#alexjonesshow_h Sunday LIVE: Letitia James Confesses to Framing Donald Trump 
+in Staged New York Show Trial TUNE IN: diamond_suit_e Support: diamond_suit_e 
+Get a signed copy of ' THE GREAT AWAKENING ' : 
+
+Lemmas in this text that loaded on the factor:
+
+copy_nn 
+sign_vbn 

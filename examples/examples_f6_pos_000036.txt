@@ -1,0 +1,16 @@
+file = t056606
+date = 2022-05-14
+user = tednugent
+conversation = 107834528142172976
+URL = https://truthsocial.com/@tednugent/108300734510679708
+
+word count = 31
+words loading = 0
+factor score = 
+
+Spending the day in Austin Texas today with the great President Trump and real 
+American patriots performing a firebreathing Star-Spangled Banner and raising 
+maximum freedom hell to revive our wonderful country. ￼ 
+
+Lemmas in this text that loaded on the factor:
+

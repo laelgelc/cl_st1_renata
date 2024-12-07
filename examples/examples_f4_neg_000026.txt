@@ -1,0 +1,24 @@
+file = t010479
+date = 2023-07-26
+user = DCTheMan
+conversation = 109678637844306528
+URL = https://truthsocial.com/@DCTheMan/110781436109465266
+
+word count = 82
+words loading = 4
+factor score = -4
+
+SO I JUST HAD A THOUGHT, A VERY DISTURBING THOUGHT. . . . . We all know that 
+Democrats, PedoWood & all of the other liberal Elites drink the blood of 
+children for the adrenochrome. Adrenochrome is said to be strongest when the 
+child has been BRUTALLY TORTURED to create more adrenaline. A lot of these 
+people also have children of their own. Do you think they might have also 
+brought their children up drinking adrenochrome? Like in their baby bottles? 
+Like good little Satan worshipers? 
+
+Lemmas in this text that loaded on the factor:
+
+good_jj 
+know_vbp 
+other_jj 
+people_nns 

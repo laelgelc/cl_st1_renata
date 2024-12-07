@@ -1,0 +1,14 @@
+file = t056611
+date = 2022-05-01
+user = tednugent
+conversation = 107834528142172976
+URL = https://truthsocial.com/@tednugent/108227799038411093
+
+word count = 4
+words loading = 0
+factor score = 
+
+Freedom smells good! ￼ 
+
+Lemmas in this text that loaded on the factor:
+

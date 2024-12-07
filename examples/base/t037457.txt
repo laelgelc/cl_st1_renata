@@ -1,0 +1,17 @@
+red_circle_e red_circle_e
+' '
+Sound sound_NN
+of of_IN
+Freedom freedom_NP
+' '
+Star star_NP
+Issues issues_NPS
+Dire dire_NP
+Warning warning_NP
+to to_TO
+Parents𝘐𝘯 parents𝘐𝘯
+𝘤𝘢𝘴𝘦 𝘤𝘢𝘴𝘦
+𝘺𝘰𝘶 𝘺𝘰𝘶
+𝘮𝘪𝘴𝘴𝘦𝘥 𝘮𝘪𝘴𝘴𝘦𝘥
+𝘪𝘵 𝘪𝘵
+. .

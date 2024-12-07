@@ -1,0 +1,20 @@
+file = t041948
+date = 2024-02-08
+user = epochtimes
+conversation = 107814273983601296
+URL = https://truthsocial.com/@epochtimes/111897086556143859
+
+word count = 22
+words loading = 5
+factor score = 5
+
+The former president faces little opposition as Nevada GOP voters head to a 
+caucus carrying 26 delegates toward the Republican presidential: / / 
+
+Lemmas in this text that loaded on the factor:
+
+former_jj 
+president_nn 
+presidential_jj 
+republican_jj 
+voter_nns 

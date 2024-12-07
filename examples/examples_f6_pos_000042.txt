@@ -1,0 +1,15 @@
+file = t056599
+date = 2022-08-17
+user = tednugent
+conversation = 107834528142172976
+URL = https://truthsocial.com/@tednugent/108838490832089641
+
+word count = 23
+words loading = 0
+factor score = 
+
+When the freedom they wished for most was freedom from responsibility, then 
+Athens ceased to be free and was never free Hamilton 
+
+Lemmas in this text that loaded on the factor:
+

@@ -1,0 +1,21 @@
+file = t032040
+date = 2023-08-24
+user = NewsMax
+conversation = 107764331655353184
+URL = https://truthsocial.com/@NewsMax/110945670499857591
+
+word count = 36
+words loading = 5
+factor score = 5
+
+Former South Carolina Gov. Nikki Haley ' s polling is barely flatlining in the 
+GOP presidential primary, but she got a shoutout from an unlikely source during 
+Wednesday night ' s first Republican debate — the White more: 
+
+Lemmas in this text that loaded on the factor:
+
+debate_nn 
+former_jj 
+presidential_jj 
+primary_nn 
+republican_jj 

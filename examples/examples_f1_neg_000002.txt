@@ -1,0 +1,22 @@
+file = t000752
+date = 2023-08-03
+user = Charliekirk
+conversation = 107804978292323344
+URL = https://truthsocial.com/@Charliekirk/110826850884355526
+
+word count = 44
+words loading = 5
+factor score = -4
+
+Jack Smith ' s indictment isn ' t just about locking up Donald Trump. . . Don 
+Jr. joined to react to the latest attack on his father ' s political movement, 
+and Rep. Dan Bishop linked the case to the wider left-wing offensive against 
+free speech across America **police_car_light_e** down_arrow_e 
+
+Lemmas in this text that loaded on the factor:
+
+case_nn 
+free_jj 
+indictment_nn (secondary)
+police_car_light_e 
+speech_nn 

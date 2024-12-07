@@ -1,0 +1,22 @@
+file = t010526
+date = 2023-07-16
+user = DCTheMan
+conversation = 109678637844306528
+URL = https://truthsocial.com/@DCTheMan/110726048930358180
+
+word count = 45
+words loading = 5
+factor score = 5
+
+A 39-year-old child sex offender is accused of pretending to be a doctor to get 
+near ill children at a Chicago hospital in May 2002 , authorities required 
+Christopher Chothen register as a sex offender after he was convicted of 
+abducting, restraining, and sexually abusing a: / / 
+
+Lemmas in this text that loaded on the factor:
+
+child_nn 
+child_nns 
+old_jj 
+sex_nn 
+year 

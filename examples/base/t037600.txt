@@ -1,0 +1,16 @@
+red_circle_e red_circle_e
+Newsom newsom_NP
+' '
+s s_JJ
+Office office_NP
+Issues issues_NPS
+New new_NP
+Statement statement_NP
+on on_IN
+Reparations reparations_NP
+Payouts payouts_NP
+, ,
+Calls calls_NP
+Out out_NP
+Conservative conservative_NP
+Media media_NP

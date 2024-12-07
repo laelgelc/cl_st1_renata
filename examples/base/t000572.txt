@@ -1,0 +1,34 @@
+This this_DT
+should should_MD
+be be_VB
+a a_DT
+five five_CD
+alarm alarm_NN
+fire fire_NN
+for for_IN
+Republicans republican_NNS
+as as_IN
+conservatives conservative_NNS
+are be_VBP
+consistently consistently_RB
+underperforming underperform_VBG
+polls:The polls:the
+Federalist federalist_NP
+: :
+ "  "
+How how_WRB
+Many many_JJ
+Elections election_NNS
+Must must_MD
+High-Polling high-polling_NP
+Republicans republicans_NPS
+Lose lose_NP
+To to_TO
+Learn learn_NP
+Ballots ballots_NP
+Matter matter_NP
+More more_JJR
+Than than_IN
+Votes votes_NP
+? ?
+ "  "

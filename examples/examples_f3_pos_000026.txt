@@ -1,0 +1,22 @@
+file = t031742
+date = 2024-01-16
+user = NewsMax
+conversation = 107764331655353184
+URL = https://truthsocial.com/@NewsMax/111766607770664426
+
+word count = 49
+words loading = 5
+factor score = 5
+
+BREAKING NEWS: Former Arkansas Gov. Asa Hutchinson dropped his long shot bid 
+for the Republican presidential nomination Tuesday, ending a candidacy that 
+served as a throwback to an earlier era of the GOP but ultimately failed to 
+resonate in a party now dominated by Donald Trump. Read more: 
+
+Lemmas in this text that loaded on the factor:
+
+bid_nn 
+former_jj 
+nomination_nn 
+presidential_jj 
+republican_jj 

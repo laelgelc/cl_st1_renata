@@ -1,0 +1,35 @@
+The the_DT
+18-year-old 18-year-old_JJ
+suspect suspect_NN
+who who_WP
+allegedly allegedly_RB
+shot shoot_VBD
+and and_CC
+killed kill_VBD
+19 @card@
+children child_NNS
+at at_IN
+a a_DT
+#texas_h texas_h
+school school_NN
+allegedly allegedly_RB
+messaged messaged_VBD
+a a_DT
+stranger stranger_NN
+, ,
+saying say_VBG
+: :
+ "  "
+I i_NP
+' '
+m m_NN
+about about_RB
+to to_TO
+ "  "
+hours hour_NNS
+before before_IN
+Tuesday tuesday_NP
+' '
+s s_NN
+incident incident_NN
+. .

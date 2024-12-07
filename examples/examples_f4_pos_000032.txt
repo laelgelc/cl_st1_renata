@@ -1,0 +1,17 @@
+file = t037640
+date = 2023-04-17
+user = ResisttheMainstream
+conversation = 107838850131880704
+URL = https://truthsocial.com/@ResisttheMainstream/110211248635535889
+
+word count = 13
+words loading = 2
+factor score = 2
+
+**red_circle_e** Brian Kemp Issues Indirect Warning to GOP About Trump Election 
+Fraud Claims 
+
+Lemmas in this text that loaded on the factor:
+
+issues_nps 
+red_circle_e 

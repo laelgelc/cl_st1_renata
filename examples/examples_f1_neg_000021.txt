@@ -1,0 +1,21 @@
+file = t051041
+date = 2024-02-07
+user = maga420
+conversation = 107834188191138752
+URL = https://truthsocial.com/@maga420/111887566174196913
+
+word count = 37
+words loading = 4
+factor score = -4
+
+BREAKING: **police_car_light_e** Ronna McDaniel steps down as RNC Chairwoman! 
+right_arrow_e In a shocking turn of events, the Republican National Committee 
+is set to see a change in leadership. Stay informed and share the news! 
+**eyes_e** #ronnamcdanielresigns_h #rnc_h #politics_h #gop_h 
+
+Lemmas in this text that loaded on the factor:
+
+breaking_nn 
+eyes_e 
+news_nn 
+police_car_light_e 

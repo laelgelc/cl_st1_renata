@@ -1,0 +1,19 @@
+file = t039013
+date = 2023-01-28
+user = ThePatriotVoice
+conversation = 107834263369962160
+URL = https://truthsocial.com/@ThePatriotVoice/109769350499888136
+
+word count = 25
+words loading = 4
+factor score = 4
+
+ I will cut federal funding for any school that is pushing sexual content on 
+our children! And we will protect parents rights. - POTUS @realDonaldTrump 
+
+Lemmas in this text that loaded on the factor:
+
+child_nns 
+federal_jj 
+parent_nns 
+school_nn 

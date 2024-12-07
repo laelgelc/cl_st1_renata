@@ -1,0 +1,20 @@
+file = t044650
+date = 2022-05-25
+user = epochtimes
+conversation = 107814273983601296
+URL = https://truthsocial.com/@epochtimes/108363339744919070
+
+word count = 28
+words loading = 4
+factor score = 4
+
+The 18-year-old suspect who allegedly shot and killed 19 children at a #texas_h 
+school allegedly messaged a stranger, saying: I ' m about to hours before 
+Tuesday ' s incident. 
+
+Lemmas in this text that loaded on the factor:
+
+child_nns 
+old_jj 
+school_nn 
+year 

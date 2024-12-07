@@ -1,0 +1,36 @@
+file = t050034
+date = 2022-05-22
+user = jncojok
+conversation = 107839448160284576
+URL = https://truthsocial.com/@jncojok/108345944115136192
+
+word count = 62
+words loading = 10
+factor score = 8
+
+Stop the power grab from the #who_h Protect US sovereignty! ! Follow this link 
+to be connected to all of your reps and senators now! ! I just did this and I ' 
+ve already heard back! ! Don ' t let up! #fightback_h #nuremburg2_h #maga_h 
+**#ultramaga_h** **#darkmaga_h** **#wethepeople_h** **#america_h** 
+**#patriots_h** #treason_h #nuremburg2_h #who_h **#americafirst_h** #freedom_h 
+#patriot_h **#truth_h** #truthsocial_h #like_h **#share_h** #repost_h 
+**#retruth_h** ACTION ACTION ACTION **flag_united_states_e** 
+**flag_united_states_e** **flag_united_states_e** **flag_united_states_e** 
+**flag_united_states_e** **flag_united_states_e** **flag_united_states_e** 
+**flag_united_states_e** **flag_united_states_e** **flag_united_states_e** 
+**flag_united_states_e** **flag_united_states_e** **flag_united_states_e** 
+**flag_united_states_e** **flag_united_states_e** **flag_united_states_e** 
+**flag_united_states_e** 
+
+Lemmas in this text that loaded on the factor:
+
+america_h 
+americafirst_h 
+darkmaga_h 
+flag_united_states_e 
+patriots_h 
+retruth_h 
+share_h 
+truth_h (secondary)
+ultramaga_h 
+wethepeople_h (secondary)

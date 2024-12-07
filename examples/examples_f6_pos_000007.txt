@@ -1,0 +1,16 @@
+file = t056636
+date = 2022-08-17
+user = truthsocial
+conversation = 107759501782461328
+URL = https://truthsocial.com/@truthsocial/108839611686569035
+
+word count = 20
+words loading = 0
+factor score = 
+
+Please give a BIG #truthsocial_h welcome to famed Staind frontman Aaron Lewis! 
+sign_of_the_horns_e guitar_e fire_e You can follow him here @patriot1972 ! 
+#youcantcensorthetruth_h 
+
+Lemmas in this text that loaded on the factor:
+

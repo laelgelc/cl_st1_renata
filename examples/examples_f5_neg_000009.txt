@@ -1,0 +1,16 @@
+file = t027713
+date = 2022-10-27
+user = JennaEllisEsq
+conversation = 107810042577943552
+URL = https://truthsocial.com/@JennaEllisEsq/109242479727162347
+
+word count = 11
+words loading = 2
+factor score = -2
+
+BREAKING: Judge Delivers Massive Ruling on Mail-In Ballots Days Before Midterms 
+
+Lemmas in this text that loaded on the factor:
+
+massive_jj 
+midterm_nns 

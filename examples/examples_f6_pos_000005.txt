@@ -1,0 +1,18 @@
+file = t056638
+date = 2022-07-20
+user = truthsocial
+conversation = 107759501782461328
+URL = https://truthsocial.com/@truthsocial/108682311499118947
+
+word count = 52
+words loading = 0
+factor score = 
+
+We are humbled by the welcome #truthsocial_h is receiving across the pond! 
+flag_united_kingdom_e folded_hands_e A big THANK YOU to those who ' ve joined 
+so far, including anti-Big Tech provocateur and free speech champion @RealPJW! 
+And, in case you missed it, here ' s Truth Social CEO @DevinNunes announcing 
+#truthuk_h on GB News with Nigel Farage: 
+
+Lemmas in this text that loaded on the factor:
+

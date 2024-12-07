@@ -1,0 +1,16 @@
+file = t000584
+date = 2024-01-28
+user = Charliekirk
+conversation = 107804978292323344
+URL = https://truthsocial.com/@Charliekirk/111835505527217711
+
+word count = 15
+words loading = 1
+factor score = -1
+
+NEW: House GOP file impeachment articles against Biden ' s DHS sec over border 
+invasion 
+
+Lemmas in this text that loaded on the factor:
+
+impeachment_nn 

@@ -1,0 +1,25 @@
+file = t055666
+date = 2024-06-14
+user = repgregsteube
+conversation = 107845217467776080
+URL = https://truthsocial.com/@repgregsteube/112616189803874624
+
+word count = 73
+words loading = 5
+factor score = -4
+
+**police_car_light_e** The House passed my amendment to protect children in DoD 
+schools from radical gender ideology and explicit sexual content. We cannot 
+allow federally operated schools to promote these harmful ideologies to our 
+military-connected service members ' children – and all children – deserve 
+an education free from inappropriate materials that can disrupt their learning 
+and development. We must prioritize a safe and focused educational environment 
+for all our kids, free from far-left extremism. Read more here: 
+
+Lemmas in this text that loaded on the factor:
+
+far 
+free_jj 
+kid_nns (secondary)
+left_jj 
+police_car_light_e 

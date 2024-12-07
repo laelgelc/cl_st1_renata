@@ -1,0 +1,22 @@
+file = t000013
+date = 2024-02-26
+user = AlexJones
+conversation = 107838014712814240
+URL = https://truthsocial.com/@AlexJones/111998898838033597
+
+word count = 48
+words loading = 2
+factor score = -2
+
+Monday LIVE: Investigation Confirms Elon Musk ' s X Is Censoring Infowars In 
+Many Ways! Alex Jones Asks the Question: Is Elon Musk Behind This or Is It 
+Leftist Stay-behinds in the Organization? backhand_index_pointing_down_e WATCH 
+THE BROADCAST NOW backhand_index_pointing_down_e closed_book_e writing_hand_e 
+Get a signed copy of ' The Great Awakening ' & help support Infowars! - 
+#alexjonesshow_h - backhand_index_pointing_down_e 
+backhand_index_pointing_down_e backhand_index_pointing_down_e 
+
+Lemmas in this text that loaded on the factor:
+
+copy_nn 
+sign_vbn 

@@ -1,0 +1,17 @@
+file = t044638
+date = 2022-05-25
+user = epochtimes
+conversation = 107814273983601296
+URL = https://truthsocial.com/@epochtimes/108364519917287610
+
+word count = 16
+words loading = 2
+factor score = -2
+
+Incumbents are expected to prevail in the GOP primary elections in 
+#southdakota_h, recent polls indicate. 
+
+Lemmas in this text that loaded on the factor:
+
+election_nns 
+poll_nns 

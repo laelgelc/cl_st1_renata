@@ -1,0 +1,18 @@
+file = t031816
+date = 2023-12-14
+user = NewsMax
+conversation = 107764331655353184
+URL = https://truthsocial.com/@NewsMax/111579663464619908
+
+word count = 31
+words loading = 2
+factor score = -2
+
+BIG TRUMP LEAD: Former President Donald Trump returned to Iowa, telling 
+supporters they must attend the Jan. 15 GOP caucus and vote despite his massive 
+lead in the polls. MORE: 
+
+Lemmas in this text that loaded on the factor:
+
+massive_jj 
+poll_nns 

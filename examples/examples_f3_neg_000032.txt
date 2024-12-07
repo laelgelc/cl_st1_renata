@@ -1,0 +1,19 @@
+file = t000050
+date = 2023-12-27
+user = AlexJones
+conversation = 107838014712814240
+URL = https://truthsocial.com/@AlexJones/111653524485487683
+
+word count = 38
+words loading = 2
+factor score = -2
+
+globe_showing_americas_e Alex Jones Returns! WWIII, Collapsing Borders, The 
+Great Awakening, It ' s All Going Down — This is an Absolute Must-Watch / 
+Share Transmission! — Tune In LIVE for Critical Analysis From Alex Jones! ! 
+closed_book_e writing_hand_e Get a signed copy of ' The Great Awakening ' 
+
+Lemmas in this text that loaded on the factor:
+
+copy_nn 
+sign_vbn 

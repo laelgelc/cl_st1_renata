@@ -1,0 +1,12 @@
+Dominion-Fox dominion-fox_NP
+Settlement settlement_NP
+Set set_NP
+to to_TO
+Enforce enforce_NP
+on on_IN
+Free free_NP
+Speech speech_NP
+for for_IN
+Questioning questioning_NP
+Stolen stolen_NP
+Elections election_NNS

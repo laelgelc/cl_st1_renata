@@ -1,0 +1,20 @@
+file = t001445
+date = 2023-10-03
+user = CitizenFreePress
+conversation = 108274591401172032
+URL = https://truthsocial.com/@CitizenFreePress/111172826750263105
+
+word count = 42
+words loading = 3
+factor score = -3
+
+Gaetz going off: The only Republicans in America who believe the debt limit 
+deal was conservative are in this chamber right now. Because all over America, 
+Republicans think that when you negotiated that debt limit deal, they took your 
+lunch money. 
+
+Lemmas in this text that loaded on the factor:
+
+conservative_jj 
+republican_nns 
+think_vbp 

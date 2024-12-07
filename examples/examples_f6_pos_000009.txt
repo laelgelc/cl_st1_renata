@@ -1,0 +1,18 @@
+file = t056634
+date = 2022-10-28
+user = truthsocial
+conversation = 107759501782461328
+URL = https://truthsocial.com/@truthsocial/109246667427340007
+
+word count = 53
+words loading = 0
+factor score = 
+
+After asking us for comment on this asinine hit piece, NBC refused to publish 
+our quote. Here ' s what we told them: After betraying every standard of 
+journalism by peddling the Russia collusion hoax, NBC takes the next step 
+toward the gutter with Soviet-style hyping of the intolerable danger of free 
+speech. #fakenewsfriday_h 
+
+Lemmas in this text that loaded on the factor:
+

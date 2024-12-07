@@ -1,0 +1,22 @@
+file = t040802
+date = 2024-03-20
+user = breitbartnews
+conversation = 107833145315165904
+URL = https://truthsocial.com/@breitbartnews/112129365248612151
+
+word count = 44
+words loading = 5
+factor score = 5
+
+Former President Donald Trump @realDonaldTrump, the presumptive Republican 
+nominee for president in 2024 , told Breitbart News exclusively that the 
+primary drivers of demographic shifts in the electorate where women and 
+minority voters are leaving Democrats to side with him are safety and security. 
+
+Lemmas in this text that loaded on the factor:
+
+former_jj 
+nominee_nn 
+president_nn 
+republican_jj 
+voter_nns 
